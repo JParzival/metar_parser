@@ -1,0 +1,734 @@
+,Name,City,Country,IATA,ICAO
+205,Blida Airport,Blida,Algeria,QLD,DAAB
+206,Bou Saada Airport,Bou Saada,Algeria,BUJ,DAAD
+207,Soummam Airport,Bejaja,Algeria,BJA,DAAE
+208,Houari Boumediene Airport,Algier,Algeria,ALG,DAAG
+209,Djanet Inedbirene Airport,Djanet,Algeria,DJG,DAAJ
+210,Boufarik Airport,Boufarik,Algeria,\N,DAAK
+211,Reggane Airport,Reggan,Algeria,\N,DAAN
+212,Illizi Takhamalt Airport,Illizi,Algeria,VVZ,DAAP
+213,Ain Oussera Airport,Ain Oussera,Algeria,\N,DAAQ
+214,Aguenar – Hadj Bey Akhamok Airport,Tamanrasset,Algeria,TMR,DAAT
+215,Jijel Ferhat Abbas Airport,Jijel,Algeria,GJL,DAAV
+216,Mecheria Airport,Mecheria,Algeria,MZW,DAAY
+217,Relizane Airport,Relizane,Algeria,\N,DAAZ
+218,Rabah Bitat Airport,Annaba,Algeria,AAE,DABB
+219,Mohamed Boudiaf International Airport,Constantine,Algeria,CZL,DABC
+220,Cheikh Larbi Tébessi Airport,Tebessa,Algeria,TEE,DABS
+221,Hassi R'Mel Airport,Tilrempt,Algeria,HRM,DAFH
+222,Bou Chekif Airport,Tiaret,Algeria,TID,DAOB
+223,Bou Sfer Airport,Bou Sfer,Algeria,\N,DAOE
+224,Tindouf Airport,Tindouf,Algeria,TIN,DAOF
+225,Ech Cheliff Airport,Ech-cheliff,Algeria,CFK,DAOI
+226,Tafaraoui Airport,Oran,Algeria,TAF,DAOL
+227,Zenata – Messali El Hadj Airport,Tlemcen,Algeria,TLM,DAON
+228,Es Senia Airport,Oran,Algeria,ORN,DAOO
+229,Sidi Bel Abbes Airport,Sidi Bel Abbes,Algeria,BFW,DAOS
+230,Ghriss Airport,Ghriss,Algeria,MUW,DAOV
+231,Touat Cheikh Sidi Mohamed Belkebir Airport,Adrar,Algeria,AZR,DAUA
+232,Biskra Airport,Biskra,Algeria,BSK,DAUB
+233,El Golea Airport,El Golea,Algeria,ELG,DAUE
+234,Noumérat - Moufdi Zakaria Airport,Ghardaia,Algeria,GHA,DAUG
+235,Oued Irara Airport,Hassi Messaoud,Algeria,HME,DAUH
+236,In Salah Airport,In Salah,Algeria,INZ,DAUI
+237,Touggourt Sidi Madhi Airport,Touggourt,Algeria,TGR,DAUK
+238,Laghouat Airport,Laghouat,Algeria,LOO,DAUL
+239,Timimoun Airport,Timimoun,Algeria,TMX,DAUT
+240,Ain el Beida Airport,Ouargla,Algeria,OGX,DAUU
+241,In Aménas Airport,Zarzaitine,Algeria,IAM,DAUZ
+242,Cadjehoun Airport,Cotonou,Benin,COO,DBBB
+243,Ouagadougou Airport,Ouagadougou,Burkina Faso,OUA,DFFD
+244,Bobo Dioulasso Airport,Bobo-dioulasso,Burkina Faso,BOY,DFOO
+245,Kotoka International Airport,Accra,Ghana,ACC,DGAA
+246,Tamale Airport,Tamale,Ghana,TML,DGLE
+247,Wa Airport,Wa,Ghana,\N,DGLW
+248,Sunyani Airport,Sunyani,Ghana,NYI,DGSN
+249,Takoradi Airport,Takoradi,Ghana,TKD,DGTK
+250,Port Bouet Airport,Abidjan,Cote d'Ivoire,ABJ,DIAP
+251,Bouaké Airport,Bouake,Cote d'Ivoire,BYK,DIBK
+252,Daloa Airport,Daloa,Cote d'Ivoire,DJO,DIDL
+253,Korhogo Airport,Korhogo,Cote d'Ivoire,HGO,DIKO
+254,Man Airport,Man,Cote d'Ivoire,MJC,DIMN
+255,San Pedro Airport,San Pedro,Cote d'Ivoire,SPY,DISP
+256,Yamoussoukro Airport,Yamoussoukro,Cote d'Ivoire,ASK,DIYO
+257,Nnamdi Azikiwe International Airport,Abuja,Nigeria,ABV,DNAA
+258,Akure Airport,Akure,Nigeria,AKR,DNAK
+259,Benin Airport,Benin,Nigeria,BNI,DNBE
+260,Margaret Ekpo International Airport,Calabar,Nigeria,CBQ,DNCA
+261,Akanu Ibiam International Airport,Enugu,Nigeria,ENU,DNEN
+262,Gusau Airport,Gusau,Nigeria,\N,DNGU
+263,Ibadan Airport,Ibadan,Nigeria,IBA,DNIB
+264,Ilorin International Airport,Ilorin,Nigeria,ILR,DNIL
+265,Yakubu Gowon Airport,Jos,Nigeria,JOS,DNJO
+266,Kaduna Airport,Kaduna,Nigeria,KAD,DNKA
+267,Mallam Aminu International Airport,Kano,Nigeria,KAN,DNKN
+268,Maiduguri International Airport,Maiduguri,Nigeria,MIU,DNMA
+269,Makurdi Airport,Makurdi,Nigeria,MDI,DNMK
+270,Murtala Muhammed International Airport,Lagos,Nigeria,LOS,DNMM
+271,Minna Airport,Minna,Nigeria,MXJ,DNMN
+272,Port Harcourt International Airport,Port Hartcourt,Nigeria,PHC,DNPO
+273,Sadiq Abubakar III International Airport,Sokoto,Nigeria,SKO,DNSO
+274,Yola Airport,Yola,Nigeria,YOL,DNYO
+275,Zaria Airport,Zaria,Nigeria,ZAR,DNZA
+276,Maradi Airport,Maradi,Niger,MFQ,DRRM
+277,Diori Hamani International Airport,Niamey,Niger,NIM,DRRN
+278,Tahoua Airport,Tahoua,Niger,THZ,DRRT
+279,Mano Dayak International Airport,Agadez,Niger,AJY,DRZA
+280,Dirkou Airport,Dirkou,Niger,\N,DRZD
+281,Diffa Airport,Diffa,Niger,\N,DRZF
+282,Zinder Airport,Zinder,Niger,ZND,DRZR
+283,Monastir Habib Bourguiba International Airport,Monastir,Tunisia,MIR,DTMB
+284,Tunis Carthage International Airport,Tunis,Tunisia,TUN,DTTA
+285,Sidi Ahmed Air Base,Bizerte,Tunisia,\N,DTTB
+286,Remada Air Base,Remada,Tunisia,\N,DTTD
+287,Gafsa Ksar International Airport,Gafsa,Tunisia,GAF,DTTF
+288,Gabès Matmata International Airport,Gabes,Tunisia,GAE,DTTG
+289,Borj El Amri Airport,Bordj El Amri,Tunisia,\N,DTTI
+290,Djerba Zarzis International Airport,Djerba,Tunisia,DJE,DTTJ
+291,El Borma Airport,El Borma,Tunisia,EBM,DTTR
+292,Sfax Thyna International Airport,Sfax,Tunisia,SFA,DTTX
+293,Tozeur Nefta International Airport,Tozeur,Tunisia,TOE,DTTZ
+294,Niamtougou International Airport,Niatougou,Togo,LRL,DXNG
+295,Lomé-Tokoin Airport,Lome,Togo,LFW,DXXX
+773,Alexander Bay Airport,Alexander Bay,South Africa,ALJ,FAAB
+774,Aggeneys Airport,Aggeneys,South Africa,AGZ,FAAG
+775,Brakpan Airport,Brakpan,South Africa,\N,FABB
+776,Bisho Airport,Bisho,South Africa,BIY,FABE
+777,Bram Fischer International Airport,Bloemfontein,South Africa,BFN,FABL
+778,Bethlehem Airport,Bethlehem,South Africa,\N,FABM
+779,Hendrik Potgieter Airport,Bothaville,South Africa,\N,FABO
+780,Cape Town International Airport,Cape Town,South Africa,CPT,FACT
+781,Calvinia Airport,Calvinia,South Africa,\N,FACV
+782,King Shaka International Airport,Durban,South Africa,DUR,FALE
+783,Ben Schoeman Airport,East London,South Africa,ELS,FAEL
+784,Ermelo Airport,Ermelo,South Africa,\N,FAEO
+785,Ficksburg Sentraoes Airport,Ficksburg,South Africa,FCB,FAFB
+786,Grand Central Airport,Johannesburg,South Africa,GCJ,FAGC
+787,George Airport,George,South Africa,GRJ,FAGG
+788,Graaff Reinet Airport,Graaff Reinet,South Africa,\N,FAGR
+789,Grahamstown Airport,Grahamstown,South Africa,\N,FAGT
+790,Greytown Airport,Greytown,South Africa,\N,FAGY
+791,Harmony Airport,Harmony,South Africa,\N,FAHA
+792,Harrismith Airport,Harrismith,South Africa,HRS,FAHR
+793,Hoedspruit Air Force Base Airport,Hoedspruit,South Africa,HDS,FAHS
+794,Gariep Dam Airport,Hendrik Verwoerddam,South Africa,\N,FAHV
+795,OR Tambo International Airport,Johannesburg,South Africa,JNB,FAOR
+796,P C Pelser Airport,Klerksdorp,South Africa,KXE,FAKD
+797,Kimberley Airport,Kimberley,South Africa,KIM,FAKM
+798,Krugersdorp Airport,Krugersdorp,South Africa,\N,FAKR
+799,Kroonstad Airport,Kroonstad,South Africa,\N,FAKS
+800,Johan Pienaar Airport,Kuruman,South Africa,KMH,FAKU
+801,Kleinsee Airport,Kleinsee,South Africa,KLZ,FAKZ
+802,Lanseria Airport,Johannesburg,South Africa,HLA,FALA
+803,Lichtenburg Airport,Lichtenburg,South Africa,\N,FALI
+804,Makhado Air Force Base Airport,Lambertsbaai,South Africa,\N,FALM
+805,Langebaanweg Airport,Langebaanweg,South Africa,SDB,FALW
+806,Ladysmith Airport,Ladysmith,South Africa,LAY,FALY
+807,Middelburg Airport,Middelburg,South Africa,\N,FAMB
+808,Margate Airport,Margate,South Africa,MGH,FAMG
+809,Marble Hall Airport,Marble Hall,South Africa,\N,FAMI
+810,Majuba Power Station Airport,Majuba Power Station,South Africa,\N,FAMJ
+811,Riverside Airport,Malalane,South Africa,LLE,FAMN
+812,Morningside Farm Airport,Musina,South Africa,\N,FAMS
+813,Mkuze Airport,Mkuze,South Africa,MZQ,FAMU
+814,Newcastle Airport,Newcastle,South Africa,NCS,FANC
+815,Nylstroom Airfield,Nylstroom,South Africa,\N,FANY
+816,Overberg Airport,Overberg,South Africa,OVG,FAOB
+817,Oudtshoorn Airport,Oudtshoorn,South Africa,OUH,FAOH
+818,Port Elizabeth Airport,Port Elizabeth,South Africa,PLZ,FAPE
+819,Plettenberg Bay Airport,Plettenberg Bay,South Africa,PBZ,FAPG
+820,Hendrik Van Eck Airport,Phalaborwa,South Africa,PHW,FAPH
+821,Pietersburg Municipal Airport,Polokwane,South Africa,\N,FAPI
+822,Port St Johns Airport,Port Saint Johns,South Africa,JOH,FAPJ
+823,Pietermaritzburg Airport,Pietermaritzburg,South Africa,PZB,FAPM
+824,Pilanesberg International Airport,Pilanesberg,South Africa,NTY,FAPN
+825,Polokwane International Airport,Potgietersrus,South Africa,PTG,FAPP
+826,Potchefstroom Airport,Potchefstroom,South Africa,PCF,FAPS
+827,Parys Airport,Parys,South Africa,\N,FAPY
+828,Queenstown Airport,Queenstown,South Africa,UTW,FAQT
+829,Richards Bay Airport,Richard's Bay,South Africa,RCB,FARB
+830,Rustenburg Airport,Rustenburg,South Africa,\N,FARG
+831,Robertson Airport,Robertson,South Africa,ROD,FARS
+832,Springbok Airport,Springbok,South Africa,SBU,FASB
+833,Secunda Airport,Secunda,South Africa,ZEC,FASC
+834,Saldanha /Vredenburg Airport,Saldanha,South Africa,\N,FASD
+835,Springs Airfield,Springs,South Africa,\N,FASI
+836,Swartkop Air Force Base,Swartkop,South Africa,\N,FASK
+837,Sishen Airport,Sishen,South Africa,SIS,FASS
+838,Hendrik Swellengrebel Airport,Swellendam,South Africa,\N,FASX
+839,Skukuza Airport,Skukuza,South Africa,SZK,FASZ
+840,Tommys Field Airport,Tommy's Field,South Africa,\N,FATF
+841,New Tempe Airport,Bloemfontein,South Africa,\N,FATP
+842,Tutuka Power Station Airport,Tutuka,South Africa,\N,FATT
+843,Tzaneen Airport,Tzaneen,South Africa,LTA,FATZ
+844,Prince Mangosuthu Buthelezi Airport,Ulundi,South Africa,ULD,FAUL
+845,Pierre Van Ryneveld Airport,Upington,South Africa,UTN,FAUP
+846,K. D. Matanzima Airport,Umtata,South Africa,UTT,FAUT
+847,Vryburg Airport,Vryburg,South Africa,VRU,FAVB
+848,Virginia Airport,Durban,South Africa,VIR,FAVG
+849,Vredendal Airport,Vredendal,South Africa,VRE,FAVR
+850,Vereeniging Airport,Vereeniging,South Africa,\N,FAVV
+851,Wonderboom Airport,Pretoria,South Africa,PRY,FAWB
+852,Witbank Airport,Witbank,South Africa,\N,FAWI
+853,Waterkloof Air Force Base,Waterkloof,South Africa,WKF,FAWK
+854,Welkom Airport,Welkom,South Africa,\N,FAWM
+855,Ysterplaat Air Force Base,Ysterplaat,South Africa,\N,FAYP
+856,Zeerust Airport,Zeerust,South Africa,\N,FAZR
+857,Francistown Airport,Francistown,Botswana,FRW,FBFT
+858,Jwaneng Airport,Jwaneng,Botswana,JWA,FBJW
+859,Kasane Airport,Kasane,Botswana,BBK,FBKE
+860,Maun Airport,Maun,Botswana,MUB,FBMN
+861,Sir Seretse Khama International Airport,Gaberone,Botswana,GBE,FBSK
+862,Selebi Phikwe Airport,Selebi-phikwe,Botswana,PKW,FBSP
+863,Maya-Maya Airport,Brazzaville,Congo (Brazzaville),BZV,FCBB
+864,Owando Airport,Owando,Congo (Kinshasa),FTX,FCOO
+865,Ouesso Airport,Ouesso,Congo (Kinshasa),OUE,FCOU
+866,Pointe Noire Airport,Pointe-noire,Congo (Brazzaville),PNR,FCPP
+867,Matsapha Airport,Manzini,Swaziland,MTS,FDMS
+868,Bangui M'Poko International Airport,Bangui,Central African Republic,BGF,FEFF
+869,Berbérati Airport,Berberati,Central African Republic,BBT,FEFT
+870,Bata Airport,Bata,Equatorial Guinea,BSG,FGBT
+871,Malabo Airport,Malabo,Equatorial Guinea,SSG,FGSL
+872,RAF Ascension Island,Wide Awake,Saint Helena,ASI,FHAW
+873,Sir Seewoosagur Ramgoolam International Airport,Plaisance,Mauritius,MRU,FIMP
+874,Sir Charles Gaetan Duval Airport,Rodriguez Island,Mauritius,RRG,FIMR
+875,Diego Garcia Naval Support Facility,Diego Garcia Island,British Indian Ocean Territory,NKW,FJDG
+876,Tiko Airport,Tiko,Cameroon,TKC,FKKC
+877,Douala International Airport,Douala,Cameroon,DLA,FKKD
+878,Salak Airport,Maroua,Cameroon,MVR,FKKL
+879,Foumban Nkounja Airport,Foumban,Cameroon,FOM,FKKM
+880,N'Gaoundéré Airport,N'gaoundere,Cameroon,NGE,FKKN
+881,Garoua International Airport,Garoua,Cameroon,GOU,FKKR
+882,Bafoussam Airport,Bafoussam,Cameroon,BFX,FKKU
+883,Bamenda Airport,Bamenda,Cameroon,BPC,FKKV
+884,Yaoundé Airport,Yaounde,Cameroon,YAO,FKKY
+885,Kasompe Airport,Kasompe,Zambia,CGJ,FLKE
+886,Livingstone Airport,Livingstone,Zambia,LVI,FLLI
+887,Kenneth Kaunda International Airport Lusaka,Lusaka,Zambia,LUN,FLLS
+888,Mfuwe Airport,Mfuwe,Zambia,MFU,FLMF
+889,Mongu Airport,Mongu,Zambia,MNR,FLMG
+890,Simon Mwansa Kapwepwe International Airport,Ndola,Zambia,NLA,FLND
+891,Southdowns Airport,Southdowns,Zambia,KIW,FLSO
+892,Prince Said Ibrahim International Airport,Moroni,Comoros,HAH,FMCH
+893,Mohéli Bandar Es Eslam Airport,Moheli,Comoros,NWA,FMCI
+894,Ouani Airport,Anjouan,Comoros,AJN,FMCV
+895,Dzaoudzi Pamandzi International Airport,Dzaoudzi,Mayotte,DZA,FMCZ
+896,Roland Garros Airport,St.-denis,Reunion,RUN,FMEE
+897,Pierrefonds Airport,St.-pierre,Reunion,ZSE,FMEP
+898,Ivato Airport,Antananarivo,Madagascar,TNR,FMMI
+899,Miandrivazo Airport,Miandrivazo,Madagascar,ZVA,FMMN
+900,Sainte Marie Airport,Sainte Marie,Madagascar,SMS,FMMS
+901,Toamasina Airport,Toamasina,Madagascar,TMM,FMMT
+902,Morondava Airport,Morondava,Madagascar,MOQ,FMMV
+903,Arrachart Airport,Antsiranana,Madagascar,DIE,FMNA
+904,Mananara Nord Airport,Mananara,Madagascar,WMR,FMNC
+905,Andapa Airport,Andapa,Madagascar,ZWA,FMND
+906,Ambilobe Airport,Ambilobe,Madagascar,AMB,FMNE
+907,Antsirabato Airport,Antalaha,Madagascar,ANM,FMNH
+908,Analalava Airport,Analalava,Madagascar,HVA,FMNL
+909,Amborovy Airport,Mahajanga,Madagascar,MJN,FMNM
+910,Fascene Airport,Nosy-be,Madagascar,NOS,FMNN
+911,Besalampy Airport,Besalampy,Madagascar,BPY,FMNQ
+912,Maroantsetra Airport,Maroantsetra,Madagascar,WMN,FMNR
+913,Sambava Airport,Sambava,Madagascar,SVB,FMNS
+914,Vohimarina Airport,Vohemar,Madagascar,VOH,FMNV
+915,Ambalabe Airport,Antsohihy,Madagascar,WAI,FMNW
+916,Ampampamena Airport,Ampampamena,Madagascar,IVA,FMNZ
+917,Tôlanaro Airport,Tolagnaro,Madagascar,FTU,FMSD
+918,Fianarantsoa Airport,Fianarantsoa,Madagascar,WFI,FMSF
+919,Farafangana Airport,Farafangana,Madagascar,RVA,FMSG
+920,Manakara Airport,Manakara,Madagascar,WVK,FMSK
+921,Mananjary Airport,Mananjary,Madagascar,MNJ,FMSM
+922,Morombe Airport,Morombe,Madagascar,MXM,FMSR
+923,Toliara Airport,Toliara,Madagascar,TLE,FMST
+924,Mbanza Congo Airport,M'banza-congo,Angola,SSY,FNBC
+925,Benguela Airport,Benguela,Angola,BUG,FNBG
+926,Cabinda Airport,Cabinda,Angola,CAB,FNCA
+927,Nova Lisboa Airport,Huambo,Angola,NOV,FNHU
+928,Kuito Airport,Kuito,Angola,SVP,FNKU
+929,Lobito Airport,Lobito,Angola,\N,FNLB
+930,Quatro de Fevereiro Airport,Luanda,Angola,LAD,FNLU
+931,Malanje Airport,Malanje,Angola,MEG,FNMA
+932,Menongue Airport,Menongue,Angola,SPP,FNME
+933,Negage Airport,Negage,Angola,GXG,FNNG
+934,Porto Amboim Airport,Porto Amboim,Angola,PBN,FNPA
+935,Saurimo Airport,Saurimo,Angola,VHC,FNSA
+936,Soyo Airport,Soyo,Angola,SZA,FNSO
+937,Lubango Airport,Lubango,Angola,SDD,FNUB
+938,Luena Airport,Luena,Angola,LUO,FNUE
+939,Uige Airport,Uige,Angola,UGO,FNUG
+940,Xangongo Airport,Xangongo,Angola,XGN,FNXA
+941,Oyem Airport,Oyem,Gabon,OYE,FOGO
+942,Okondja Airport,Okondja,Gabon,OKN,FOGQ
+943,Lambarene Airport,Lambarene,Gabon,LBQ,FOGR
+944,Bitam Airport,Bitam,Gabon,BMM,FOOB
+945,Port Gentil Airport,Port Gentil,Gabon,POG,FOOG
+946,Omboue Hopital Airport,Omboue Hospial,Gabon,OMB,FOOH
+947,Makokou Airport,Makokou,Gabon,MKU,FOOK
+948,Libreville Leon M'ba International Airport,Libreville,Gabon,LBV,FOOL
+949,M'Vengue El Hadj Omar Bongo Ondimba International Airport,Franceville,Gabon,MVB,FOON
+950,Principe Airport,Principe,Sao Tome and Principe,PCP,FPPR
+951,São Tomé International Airport,Sao Tome,Sao Tome and Principe,TMS,FPST
+952,Beira Airport,Beira,Mozambique,BEW,FQBR
+953,Inhambane Airport,Inhambane,Mozambique,INH,FQIN
+954,Lichinga Airport,Lichinga,Mozambique,VXC,FQLC
+955,Lumbo Airport,Lumbo,Mozambique,LFB,FQLU
+956,Maputo Airport,Maputo,Mozambique,MPM,FQMA
+957,Mueda Airport,Mueda,Mozambique,MUD,FQMD
+958,Mocímboa da Praia Airport,Mocimboa Da Praia,Mozambique,MZB,FQMP
+959,Marrupa Airport,Marrupa,Mozambique,\N,FQMR
+960,Nacala Airport,Nacala,Mozambique,MNC,FQNC
+961,Nampula Airport,Nampula,Mozambique,APL,FQNP
+962,Pemba Airport,Pemba,Mozambique,POL,FQPB
+963,Quelimane Airport,Quelimane,Mozambique,UEL,FQQL
+964,Songo Airport,Songo,Mozambique,\N,FQSG
+965,Chingozi Airport,Tete,Mozambique,TET,FQTT
+966,Ulongwe Airport,Ulongwe,Mozambique,\N,FQUG
+967,Vilankulo Airport,Vilankulu,Mozambique,VNX,FQVL
+968,Alphonse Airport,Alphonse,Seychelles,\N,FSAL
+969,Desroches Airport,Desroches,Seychelles,DES,FSDR
+970,Farquhar Airport,Farquhar,Seychelles,\N,FSFA
+971,Seychelles International Airport,Mahe,Seychelles,SEZ,FSIA
+972,Praslin Airport,Praslin,Seychelles,PRI,FSPP
+973,Coetivy Airport,Coetivy,Seychelles,\N,FSSC
+974,Abeche Airport,Abeche,Chad,AEH,FTTC
+975,Moundou Airport,Moundou,Chad,MQQ,FTTD
+976,N'Djamena International Airport,N'djamena,Chad,NDJ,FTTJ
+977,Faya Largeau Airport,Faya-largeau,Chad,FYT,FTTY
+978,Joshua Mqabuko Nkomo International Airport,Bulawayo,Zimbabwe,BUQ,FVBU
+979,Charles Prince Airport,Harare,Zimbabwe,\N,FVCP
+980,Buffalo Range Airport,Chiredzi,Zimbabwe,BFO,FVCZ
+981,Victoria Falls International Airport,Victoria Falls,Zimbabwe,VFA,FVFA
+982,Robert Gabriel Mugabe International Airport,Harare,Zimbabwe,HRE,FVHA
+983,Kariba International Airport,Kariba,Zimbabwe,KAB,FVKB
+984,Mutoko Airport,Mutoko,Zimbabwe,\N,FVMT
+985,Mutare Airport,Mutare,Zimbabwe,UTA,FVMU
+986,Masvingo International Airport,Masvingo,Zimbabwe,MVZ,FVMV
+987,Zvishavane Airport,Zvishavane,Zimbabwe,\N,FVSH
+988,Thornhill Air Base,Gwert,Zimbabwe,GWE,FVTL
+989,Hwange National Park Airport,Hwange National Park,Zimbabwe,HWN,FVWN
+990,Chileka International Airport,Blantyre,Malawi,BLZ,FWCL
+991,Karonga Airport,Karonga,Malawi,KGJ,FWKA
+992,Kasungu Airport,Kasungu,Malawi,KBQ,FWKG
+993,Lilongwe International Airport,Lilongwe,Malawi,LLW,FWKI
+994,Mzuzu Airport,Mzuzu,Malawi,ZZU,FWUU
+995,Moshoeshoe I International Airport,Maseru,Lesotho,MSU,FXMM
+996,Mejametalana Airbase,Maseru,Lesotho,\N,FXMU
+997,Ndjili International Airport,Kinshasa,Congo (Kinshasa),FIH,FZAA
+998,Ndolo Airport,Kinshasa,Congo (Kinshasa),NLO,FZAB
+999,Muanda Airport,Muanda,Congo (Kinshasa),MNB,FZAG
+1000,Kitona Base Airport,Kitona Base,Congo (Kinshasa),\N,FZAI
+1001,Bandundu Airport,Bandoundu,Congo (Kinshasa),FDU,FZBO
+1002,Kikwit Airport,Kikwit,Congo (Kinshasa),KKW,FZCA
+1003,Mbandaka Airport,Mbandaka,Congo (Kinshasa),MDK,FZEA
+1004,Gbadolite Airport,Gbadolite,Congo (Kinshasa),BDT,FZFD
+1005,Gemena Airport,Gemena,Congo (Kinshasa),GMA,FZFK
+1006,Kotakoli Airport,Kotakoli,Congo (Kinshasa),KLI,FZFP
+1007,Lisala Airport,Lisala,Congo (Kinshasa),LIQ,FZGA
+1008,Bangoka International Airport,Kisangani,Congo (Kinshasa),FKI,FZIC
+1009,Matari Airport,Isiro,Congo (Kinshasa),IRP,FZJH
+1010,Bunia Airport,Bunia,Congo (Kinshasa),BUX,FZKA
+1011,Buta Zega Airport,Buta Zega,Congo (Kinshasa),BZU,FZKJ
+1012,Bukavu Kavumu Airport,Bukavu/kavumu,Congo (Kinshasa),BKY,FZMA
+1013,Goma International Airport,Goma,Congo (Kinshasa),GOM,FZNA
+1014,Kindu Airport,Kindu,Congo (Kinshasa),KND,FZOA
+1015,Lubumbashi International Airport,Lubumashi,Congo (Kinshasa),FBM,FZQA
+1016,Kolwezi Airport,Kolwezi,Congo (Kinshasa),KWZ,FZQM
+1017,Kalemie Airport,Kalemie,Congo (Kinshasa),FMI,FZRF
+1018,Kamina Base Airport,Kamina Base,Congo (Kinshasa),KMN,FZSA
+1019,Kananga Airport,Kananga,Congo (Kinshasa),KGA,FZUA
+1020,Mbuji Mayi Airport,Mbuji-mayi,Congo (Kinshasa),MJM,FZWA
+1021,Modibo Keita International Airport,Bamako,Mali,BKO,GABS
+1022,Gao Airport,Gao,Mali,GAQ,GAGO
+1023,Kayes Dag Dag Airport,Kayes,Mali,KYS,GAKY
+1024,Mopti Airport,Mopti,Mali,MZI,GAMB
+1025,Timbuktu Airport,Tombouctou,Mali,TOM,GATB
+1026,Tessalit Airport,Tessalit,Mali,\N,GATS
+1027,Banjul International Airport,Banjul,Gambia,BJL,GBYD
+1036,Lungi International Airport,Freetown,Sierra Leone,FNA,GFLL
+1037,Cufar Airport,Cufar,Guinea-Bissau,\N,GGCF
+1038,Spriggs Payne Airport,Monrovia,Liberia,MLW,GLMR
+1039,Roberts International Airport,Monrovia,Liberia,ROB,GLRB
+1040,Al Massira Airport,Agadir,Morocco,AGA,GMAD
+1041,Tan Tan Airport,Tan Tan,Morocco,TTA,GMAT
+1042,Saïss Airport,Fes,Morocco,FEZ,GMFF
+1043,Ifrane Airport,Ifrane,Morocco,\N,GMFI
+1044,Moulay Ali Cherif Airport,Er-rachidia,Morocco,ERH,GMFK
+1045,Bassatine Airport,Meknes,Morocco,MEK,GMFM
+1046,Angads Airport,Oujda,Morocco,OUD,GMFO
+1047,Ben Slimane Airport,Ben Slimane,Morocco,GMD,GMMB
+1048,Rabat-Salé Airport,Rabat,Morocco,RBA,GMME
+1049,Mohammed V International Airport,Casablanca,Morocco,CMN,GMMN
+1050,Menara Airport,Marrakech,Morocco,RAK,GMMX
+1051,Kenitra Airport,Kentira,Morocco,NNA,GMMY
+1052,Ouarzazate Airport,Ouarzazate,Morocco,OZZ,GMMZ
+1053,Cherif Al Idrissi Airport,Al Hociema,Morocco,AHU,GMTA
+1054,Saniat R'mel Airport,Tetouan,Morocco,TTU,GMTN
+1055,Ibn Batouta Airport,Tanger,Morocco,TNG,GMTT
+1056,Ziguinchor Airport,Ziguinchor,Senegal,ZIG,GOGG
+1057,Cap Skirring Airport,Cap Skiring,Senegal,CSK,GOGS
+1058,Kaolack Airport,Kaolack,Senegal,KLC,GOOK
+1059,Léopold Sédar Senghor International Airport,Dakar,Senegal,DKR,GOOY
+1060,Saint Louis Airport,St. Louis,Senegal,XLS,GOSS
+1061,Bakel Airport,Bakel,Senegal,BXE,GOTB
+1062,Kédougou Airport,Kedougou,Senegal,KGG,GOTK
+1063,Tambacounda Airport,Tambacounda,Senegal,TUD,GOTT
+1064,Aioun el Atrouss Airport,Aioun El Atrouss,Mauritania,AEO,GQNA
+1065,Tidjikja Airport,Tidjikja,Mauritania,TIY,GQND
+1066,Kiffa Airport,Kiffa,Mauritania,KFA,GQNF
+1067,Néma Airport,Nema,Mauritania,EMN,GQNI
+1068,Kaédi Airport,Kaedi,Mauritania,KED,GQNK
+1069,Nouakchott–Oumtounsy International Airport,Nouakschott,Mauritania,NKC,GQNO
+1070,Sélibaby Airport,Selibabi,Mauritania,SEY,GQNS
+1071,Atar International Airport,Atar,Mauritania,ATR,GQPA
+1072,Nouadhibou International Airport,Nouadhibou,Mauritania,NDB,GQPP
+1073,Bir Moghrein Airport,Bir Moghrein,Mauritania,\N,GQPT
+1074,Fria Airport,Fira,Guinea,FIG,GUFA
+1075,Faranah Airport,Faranah,Guinea,FAA,GUFH
+1076,Tata Airport,Labe,Guinea,LEK,GULB
+1077,Amílcar Cabral International Airport,Amilcar Cabral,Cape Verde,SID,GVAC
+1078,Rabil Airport,Boa Vista,Cape Verde,BVC,GVBA
+1079,Maio Airport,Maio,Cape Verde,MMO,GVMA
+1080,Preguiça Airport,Sao Nocolau Island,Cape Verde,SNE,GVSN
+1081,São Pedro Airport,Sao Vicente Island,Cape Verde,VXE,GVSV
+1082,Addis Ababa Bole International Airport,Addis Ababa,Ethiopia,ADD,HAAB
+1083,Lideta Army Airport,Addis Ababa,Ethiopia,\N,HAAL
+1084,Arba Minch Airport,Arba Minch,Ethiopia,AMH,HAAM
+1085,Axum Airport,Axum,Ethiopia,AXU,HAAX
+1086,Bahir Dar Airport,Bahar Dar,Ethiopia,BJR,HABD
+1087,Aba Tenna Dejazmach Yilma International Airport,Dire Dawa,Ethiopia,DIR,HADR
+1088,Gambella Airport,Gambella,Ethiopia,GMB,HAGM
+1089,Gonder Airport,Gondar,Ethiopia,GDQ,HAGN
+1090,Jimma Airport,Jimma,Ethiopia,JIM,HAJM
+1091,Lalibella Airport,Lalibella,Ethiopia,LLI,HALL
+1092,Mekele Airport,Makale,Ethiopia,MQX,HAMK
+1093,Asosa Airport,Asosa,Ethiopia,ASO,HASO
+1094,Bujumbura International Airport,Bujumbura,Burundi,BJM,HBBA
+1095,Egal International Airport,Hargeisa,Somalia,HGA,HCMH
+1096,Berbera Airport,Berbera,Somalia,BBO,HCMI
+1097,Kisimayu Airport,Kismayu,Somalia,KMU,HCMK
+1098,El Nouzha Airport,Alexandria,Egypt,ALY,HEAX
+1099,Abu Simbel Airport,Abu Simbel,Egypt,ABS,HEBL
+1100,Cairo International Airport,Cairo,Egypt,CAI,HECA
+1101,Cairo West Airport,Cairo,Egypt,CWE,HECW
+1102,Hurghada International Airport,Hurghada,Egypt,HRG,HEGN
+1103,El Gora Airport,El Gorah,Egypt,EGH,HEGR
+1104,Luxor International Airport,Luxor,Egypt,LXR,HELX
+1105,Mersa Matruh Airport,Mersa-matruh,Egypt,MUH,HEMM
+1106,Port Said Airport,Port Said,Egypt,PSD,HEPS
+1107,St Catherine International Airport,St. Catherine,Egypt,SKV,HESC
+1108,Aswan International Airport,Aswan,Egypt,ASW,HESN
+1109,El Tor Airport,El-tor,Egypt,ELT,HETR
+1110,Eldoret International Airport,Eldoret,Kenya,EDL,HKEL
+1111,Kakamega Airport,Kakamega,Kenya,GGM,HKKG
+1112,Kisumu Airport,Kisumu,Kenya,KIS,HKKI
+1113,Kitale Airport,Kitale,Kenya,KTL,HKKT
+1114,Lodwar Airport,Lodwar,Kenya,LOK,HKLO
+1115,Manda Airstrip,Lamu,Kenya,LAU,HKLU
+1116,Mombasa Moi International Airport,Mombasa,Kenya,MBA,HKMO
+1117,Naivasha Airport,Naivasha,Kenya,\N,HKNV
+1118,Nairobi Wilson Airport,Nairobi,Kenya,WIL,HKNW
+1119,Moi Air Base,Nairobi,Kenya,\N,HKRE
+1120,Wajir Airport,Wajir,Kenya,WJR,HKWJ
+1121,Bu Attifel Airport,Buattifel,Libya,\N,HLFL
+1122,Warehouse 59e Airport,Giallo,Libya,\N,HLGL
+1123,Ghat Airport,Ghat,Libya,GHT,HLGT
+1124,Kufra Airport,Kufra,Libya,AKF,HLKF
+1125,Benina International Airport,Benghazi,Libya,BEN,HLLB
+1126,Sabha Airport,Sebha,Libya,SEB,HLLS
+1127,Tripoli International Airport,Tripoli,Libya,TIP,HLLT
+1128,Marsa Brega Airport,Marsa Brega,Libya,LMQ,HLMB
+1129,Ras Lanuf Oil Airport,Ras Lanouf V 40,Libya,\N,HLNF
+1130,Hon Airport,Hon,Libya,HUQ,HLON
+1131,Dahra Airport,Dahra,Libya,\N,HLRA
+1132,Ghadames East Airport,Ghadames,Libya,LTD,HLTD
+1133,Zella 74 Airport,Zella 74,Libya,\N,HLZA
+1134,Gisenyi Airport,Gisenyi,Rwanda,GYI,HRYG
+1135,Kigali International Airport,Kigali,Rwanda,KGL,HRYR
+1136,Kamembe Airport,Kamembe,Rwanda,KME,HRZA
+1137,Dongola Airport,Dongola,Sudan,DOG,HSDN
+1138,Damazin Airport,Damazin,Sudan,RSS,HSDZ
+1139,El Fasher Airport,El Fasher,Sudan,ELF,HSFS
+1140,Kassala Airport,Kassala,Sudan,KSL,HSKA
+1141,Kadugli Airport,Kadugli,Sudan,KDX,HSLI
+1142,El Obeid Airport,El Obeid,Sudan,EBD,HSOB
+1143,Juba International Airport,Juba,South Sudan,JUB,HSSJ
+1144,Malakal Airport,Malakal,Sudan,MAK,HSSM
+1145,Khartoum International Airport,Khartoum,Sudan,KRT,HSSS
+1146,Arusha Airport,Arusha,Tanzania,ARK,HTAR
+1147,Julius Nyerere International Airport,Dar Es Salaam,Tanzania,DAR,HTDA
+1148,Dodoma Airport,Dodoma,Tanzania,DOD,HTDO
+1149,Iringa Airport,Iringa,Tanzania,IRI,HTIR
+1150,Kilimanjaro International Airport,Kilimanjaro,Tanzania,JRO,HTKJ
+1151,Lake Manyara Airport,Lake Manyara,Tanzania,LKY,HTLM
+1152,Mtwara Airport,Mtwara,Tanzania,MYW,HTMT
+1153,Mwanza Airport,Mwanza,Tanzania,MWZ,HTMW
+1154,Pemba Airport,Pemba,Tanzania,PMA,HTPE
+1155,Tanga Airport,Tanga,Tanzania,TGT,HTTG
+1156,Abeid Amani Karume International Airport,Zanzibar,Tanzania,ZNZ,HTZA
+1157,Entebbe International Airport,Entebbe,Uganda,EBB,HUEN
+1158,Soroti Airport,Soroti,Uganda,SRT,HUSO
+3211,Borg El Arab International Airport,Alexandria,Egypt,HBE,HEBA
+3838,Sharm El Sheikh International Airport,Sharm El Sheikh,Egypt,SSH,HESH
+3840,Jomo Kenyatta International Airport,Nairobi,Kenya,NBO,HKJK
+3841,Seronera Airport,Seronera,Tanzania,SEU,HTSN
+3897,Mafia Island Airport,Mafia Island,Tanzania,MFA,HTMA
+3932,Yaoundé Nsimalen International Airport,Yaounde,Cameroon,NSI,FKYS
+3933,Conakry International Airport,Conakry,Guinea,CKY,GUCY
+3963,Marsa Alam International Airport,Marsa Alam,Egypt,RMF,HEMA
+4050,Taba International Airport,Taba,Egypt,TCP,HETB
+4053,Tabarka 7 Novembre Airport,Tabarka,Tunisia,TBJ,DTKA
+4258,Batna Airport,Batna,Algeria,BLJ,DABT
+4259,Béchar Boudghene Ben Ali Lotfi Airport,Béchar,Algeria,CBH,DAOR
+4260,Bordj Badji Mokhtar Airport,Bordj Badji Mokhtar,Algeria,BMW,DATM
+4261,Guemar Airport,Guemar,Algeria,ELU,DAUO
+4262,Kumasi Airport,Kumasi,Ghana,KMS,DGSI
+4306,Rand Airport,Johannesburg,South Africa,QRA,FAGM
+4307,Kruger Mpumalanga International Airport,Mpumalanga,South Africa,MQP,FAKN
+4308,Malamala Airport,Malamala,South Africa,AAM,FAMD
+4309,Mmabatho International Airport,Mafeking,South Africa,MBD,FAMM
+4310,Ghanzi Airport,Ghanzi,Botswana,GNZ,FBGZ
+4311,Orapa Airport,Orapa,Botswana,ORP,FBOR
+4312,Shakawe Airport,Shakawe,Botswana,SWX,FBSW
+4313,Limpopo Valley Airport,Tuli Lodge,Botswana,TLD,FBTL
+4314,Ngot Nzoungou Airport,Loubomo,Congo (Brazzaville),DIS,FCPL
+4315,Chipata Airport,Chipata,Zambia,CIP,FLCP
+4316,Los Alamitos Army Air Field,Solwesi,Zambia,\N,KSLI
+4317,Iconi Airport,Moroni,Comoros,YVA,FMCN
+4318,Antsalova Airport,Antsalova,Madagascar,WAQ,FMMG
+4319,Ankavandra Airport,Ankavandra,Madagascar,JVA,FMMK
+4320,Belo sur Tsiribihina Airport,Belo sur Tsiribihina,Madagascar,BMD,FMML
+4321,Maintirano Airport,Maintirano,Madagascar,MXT,FMMO
+4322,Morafenobe Airport,Morafenobe,Madagascar,TVA,FMMR
+4323,Tambohorano Airport,Tambohorano,Madagascar,WTA,FMMU
+4324,Tsiroanomandidy Airport,Tsiroanomandidy,Madagascar,WTS,FMMX
+4325,Ambatondrazaka Airport,Ambatondrazaka,Madagascar,WAM,FMMZ
+4326,Port Bergé Airport,Port Bergé,Madagascar,WPB,FMNG
+4327,Ambanja Airport,Ambanja,Madagascar,\N,FMNJ
+4328,Soalala Airport,Soalala,Madagascar,DWB,FMNO
+4329,Mampikony Airport,Mampikony,Madagascar,WMP,FMNP
+4330,Nasa Shuttle Landing Facility Airport,Tsaratanana,Madagascar,\N,KTTS
+4331,Mandritsara Airport,Mandritsara,Madagascar,WMA,FMNX
+4332,Manja Airport,Manja,Madagascar,MJA,FMSJ
+4333,Catumbela Airport,Catumbela,Angola,CBT,FNCT
+4334,Dundo Airport,Dundo,Angola,DUE,FNDU
+4335,Ngjiva Pereira Airport,Ondjiva,Angola,VPE,FNGI
+4336,Namibe Airport,Mocamedes,Angola,MSZ,FNMO
+4337,Koulamoutou Mabimbi Airport,Koulamoutou,Gabon,KOU,FOGK
+4338,Mouilla Ville Airport,Mouila,Gabon,MJL,FOGM
+4339,Tchibanga Airport,Tchibanga,Gabon,TCH,FOOT
+4340,Chimoio Airport,Chimoio,Mozambique,VPY,FQCH
+4341,Sarh Airport,Sarh,Chad,SRH,FTTA
+4342,Club Makokola Airport,Club Makokola,Malawi,CMK,FWCM
+4348,Boma Airport,Boma,Congo (Kinshasa),BOA,FZAJ
+4349,Tshimpi Airport,Matadi,Congo (Kinshasa),MAT,FZAM
+4350,Inongo Airport,Inongo,Congo (Kinshasa),INO,FZBA
+4351,Nioki Airport,Nioki,Congo (Kinshasa),NIO,FZBI
+4352,Basango Mboliasa Airport,Kiri,Congo (Kinshasa),KRZ,FZBT
+4353,Basankusu Airport,Basankusu,Congo (Kinshasa),BSU,FZEN
+4354,Tshikapa Airport,Tshikapa,Congo (Kinshasa),TSH,FZUK
+4355,Lodja Airport,Lodja,Congo (Kinshasa),LJA,FZVA
+4356,Ilebo Airport,Ilebo,Congo (Kinshasa),PFR,FZVS
+4359,Sherbro International Airport,Bonthe,Sierra Leone,BTE,GFBN
+4360,Bo Airport,Bo,Sierra Leone,KBS,GFBO
+4361,Kenema Airport,Kenema,Sierra Leone,KEN,GFKE
+4362,Osvaldo Vieira International Airport,Bissau,Guinea-Bissau,OXB,GGOV
+4363,Smara Airport,Smara,Western Sahara,SMW,GMMA
+4364,Dakhla Airport,Dakhla,Western Sahara,VIL,GMMH
+4365,Mogador Airport,Essadouira,Morocco,ESU,GMMI
+4366,Hassan I Airport,El Aaiún,Western Sahara,EUN,GMML
+4367,Nador International Airport,El Aroui,Morocco,NDR,GMMW
+"4368,Praia International Airport,""Praia, Santiago Island"",Cape Verde,RAI,GVNP"
+"4369,São Filipe Airport,""Sao Filipe, Fogo Island"",Cape Verde,SFL,GVSF"
+4370,Baco Airport,Baco,Ethiopia,BCO,HABC
+4371,Beica Airport,Beica,Ethiopia,BEI,HABE
+4372,Combolcha Airport,Dessie,Ethiopia,DSE,HADC
+4373,Dembidollo Airport,Dembidollo,Ethiopia,DEM,HADD
+4374,Gode Airport,Gode,Ethiopia,GDE,HAGO
+4375,Gore Airport,Gore,Ethiopia,GOR,HAGR
+4376,Kabri Dehar Airport,Kabri Dehar,Ethiopia,ABK,HAKD
+4377,Mizan Teferi Airport,Mizan Teferi,Ethiopia,MTF,HAMT
+4378,Tippi Airport,Tippi,Ethiopia,TIE,HATP
+4379,Alula Airport,Alula,Somalia,ALU,HCMA
+4380,Bosaso Airport,Bosaso,Somalia,BSA,HCMF
+4381,Aden Adde International Airport,Mogadishu,Somalia,MGQ,HCMM
+4382,Galcaio Airport,Galcaio,Somalia,GLK,HCMR
+4383,Burao Airport,Burao,Somalia,BUO,HCMV
+4384,El Arish International Airport,El Arish,Egypt,AAC,HEAR
+4385,Assiut International Airport,Asyut,Egypt,ATZ,HEAT
+4386,Amboseli Airport,Amboseli National Park,Kenya,ASV,HKAM
+4387,Lokichoggio Airport,Lokichoggio,Kenya,LKG,HKLK
+4388,Malindi Airport,Malindi,Kenya,MYD,HKML
+4389,Nanyuki Airport,Nanyuki,Kenya,NYK,HKNY
+4390,Gardabya Airport,Sirt,Libya,SRX,HLGD
+4391,Gamal Abdel Nasser Airport,Tobruk,Libya,TOB,HLGN
+4392,Mitiga Airport,Tripoli,Libya,MJI,HLLM
+4393,La Abraq Airport,Al Bayda',Libya,LAQ,HLLQ
+4394,Atbara Airport,Atbara,Sudan,ATB,HSAT
+4395,Nyala Airport,Nyala,Sudan,UYL,HSNN
+4396,Port Sudan New International Airport,Port Sudan,Sudan,PZU,HSPN
+4397,Bukoba Airport,Bukoba,Tanzania,BKZ,HTBU
+4398,Kigoma Airport,Kigoma,Tanzania,TKQ,HTKA
+4399,Lindi Airport,Lindi,Tanzania,LDI,HTLI
+4400,Musoma Airport,Musoma,Tanzania,MUZ,HTMU
+4401,Shinyanga Airport,Shinyanga,Tanzania,SHY,HTSY
+4402,Tabora Airport,Tabora,Tanzania,TBO,HTTB
+4403,Arua Airport,Arua,Uganda,RUA,HUAR
+4404,Gulu Airport,Gulu,Uganda,ULU,HUGU
+5086,Ain Arnat Airport,Setif,Algeria,QSF,DAAS
+5115,Sam Mbakwe International Airport,Imo,Nigeria,QOW,DNIM
+5152,Geneina Airport,Geneina,Sudan,EGN,HSGN
+5156,Buffalo Spring,Samburu South,Kenya,UAS,HKSB
+5195,Burnet Municipal Kate Craddock Field,Bamburi,Kenya,\N,KBMQ
+5215,Spray View Airport,Spray View,Zimbabwe,\N,FVSV
+5286,Warri Airport,Osubi,Nigeria,QRW,DNSU
+5291,Nelspruit Airport,Nelspruit,South Africa,NLP,FANS
+5563,Tsletsi Airport,Djelfa,Algeria,QDJ,DAFI
+5564,Nzagi Airport,Nzagi,Angola,NZA,FNZG
+5565,Lucapa Airport,Lucapa,Angola,LBZ,FNLK
+5566,Capanda Airport,Kapanda,Angola,KNP,FNCP
+5567,Am Timan Airport,Am Timan,Chad,AMC,FTTN
+5568,Shark El Oweinat International Airport,Sharq Al-Owainat,Egypt,GSQ,HEOW
+5570,Awassa Airport,Awasa,Ethiopia,AWA,HALA
+5571,Wilwal International Airport,Jijiga,Ethiopia,JIJ,HAJJ
+5572,Mekane Selam Airport,Mekane Selam,Ethiopia,MKS,HAMA
+5573,Debra Marcos Airport,Debre Marqos,Ethiopia,DBM,HADM
+5574,Debre Tabor Airport,Debre Tabor,Ethiopia,DBT,HADT
+5575,Harar Meda Airport,Debre Zeyit,Ethiopia,QHR,HAHM
+5576,Robe Airport,Goba,Ethiopia,GOB,HAGB
+5577,Mayumba Airport,Mayumba,Gabon,MYB,FOOY
+5578,Mara Serena Lodge Airstrip,Masai Mara,Kenya,MRE,HKMS
+5579,Mulika Lodge Airport,Meru National Park,Kenya,JJM,HKMK
+5580,Rumbek Airport,Rumbek,Sudan,RBX,HSMK
+5581,Yei Airport,Yei,Sudan,\N,HSYE
+5582,Cape Palmas Airport,Greenville,Liberia,CPA,GLCP
+5584,Inhaca Airport,Inhaca,Mozambique,IHC,FQIA
+5585,Ouro Sogui Airport,Matam,Senegal,MAX,GOSM
+5586,Bird Island Airport,Bird Island,Seychelles,BDI,FSSB
+5587,Wadi Halfa Airport,Wadi Halfa,Sudan,WHF,HSSW
+5588,Enfidha - Hammamet International Airport,Enfidha,Tunisia,NBE,DTNH
+5589,Kidepo Airport,Kidepo,Uganda,\N,HUKD
+5590,Kitgum Airport,Kitgum,Uganda,\N,HUKT
+5591,Bugungu Airport,Pakuba,Uganda,\N,HUPA
+5644,Assumption Island Airport,Assumption Island,Seychelles,\N,FSAS
+5747,Camp Okavango Airport,Okavango Delta,Botswana,\N,FBCO
+5813,Kasaba Bay Airport,Kasaba Bay,Zambia,ZKB,FLKY
+5822,Mantsonyane Airport,Mantsonyane,Lesotho,\N,FXMN
+5830,El Alamein International Airport,Dabaa City,Egypt,DBB,HEAL
+5861,Fes Sefrou Airport,Fes,Morocco,\N,GMFU
+5866,Hastings Airport,Freetown,Sierra Leone,HGS,GFHA
+5878,Bougouni Airport,Bougouni,Mali,\N,GABG
+5881,Keekorok Airport,Keekorok,Kenya,\N,HKKE
+5884,Ukunda Airstrip,Ukunda,Kenya,UKA,HKUK
+5917,Khwai River Lodge Airport,Khwai River,Botswana,KHW,FBKR
+6026,Sohag International Airport,Sohag,Egypt,HMB,HEMK
+6095,Aweil Airport,Aweil,Sudan,\N,HSAW
+6096,Wau Airport,Wau,Sudan,WUU,HSWW
+6097,Humera Airport,Humera,Ethiopia,HUE,HAHU
+6098,Moyale Airport,Moyale,Kenya,OYL,HKMY
+6099,Zagora Airport,Zagora,Morocco,OZG,GMAZ
+6100,Yengema Airport,Yengema,Sierra Leone,WYE,GFYE
+6101,Gbangbatok Airport,Gbangbatok,Sierra Leone,GBK,GFGK
+6172,Msembe Airport,Msembe,Tanzania,\N,HTMR
+6280,Aliwal North Airport,Aliwal North,South Africa,\N,FAAN
+6281,Alkantpan Copper Airport,Alkantpan,South Africa,\N,FACO
+6282,Alldays Airport,Alldays,South Africa,ADY,FAAL
+6283,Bredasdorp Airport,Barberton,South Africa,\N,FABR
+6285,Bungoma Airport,Bungoma,Kenya,\N,HKBU
+6286,Bura East Airport,Bura,Kenya,\N,HKBR
+6287,Busia Airport,Busia,Kenya,\N,HKBA
+6288,Embu Airport,Embu,Kenya,\N,HKEM
+6289,Garba Tula Airport,Garba Tula,Kenya,\N,HKGT
+6290,Garissa Airport,Garissa,Kenya,GAS,HKGA
+6291,Hola Airport,Hola,Kenya,HOA,HKHO
+6292,Homa Bay Airport,Homa Bay,Kenya,\N,HKHB
+6293,Isiolo Airport,Isiolo,Kenya,\N,HKIS
+6294,Kericho Airport,Kericho,Kenya,KEY,HKKR
+6295,Kilaguni Airport,Kilaguni,Kenya,ILU,HKKL
+6296,Antsirabe Airport,Antsirabe,Madagascar,ATJ,FMME
+6297,Bekily Airport,Bekily,Madagascar,OVA,FMSL
+6342,Newnan Hospital Heliport,Bengassi,Mali,\N,GA46
+6384,Kissidougou Airport,Kissidougou,Guinea,KSI,GUKU
+6403,Cuamba Airport,Cuamba,Mozambique,FXO,FQCB
+6471,Kasongo Airport,Kasongo,Congo (Kinshasa),\N,FZOK
+6508,Bumi Airport,Bumi Hills,Zimbabwe,BZH,FVBM
+6510,Bouarfa Airport,Bouarfa,Morocco,UAR,GMFB
+6511,Nyeri Airport,NYERI,Kenya,NYE,HKNI
+6514,Likoma Island Airport,Likoma Island,Malawi,LIX,FWLK
+6539,Torit Airport,Torit,South Sudan,\N,HSTR
+6590,Kabale Airport,Kabale,Uganda,\N,HUKB
+6597,Samambaia Heliport,Saint Denis,Reunion,\N,SDNS
+6618,Cape Town Waterfort Heliport,Cap Town,South Africa,\N,FADW
+6654,Beni Mellal Airport,Beni Mellal,Morocco,BEM,GMMD
+6657,Tazadit Airport,Zouerat,Mauritania,OUZ,GQPZ
+6658,Asaba International Airport,Asaba,Nigeria,ABB,DNAS
+6659,Akwa Ibom International Airport,Uyo,Nigeria,QUO,DNAI
+6660,Kasama Airport,Kasama,Zambia,KAA,FLKS
+6661,Mbeya Airport,Mbeya,Tanzania,\N,HTMB
+6662,Mpanda Airport,Mpanda,Tanzania,\N,HTMP
+6663,Songea Airport,Songea,Tanzania,SGX,HTSO
+6664,Morogoro Airport,Morogoro,Tanzania,\N,HTMG
+6672,Sikasso Airport,Sikasso,Mali,KSS,GASK
+6714,Kawass Airport,Kamsar,Guinea,\N,GUKR
+6721,Bubaque Airport,Bubaque,Guinea-Bissau,BQE,GGBU
+6745,Witberg Tswalu Airport,Dedeben,South Africa,\N,FATW
+6746,Mana Pools Airport,Mana Pools,Zimbabwe,\N,FVMN
+6796,Zulu Inyala Airport,Phinda,South Africa,PZL,FADQ
+6874,Kotido Airport,Kotido,Uganda,\N,HUKO
+6875,Kajjansi Airfield,Kampala,Uganda,\N,HUKJ
+6892,Mwene-Ditu Airport,Mwene-Ditu,Congo (Kinshasa),\N,FZWE
+6893,Tunta Airport,Kabinda,Congo (Kinshasa),KBN,FZWT
+6894,Ikela Airport,Ikela,Congo (Kinshasa),IKL,FZGV
+6905,Bumbar Airport,Bumba,Congo (Kinshasa),BMB,FZFU
+6910,Beni Airport,Beni,Congo (Kinshasa),BNC,FZNP
+6911,Boende Airport,Boende,Congo (Kinshasa),BNB,FZGN
+6924,Kongolo Airport,Kongolo,Congo (Kinshasa),KOO,FZRQ
+6926,Kahemba Airport,Kahemba,Congo (Kinshasa),\N,FZCF
+7040,Lime Acres Finsch Mine Airport,Lime Acres,South Africa,LMR,FALC
+7041,Sua Pan Airport,Sowa,Botswana,SXN,FBSN
+7042,Lusaka City Airport,Lusaka,Zambia,\N,FLLC
+7043,Sumbe Airport,Sumbe,Angola,NDD,FNSU
+7044,Mangochi Airport,Mangochi,Malawi,MAI,FWMG
+7047,Almaza Air Force Base,Cairo,Egypt,\N,HEAZ
+7048,Beni Suef Air Base,Beni Suef,Egypt,\N,HEBS
+7049,Jiyanklis Air Base,Jiyanklis,Egypt,\N,HEGS
+7050,Merowe New Airport,Merowe,Sudan,MWE,HSMN
+7301,Parakou Airport,Parakou,Benin,PKO,DBBP
+7302,Kandi Airport,Kandi,Benin,KDC,DBBK
+7303,Sokodé Airport,Sokode,Togo,\N,DXSK
+7304,Sansanné-Mango Airport,Mango,Togo,\N,DXMG
+7316,Baidoa Airport,Baidoa,Somalia,BIB,HCMB
+7361,Delta Camp Airport,Delta Camp,Botswana,\N,FBDT
+7362,Hwange (Town) Airport,Hwange,Zimbabwe,WKI,FVWT
+7410,Odienne Airport,Odienne,Cote d'Ivoire,KEO,DIOD
+7411,Siguiri Airport,Siguiri,Guinea,GII,GUSI
+7412,Nzérékoré Airport,Nzerekore,Guinea,NZE,GUNZ
+7419,Annobón Airport,San Antonio de Pale,Equatorial Guinea,NBN,FGAB
+7421,Oyo Ollombo Airport,Oyo,Congo (Brazzaville),OLL,FCOD
+7426,Blaise Diagne International Airport,Diass,Senegal,DSS,GOBD
+7509,Impfondo Airport,Impfondo,Congo (Brazzaville),ION,FCOI
+7510,El Bayadh Airport,El Bayadh,Algeria,EBH,DAOY
+7511,Alzintan Airport,Zintan,Libya,ZIS,HLZN
+7512,Monkey Bay Airport,Monkey Bay,Malawi,MYZ,FWMY
+7514,Srr Ahmadu Bello International Airport,Birnin Kebbi,Nigeria,\N,DNBK
+7515,Sir Abubakar Tafawa Balewa International Airport,Bauchi,Nigeria,BCU,DNBC
+7516,Gombe Lawanti International Airport,Gombe,Nigeria,GMO,DNGO
+7517,Dutse International Airport,Dutse,Nigeria,\N,DNDS
+7518,Jalingo Airport,Jalingo,Nigeria,\N,DNJA
+7519,Kolda North Airport,Kolda,Senegal,KDA,GODK
+7520,King Mswati III International Airport,Manzini,Swaziland,SHO,FDSK
+7521,Kilwa Masoko Airport,Kilwa Masoko,Tanzania,KIY,HTKI
+7522,West Kilimanjaro Airport,Kilimanjaro,Tanzania,\N,HTWK
+7523,Moshi Airport,Moshi,Tanzania,QSI,HTMS
+7524,Mansa Airport,Mansa,Zambia,MNS,FLMA
+7616,Brits Airport,Brits,South Africa,\N,FABS
+7625,Kisoro Airport,Kisoro,Uganda,\N,HUKI
+7626,Kasese Airport,Kasese,Uganda,KSE,HUKS
+7633,Dwangwa Airport,Dwangwa,Malawi,DWA,FWDW
+"7634,""Paloich Airport, Heliport"",Higleig,South Sudan,HGI,HSFA"
+7650,Arathusa Safari Lodge Airport,Arathusa,South Africa,ASS,FACC
+7655,Vumbura Airport,Vumburu,Botswana,\N,FBVM
+7666,Hunda Airport,Tubu Tree Camp,Botswana,\N,FBHU
+7667,Mchauru Airport,Geita,Tanzania,GIT,HTRU
+7668,Gitega Airport,Gitega,Burundi,GID,HBBE
+7682,Songwe Airport,Mbeya,Tanzania,MBI,HTGW

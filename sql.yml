@@ -1,0 +1,35 @@
+create_table: |-2
+  create table if not exists datametar(
+    metar                       VARCHAR (300) PRIMARY KEY UNIQUE NOT NULL,
+    time                        TIMESTAMP NOT NULL, 
+    station                     VARCHAR (4) NOT NULL,
+    city                        VARCHAR (20),
+    pressure                    INT,
+    pressure_unit               VARCHAR (5),
+    clouds                      ARRAY,
+    wind_direction              INT,
+    wind_unit                   VARCHAR(5),
+    wind_speed                  INT,
+    wind_speed_unit             VARCHAR (5),
+    wind_direction_var_1        INT,
+    wind_direction_var_1_unit   VARCHAR (5),
+    wind_direction_var_2        INT,
+    wind_direction_var_2_unit   VARCHAR (5),
+    visibility_str              VARCHAR (10),
+    visibility_number           INT,
+    visibility_unit             VARCHAR (5),
+    temperature                 INT,
+    temperature_unit            VARCHAR (5),
+    remarks                     TEXT,
+    flight_rules                VARCHAR (10)
+  )
+
+insert_table: |-2
+  INSERT INTO datametar (metar, time, station, city, pressure, pressure_unit, clouds, wind_direction, 
+                        wind_unit, wind_speed, wind_speed_unit, wind_direcion_var_1,
+                        wind_direction_var_1_unit, wind_direcion_var_2, wind_direction_var_2_unit,
+                        visibility_str, visibility_number, visibility_unit, temperature,
+                        temperature_unit, remarks, flight_rules)      
+  VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, 
+         %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+  ON CONFLICT (metar) DO NOTHING;

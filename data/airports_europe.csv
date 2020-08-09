@@ -1,0 +1,1831 @@
+,Name,Name2,Country,IATA,ICAO
+10,Akureyri Airport,Akureyri,Iceland,AEY,BIAR
+11,Egilsstaðir Airport,Egilsstadir,Iceland,EGS,BIEG
+12,Hornafjörður Airport,Hofn,Iceland,HFN,BIHN
+13,Húsavík Airport,Husavik,Iceland,HZK,BIHU
+14,Ísafjörður Airport,Isafjordur,Iceland,IFJ,BIIS
+15,Keflavik International Airport,Keflavik,Iceland,KEF,BIKF
+16,Patreksfjörður Airport,Patreksfjordur,Iceland,PFJ,BIPA
+17,Reykjavik Airport,Reykjavik,Iceland,RKV,BIRK
+18,Siglufjörður Airport,Siglufjordur,Iceland,SIJ,BISI
+19,Vestmannaeyjar Airport,Vestmannaeyjar,Iceland,VEY,BIVM
+296,Antwerp International Airport (Deurne),Antwerp,Belgium,ANR,EBAW
+297,Beauvechain Air Base,Beauvechain,Belgium,\N,EBBE
+298,Kleine Brogel Air Base,Kleine Brogel,Belgium,\N,EBBL
+299,Brussels Airport,Brussels,Belgium,BRU,EBBR
+300,Jehonville Air Base,Bertrix,Belgium,\N,EBBX
+301,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,EBCI
+302,Chièvres Air Base,Chievres,Belgium,\N,EBCV
+303,Koksijde Air Base,Koksijde,Belgium,\N,EBFN
+304,Florennes Air Base,Florennes,Belgium,\N,EBFS
+305,Wevelgem Airport,Kortrijk-vevelgem,Belgium,KJK,EBKT
+306,Liège Airport,Liege,Belgium,LGG,EBLG
+307,Ostend-Bruges International Airport,Ostend,Belgium,OST,EBOS
+308,Zutendaal Air Base,Zutendaal,Belgium,\N,EBSL
+309,Brustem Airfield Sint Truiden,Sint-truiden,Belgium,\N,EBST
+310,Saint Hubert Air Base,St.-hubert,Belgium,\N,EBSU
+311,Ursel Air Base,Ursel,Belgium,\N,EBUL
+312,Weelde Air Base,Weelde,Belgium,\N,EBWE
+313,Zoersel (Oostmalle) Airfield,Zoersel,Belgium,OBL,EBZR
+314,Flugplatz Bautzen,Bautzen,Germany,\N,EDAB
+315,Altenburg-Nobitz Airport,Altenburg,Germany,AOC,EDAC
+316,Dessau Airfield,Dessau,Germany,\N,EDAD
+317,Eisenhüttenstadt Airfield,Eisenhuettenstadt,Germany,\N,EDAE
+318,Großenhain Airport,Suhl,Germany,\N,EDAK
+319,Merseburg Airport,Muehlhausen,Germany,\N,EDAM
+320,Halle-Oppin Airport,Halle,Germany,\N,EDAQ
+321,Riesa-Göhlis Airport,Riesa,Germany,IES,EDAU
+322,Rechlin-Lärz Airport,Rechlin-laerz,Germany,REB,EDAX
+323,Strausberg Airport,Strausberg,Germany,\N,EDAY
+324,Schönhagen Airport,Schoenhagen,Germany,QXH,EDAZ
+325,Barth Airport,Barth,Germany,BBH,EDBH
+326,Jena-Schöngleina Airfield,Jena,Germany,\N,EDBJ
+327,Kyritz Airport,Kyritz,Germany,\N,EDBK
+328,"Magdeburg ""City"" Airport",Magdeburg,Germany,ZMG,EDBM
+329,Rothenburg/Görlitz Airport,Rothenburg/ol,Germany,\N,EDBR
+330,Anklam Airfield,Anklam,Germany,\N,EDCA
+331,Cottbus-Drewitz Airport,Cottbus,Germany,CBU,EDCD
+332,Kamenz Airport,Kamenz,Germany,\N,EDCM
+333,Berlin-Schönefeld Airport,Berlin,Germany,SXF,EDDB
+334,Dresden Airport,Dresden,Germany,DRS,EDDC
+335,Erfurt Airport,Erfurt,Germany,ERF,EDDE
+336,Frankfurt am Main Airport,Frankfurt,Germany,FRA,EDDF
+337,Münster Osnabrück Airport,Munster,Germany,FMO,EDDG
+338,Hamburg Airport,Hamburg,Germany,HAM,EDDH
+339,Berlin-Tempelhof International Airport,Berlin,Germany,THF,EDDI
+340,Cologne Bonn Airport,Cologne,Germany,CGN,EDDK
+341,Düsseldorf Airport,Duesseldorf,Germany,DUS,EDDL
+342,Munich Airport,Munich,Germany,MUC,EDDM
+343,Nuremberg Airport,Nuernberg,Germany,NUE,EDDN
+344,Leipzig/Halle Airport,Leipzig,Germany,LEJ,EDDP
+345,Saarbrücken Airport,Saarbruecken,Germany,SCN,EDDR
+346,Stuttgart Airport,Stuttgart,Germany,STR,EDDS
+347,Berlin-Tegel Airport,Berlin,Germany,TXL,EDDT
+348,Hannover Airport,Hannover,Germany,HAJ,EDDV
+349,Bremen Airport,Bremen,Germany,BRE,EDDW
+350,Frankfurt-Egelsbach Airport,Egelsbach,Germany,QEF,EDFE
+351,Frankfurt-Hahn Airport,Hahn,Germany,HHN,EDFH
+352,Mannheim-City Airport,Mannheim,Germany,MHG,EDFM
+353,Allendorf/Eder Airport,Allendorf,Germany,\N,EDFQ
+354,Worms Airport,Worms,Germany,\N,EDFV
+355,Mainz-Finthen Airport,Mainz,Germany,\N,EDFZ
+356,Eisenach-Kindel Airport,Eisenach,Germany,EIB,EDGE
+357,Siegerland Airport,Siegerland,Germany,SGE,EDGS
+358,Hamburg-Finkenwerder Airport,Hamburg,Germany,XFW,EDHI
+359,Kiel-Holtenau Airport,Kiel,Germany,KEL,EDHK
+360,Lübeck Blankensee Airport,Luebeck,Germany,LBC,EDHL
+361,Flugplatz Dahlemer Binz,Dahlemer Binz,Germany,\N,EDKV
+362,Meinerzhagen Airport,Meinerzhagen,Germany,\N,EDKZ
+363,Arnsberg-Menden Airport,Arnsberg,Germany,\N,EDLA
+364,Essen Mulheim Airport,Essen,Germany,ESS,EDLE
+365,Bielefeld Airport,Bielefeld,Germany,BFE,EDLI
+366,Mönchengladbach Airport,Moenchengladbach,Germany,MGL,EDLN
+367,Paderborn Lippstadt Airport,Paderborn,Germany,PAD,EDLP
+368,Stadtlohn-Vreden Airport,Stadtlohn,Germany,\N,EDLS
+369,Dortmund Airport,Dortmund,Germany,DTM,EDLW
+370,Augsburg Airport,Augsburg,Germany,AGB,EDMA
+371,Biberach a.d. Riß Airfield,Biberach,Germany,\N,EDMB
+372,Eggenfelden Airport,Eggenfelden,Germany,\N,EDME
+373,Mindelheim-Mattsies Airfield,Mindelheim,Germany,\N,EDMN
+374,Oberpfaffenhofen Airport,Oberpfaffenhofen,Germany,OBF,EDMO
+375,Straubing Airport,Straubing,Germany,RBM,EDMS
+376,Vilshofen Airport,Vilshofen,Germany,\N,EDMV
+377,Leutkirch-Unterzeil Airport,Leutkirch,Germany,\N,EDNL
+378,Friedrichshafen Airport,Friedrichshafen,Germany,FDH,EDNY
+379,Schwerin Parchim Airport,Parchim,Germany,SZW,EDOP
+380,Stendal-Borstel Airport,Stendal,Germany,\N,EDOV
+381,Aalen-Heidenheim/Elchingen Airport,Aalen-heidenheim,Germany,\N,EDPA
+382,Bayreuth Airport,Bayreuth,Germany,BYU,EDQD
+383,Burg Feuerstein Airport,Burg Feuerstein,Germany,URD,EDQE
+384,Hof-Plauen Airport,Hof,Germany,HOQ,EDQM
+385,Haßfurt-Schweinfurt Airport,Hassfurt,Germany,\N,EDQT
+386,Koblenz-Winningen Airfield,Koblenz,Germany,\N,EDRK
+387,Trier-Föhren Airport,Trier,Germany,\N,EDRT
+388,Speyer Airfield,Speyer,Germany,\N,EDRY
+389,Zweibrücken Airport,Zweibruecken,Germany,ZQW,EDRZ
+390,Donaueschingen-Villingen Airport,Donaueschingen,Germany,ZQL,EDTD
+391,Freiburg i. Br. Airport,Freiburg,Germany,\N,EDTF
+392,Mengen-Hohentengen Airport,Mengen,Germany,\N,EDTM
+393,Adolf Würth Airport,Schwaebisch Hall,Germany,\N,EDTY
+394,Finsterwalde/Schacksdorf Airport,Soest,Germany,\N,EDUS
+395,Braunschweig-Wolfsburg Airport,Braunschweig,Germany,BWE,EDVE
+396,Kassel-Calden Airport,Kassel,Germany,KSF,EDVK
+397,Hildesheim Airport,Hildesheim,Germany,\N,EDVM
+398,Bremerhaven Airport,Bremerhaven,Germany,BRV,EDWB
+399,Emden Airport,Emden,Germany,EME,EDWE
+400,Leer-Papenburg Airport,Leer,Germany,\N,EDWF
+401,Wilhelmshaven-Mariensiel Airport,Wilhelmshaven,Germany,WVN,EDWI
+402,Borkum Airport,Borkum,Germany,BMK,EDWR
+403,Norderney Airport,Norderney,Germany,NRD,EDWY
+404,Flensburg-Schäferhaus Airport,Flensburg,Germany,FLF,EDXF
+405,Rendsburg-Schachtholm Airport,Rendsburg,Germany,\N,EDXR
+406,Westerland Sylt Airport,Westerland,Germany,GWT,EDXW
+407,Ämari Air Base,Armari Air Force Base,Estonia,\N,EEEI
+408,Kärdla Airport,Kardla,Estonia,KDL,EEKA
+409,Kuressaare Airport,Kuressaare,Estonia,URE,EEKE
+410,Pärnu Airport,Parnu,Estonia,EPU,EEPU
+411,Lennart Meri Tallinn Airport,Tallinn-ulemiste International,Estonia,TLL,EETN
+412,Tartu Airport,Tartu,Estonia,TAY,EETU
+413,Enontekio Airport,Enontekio,Finland,ENF,EFET
+414,Eura Airport,Eura,Finland,\N,EFEU
+415,Halli Airport,Halli,Finland,KEV,EFHA
+416,Helsinki Malmi Airport,Helsinki,Finland,HEM,EFHF
+417,Helsinki Vantaa Airport,Helsinki,Finland,HEL,EFHK
+418,Hameenkyro Airport,Hameenkyro,Finland,\N,EFHM
+419,Hanko Airport,Hanko,Finland,\N,EFHN
+420,Hyvinkää Airfield,Hyvinkaa,Finland,HYV,EFHV
+421,Kiikala Airport,Kikala,Finland,\N,EFIK
+422,Immola Airport,Immola,Finland,\N,EFIM
+423,Kitee Airport,Kitee,Finland,KTQ,EFIT
+424,Ivalo Airport,Ivalo,Finland,IVL,EFIV
+425,Joensuu Airport,Joensuu,Finland,JOE,EFJO
+426,Jyvaskyla Airport,Jyvaskyla,Finland,JYV,EFJY
+427,Kauhava Airport,Kauhava,Finland,KAU,EFKA
+428,Kemi-Tornio Airport,Kemi,Finland,KEM,EFKE
+429,Kajaani Airport,Kajaani,Finland,KAJ,EFKI
+430,Kauhajoki Airport,Kauhajoki,Finland,KHJ,EFKJ
+431,Kokkola-Pietarsaari Airport,Kruunupyy,Finland,KOK,EFKK
+432,Kemijarvi Airport,Kemijarvi,Finland,\N,EFKM
+433,Kuusamo Airport,Kuusamo,Finland,KAO,EFKS
+434,Kittilä Airport,Kittila,Finland,KTT,EFKT
+435,Kuopio Airport,Kuopio,Finland,KUO,EFKU
+436,Lahti Vesivehmaa Airport,Vesivehmaa,Finland,QLF,EFLA
+437,Lappeenranta Airport,Lappeenranta,Finland,LPP,EFLP
+438,Mariehamn Airport,Mariehamn,Finland,MHQ,EFMA
+439,Menkijarvi Airport,Menkijarvi,Finland,\N,EFME
+440,Mikkeli Airport,Mikkeli,Finland,MIK,EFMI
+441,Nummela Airport,Nummela,Finland,\N,EFNU
+442,Oulu Airport,Oulu,Finland,OUL,EFOU
+443,Piikajarvi Airport,Piikajarvi,Finland,\N,EFPI
+444,Pori Airport,Pori,Finland,POR,EFPO
+445,Pudasjärvi Airport,Pudasjarvi,Finland,\N,EFPU
+446,Pyhäsalmi Airport,Pyhasalmi,Finland,\N,EFPY
+447,Raahe Pattijoki Airport,Pattijoki,Finland,\N,EFRH
+448,Rantasalmi Airport,Rantasalmi,Finland,\N,EFRN
+449,Rovaniemi Airport,Rovaniemi,Finland,RVN,EFRO
+450,Rayskala Airport,Rayskala,Finland,\N,EFRY
+451,Savonlinna Airport,Savonlinna,Finland,SVL,EFSA
+452,Selanpaa Airport,Selanpaa,Finland,\N,EFSE
+453,Sodankyla Airport,Sodankyla,Finland,SOT,EFSO
+454,Tampere-Pirkkala Airport,Tampere,Finland,TMP,EFTP
+455,Teisko Airport,Teisko,Finland,\N,EFTS
+456,Turku Airport,Turku,Finland,TKU,EFTU
+457,Utti Air Base,Utti,Finland,UTI,EFUT
+458,Vaasa Airport,Vaasa,Finland,VAA,EFVA
+459,Varkaus Airport,Varkaus,Finland,VRK,EFVR
+460,Ylivieska Airfield,Ylivieska-raudaskyla,Finland,YLI,EFYL
+461,Belfast International Airport,Belfast,United Kingdom,BFS,EGAA
+462,St Angelo Airport,Enniskillen,United Kingdom,ENK,EGAB
+463,George Best Belfast City Airport,Belfast,United Kingdom,BHD,EGAC
+464,City of Derry Airport,Londonderry,United Kingdom,LDY,EGAE
+465,Birmingham International Airport,Birmingham,United Kingdom,BHX,EGBB
+466,Coventry Airport,Coventry,United Kingdom,CVT,EGBE
+467,Leicester Airport,Leicester,United Kingdom,\N,EGBG
+468,Gloucestershire Airport,Golouchestershire,United Kingdom,GLO,EGBJ
+469,Wolverhampton Halfpenny Green Airport,Halfpenny Green,United Kingdom,\N,EGBO
+470,Cotswold Airport,Pailton,United Kingdom,GBA,EGBP
+471,Turweston Airport,Turweston,United Kingdom,\N,EGBT
+472,Wellesbourne Mountford Airport,Wellesbourne,United Kingdom,\N,EGBW
+473,Manchester Airport,Manchester,United Kingdom,MAN,EGCC
+474,Manchester Woodford Airport,Woodfort,United Kingdom,\N,EGCD
+475,Royal Marines Base Chivenor Airport,Chivenor,United Kingdom,\N,EGDC
+476,Newquay Cornwall Airport,Newquai,United Kingdom,NQY,EGHQ
+477,RAF Lyneham,Lyneham,United Kingdom,LYE,EGDL
+478,MoD Boscombe Down Airport,Boscombe Down,United Kingdom,\N,EGDM
+479,RNAS Culdrose,Culdrose,United Kingdom,\N,EGDR
+480,MoD St. Athan,St. Athan,United Kingdom,\N,EGDX
+481,RNAS Yeovilton,Yeovilton,United Kingdom,YEO,EGDY
+482,Haverfordwest Airport,Haverfordwest,United Kingdom,HAW,EGFE
+483,Cardiff International Airport,Cardiff,United Kingdom,CWL,EGFF
+484,Swansea Airport,Swansea,United Kingdom,SWS,EGFH
+485,Bristol Airport,Bristol,United Kingdom,BRS,EGGD
+486,Liverpool John Lennon Airport,Liverpool,United Kingdom,LPL,EGGP
+487,London Luton Airport,London,United Kingdom,LTN,EGGW
+488,Plymouth City Airport,Plymouth,United Kingdom,PLH,EGHD
+489,Bournemouth Airport,Bournemouth,United Kingdom,BOH,EGHH
+490,Southampton Airport,Southampton,United Kingdom,SOU,EGHI
+491,Lasham Airport,Lasham,United Kingdom,QLA,EGHL
+495,Shoreham Airport,Shoreham By Sea,United Kingdom,ESH,EGKA
+496,London Biggin Hill Airport,Biggin Hill,United Kingdom,BQH,EGKB
+497,London Gatwick Airport,London,United Kingdom,LGW,EGKK
+498,London City Airport,London,United Kingdom,LCY,EGLC
+499,Farnborough Airport,Farnborough,United Kingdom,FAB,EGLF
+500,Chalgrove Airport,Chalsgrove,United Kingdom,\N,EGLJ
+501,Blackbushe Airport,Blackbushe,United Kingdom,BBS,EGLK
+502,London Heathrow Airport,London,United Kingdom,LHR,EGLL
+503,Southend Airport,Southend,United Kingdom,SEN,EGMC
+504,Lydd Airport,Lydd,United Kingdom,LYX,EGMD
+505,Kent International Airport,Manston,United Kingdom,MSE,EGMH
+506,Brough Airport,Brough,United Kingdom,\N,EGNB
+507,Carlisle Airport,Carlisle,United Kingdom,CAX,EGNC
+508,Retford Gamston Airport,Repton,United Kingdom,\N,EGNE
+509,Blackpool International Airport,Blackpool,United Kingdom,BLK,EGNH
+510,Humberside Airport,Humberside,United Kingdom,HUY,EGNJ
+511,Barrow Walney Island Airport,Barrow Island,United Kingdom,BWF,EGNL
+512,Leeds Bradford Airport,Leeds,United Kingdom,LBA,EGNM
+513,Warton Airport,Warton,United Kingdom,WRT,EGNO
+514,Hawarden Airport,Hawarden,United Kingdom,CEG,EGNR
+515,Isle of Man Airport,Isle Of Man,Isle of Man,IOM,EGNS
+516,Newcastle Airport,Newcastle,United Kingdom,NCL,EGNT
+517,Durham Tees Valley Airport,Teesside,United Kingdom,MME,EGNV
+518,East Midlands Airport,East Midlands,United Kingdom,EMA,EGNX
+519,Llanbedr Airport,Llanbedr,United Kingdom,\N,EGOD
+520,RAF Ternhill,Ternhill,United Kingdom,\N,EGOE
+521,RAF Shawbury,Shawbury,United Kingdom,\N,EGOS
+522,RAF Woodvale,Woodvale,United Kingdom,\N,EGOW
+523,Kirkwall Airport,Kirkwall,United Kingdom,KOI,EGPA
+524,Sumburgh Airport,Sumburgh,United Kingdom,LSI,EGPB
+525,Wick Airport,Wick,United Kingdom,WIC,EGPC
+526,Aberdeen Dyce Airport,Aberdeen,United Kingdom,ABZ,EGPD
+527,Inverness Airport,Inverness,United Kingdom,INV,EGPE
+528,Glasgow International Airport,Glasgow,United Kingdom,GLA,EGPF
+529,Edinburgh Airport,Edinburgh,United Kingdom,EDI,EGPH
+530,Islay Airport,Islay,United Kingdom,ILY,EGPI
+531,Glasgow Prestwick Airport,Prestwick,United Kingdom,PIK,EGPK
+532,Benbecula Airport,Benbecula,United Kingdom,BEB,EGPL
+533,Scatsta Airport,Scatsta,United Kingdom,SCS,EGPM
+534,Dundee Airport,Dundee,United Kingdom,DND,EGPN
+535,Stornoway Airport,Stornoway,United Kingdom,SYY,EGPO
+536,Tiree Airport,Tiree,United Kingdom,TRE,EGPU
+537,RAF Leuchars,Leuchars,United Kingdom,ADX,EGQL
+538,RAF Lossiemouth,Lossiemouth,United Kingdom,LMO,EGQS
+539,Cambridge Airport,Cambridge,United Kingdom,CBG,EGSC
+540,Peterborough Business Airport,Peterborough,United Kingdom,\N,EGSF
+541,Norwich International Airport,Norwich,United Kingdom,NWI,EGSH
+542,London Stansted Airport,London,United Kingdom,STN,EGSS
+543,North Weald Airport,North Weald,United Kingdom,\N,EGSX
+544,Sheffield City Heliport,Fowlmere,United Kingdom,\N,EGSY
+545,Cranfield Airport,Cranfield,United Kingdom,\N,EGTC
+546,Exeter International Airport,Exeter,United Kingdom,EXT,EGTE
+547,Bristol Filton Airport,Bristol,United Kingdom,FZO,EGTG
+548,Oxford (Kidlington) Airport,Oxford,United Kingdom,OXF,EGTK
+549,RAF Benson,Benson,United Kingdom,BEX,EGUB
+550,RAF Lakenheath,Lakenheath,United Kingdom,LKZ,EGUL
+551,RAF Mildenhall,Mildenhall,United Kingdom,MHZ,EGUN
+552,RAF Wattisham,Wattisham,United Kingdom,\N,EGUW
+553,RAF Wyton,Wyton,United Kingdom,QUY,EGUY
+554,RAF Fairford,Fairford,United Kingdom,FFD,EGVA
+555,RAF Brize Norton,Brize Norton,United Kingdom,BZZ,EGVN
+556,RAF Odiham,Odiham,United Kingdom,ODH,EGVO
+557,DCAE Cosford Air Base,Cosford,United Kingdom,\N,EGWC
+558,RAF Northolt,Northolt,United Kingdom,NHT,EGWU
+559,RAF Coningsby,Coningsby,United Kingdom,QCY,EGXC
+560,RAF Dishforth,Dishforth,United Kingdom,\N,EGXD
+561,Leeming Airport,Leeming,United Kingdom,\N,EGXE
+562,Leeds East Airport,Church Fenton,United Kingdom,\N,EGXG
+563,RAF Honington,Honington,United Kingdom,BEQ,EGXH
+564,RAF Cottesmore,Cottesmore,United Kingdom,\N,EGXJ
+565,RAF Scampton,Scampton,United Kingdom,SQZ,EGXP
+566,RAF Wittering,Wittering,United Kingdom,\N,EGXT
+567,RAF Linton-On-Ouse,Linton-on-ouse,United Kingdom,HRT,EGXU
+568,RAF Waddington,Waddington,United Kingdom,WTN,EGXW
+569,RAF Topcliffe,Topcliffe,United Kingdom,\N,EGXZ
+570,RAF Cranwell,Cranwell,United Kingdom,\N,EGYD
+571,RAF Barkston Heath,Barkston Heath,United Kingdom,\N,EGYE
+572,RAF Marham,Marham,United Kingdom,KNF,EGYM
+574,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM
+575,Budel Airfield Kempen,Weert,Netherlands,\N,EHBD
+576,Maastricht Aachen Airport,Maastricht,Netherlands,MST,EHBK
+577,Deelen Air Base,Deelen,Netherlands,\N,EHDL
+578,Drachten Airport,Drachten,Netherlands,\N,EHDR
+579,Eindhoven Airport,Eindhoven,Netherlands,EIN,EHEH
+580,Eelde Airport,Groningen,Netherlands,GRQ,EHGG
+581,Gilze Rijen Air Base,Gilze-rijen,Netherlands,GLZ,EHGR
+582,De Kooy Airport,De Kooy,Netherlands,DHR,EHKD
+583,Lelystad Airport,Lelystad,Netherlands,LEY,EHLE
+584,Leeuwarden Air Base,Leeuwarden,Netherlands,LWR,EHLW
+585,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,EHRD
+586,Soesterberg Air Base,Soesterberg,Netherlands,UTC,EHSB
+587,Twente Airport,Enschede,Netherlands,ENS,EHTW
+588,Valkenburg Naval Air Base,Valkenburg,Netherlands,LID,EHVB
+589,Woensdrecht Air Base,Woensdrecht,Netherlands,WOE,EHWO
+590,Cork Airport,Cork,Ireland,ORK,EICK
+591,Galway Airport,Galway,Ireland,GWY,EICM
+592,Dublin Airport,Dublin,Ireland,DUB,EIDW
+593,Ireland West Knock Airport,Connaught,Ireland,NOC,EIKN
+594,Kerry Airport,Kerry,Ireland,KIR,EIKY
+595,Casement Air Base,Casement,Ireland,\N,EIME
+596,Shannon Airport,Shannon,Ireland,SNN,EINN
+597,Sligo Airport,Sligo,Ireland,SXL,EISG
+598,Waterford Airport,Waterford,Ireland,WAT,EIWF
+599,Aarhus Airport,Aarhus,Denmark,AAR,EKAH
+600,Billund Airport,Billund,Denmark,BLL,EKBI
+601,Copenhagen Kastrup Airport,Copenhagen,Denmark,CPH,EKCH
+602,Esbjerg Airport,Esbjerg,Denmark,EBJ,EKEB
+603,Grønholt Hillerød Airport,Gronholt,Denmark,\N,EKGH
+604,Karup Airport,Karup,Denmark,KRP,EKKA
+605,Læsø Airport,Laeso,Denmark,BYR,EKLS
+606,Lolland Falster Maribo Airport,Maribo,Denmark,MRW,EKMB
+607,Odense Airport,Odense,Denmark,ODE,EKOD
+608,Kruså-Padborg Airport,Krusa-padborg,Denmark,\N,EKPB
+609,Copenhagen Roskilde Airport,Copenhagen,Denmark,RKE,EKRK
+610,Bornholm Airport,Ronne,Denmark,RNN,EKRN
+611,Sønderborg Airport,Soenderborg,Denmark,SGD,EKSB
+612,Skrydstrup Air Base,Skrydstrup,Denmark,SKS,EKSP
+613,Skive Airport,Skive,Denmark,SQW,EKSV
+614,Thisted Airport,Thisted,Denmark,TED,EKTS
+615,Kolding Vamdrup Airfield,Kolding,Denmark,\N,EKVD
+616,Vagar Airport,Vagar,Faroe Islands,FAE,EKVG
+617,Vesthimmerlands Flyveplads,Vesthimmerland,Denmark,\N,EKVH
+618,Stauning Airport,Stauning,Denmark,STA,EKVJ
+619,Aalborg Airport,Aalborg,Denmark,AAL,EKYT
+620,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,ELLX
+621,Ålesund Airport,Alesund,Norway,AES,ENAL
+622,Andøya Airport,Andoya,Norway,ANX,ENAN
+623,Alta Airport,Alta,Norway,ALF,ENAT
+624,Bømoen Airport,Voss,Norway,\N,ENBM
+625,Brønnøysund Airport,Bronnoysund,Norway,BNN,ENBN
+626,Bodø Airport,Bodo,Norway,BOO,ENBO
+627,Bergen Airport Flesland,Bergen,Norway,BGO,ENBR
+628,Båtsfjord Airport,Batsfjord,Norway,BJF,ENBS
+629,Kristiansand Airport,Kristiansand,Norway,KRS,ENCN
+630,Geilo Airport Dagali,Geilo,Norway,DLD,ENDI
+631,Bardufoss Airport,Bardufoss,Norway,BDU,ENDU
+632,"Harstad/Narvik Airport, Evenes",Harstad/Narvik,Norway,EVE,ENEV
+633,Leirin Airport,Fagernes,Norway,VDB,ENFG
+634,Florø Airport,Floro,Norway,FRO,ENFL
+635,Oslo Lufthavn,Oslo,Norway,OSL,ENGM
+636,Haugesund Airport,Haugesund,Norway,HAU,ENHD
+637,Hasvik Airport,Hasvik,Norway,HAA,ENHK
+638,Kristiansund Airport (Kvernberget),Kristiansund,Norway,KSU,ENKB
+639,Kjeller Airport,Kjeller,Norway,\N,ENKJ
+640,Kirkenes Airport (Høybuktmoen),Kirkenes,Norway,KKN,ENKR
+641,Lista Airport,Farsund,Norway,FAN,ENLI
+642,Molde Airport,Molde,Norway,MOL,ENML
+643,Mosjøen Airport (Kjærstad),Mosjoen,Norway,MJF,ENMS
+644,Banak Airport,Lakselv,Norway,LKL,ENNA
+645,Notodden Airport,Notodden,Norway,NTB,ENNO
+646,Ørland Airport,Orland,Norway,OLA,ENOL
+647,Røros Airport,Roros,Norway,RRS,ENRO
+648,"Moss Airport, Rygge",Rygge,Norway,RYG,ENRY
+649,"Svalbard Airport, Longyear",Svalbard,Norway,LYR,ENSB
+650,Skien Airport,Skien,Norway,SKE,ENSN
+651,Stord Airport,Stord,Norway,SRP,ENSO
+652,Sandnessjøen Airport (Stokka),Sandnessjoen,Norway,SSJ,ENST
+653,"Tromsø Airport,",Tromso,Norway,TOS,ENTC
+654,"Sandefjord Airport, Torp",Sandefjord,Norway,TRF,ENTO
+655,Trondheim Airport Værnes,Trondheim,Norway,TRD,ENVA
+656,Stavanger Airport Sola,Stavanger,Norway,SVG,ENZV
+657,Babice Airport,Warsaw,Poland,\N,EPBC
+658,Gdańsk Lech Wałęsa Airport,Gdansk,Poland,GDN,EPGD
+659,Kraków John Paul II International Airport,Krakow,Poland,KRK,EPKK
+660,Muchowiec Airport,Katowice,Poland,\N,EPKM
+661,Katowice International Airport,Katowice,Poland,KTW,EPKT
+662,Mielec Airport,Mielec,Poland,\N,EPML
+663,Poznań-Ławica Airport,Poznan,Poland,POZ,EPPO
+664,Rzeszów-Jasionka Airport,Rzeszow,Poland,RZE,EPRZ
+665,"Szczecin-Goleniów ""Solidarność"" Airport",Szczecin,Poland,SZZ,EPSC
+666,Redzikowo Air Base,Slupsk,Poland,OSP,EPSK
+667,Swidwin Military Air Base,Shapaja,Poland,\N,EPSN
+668,Warsaw Chopin Airport,Warsaw,Poland,WAW,EPWA
+669,Copernicus Wrocław Airport,Wroclaw,Poland,WRO,EPWR
+670,Zielona Góra-Babimost Airport,Zielona Gora,Poland,IEG,EPZG
+671,Malmen Air Base,Linkoeping,Sweden,\N,ESCF
+672,Bråvalla Air Base,Norrkoeping,Sweden,\N,ESCK
+673,Uppsala Airport,Uppsala,Sweden,\N,ESCM
+674,Ronneby Airport,Ronneby,Sweden,RNB,ESDF
+675,Råda Air Base,Rada,Sweden,\N,ESFR
+676,Gothenburg-Landvetter Airport,Gothenborg,Sweden,GOT,ESGG
+677,Jönköping Airport,Joenkoeping,Sweden,JKG,ESGJ
+678,Falköping Airport,Falkoping,Sweden,\N,ESGK
+679,Lidköping-Hovby Airport,Lidkoping,Sweden,LDK,ESGL
+680,Gothenburg City Airport,Gothenborg,Sweden,GSE,ESGP
+681,Skövde Airport,Skovde,Sweden,KVB,ESGR
+682,Trollhättan-Vänersborg Airport,Trollhattan,Sweden,THN,ESGT
+683,Karlsborg Air Base,Karlsborg,Sweden,\N,ESIA
+684,Såtenäs Air Base,Satenas,Sweden,\N,ESIB
+685,Barkarby Airport,Stockholm,Sweden,\N,ESKB
+686,Karlskoga Airport,Karlskoga,Sweden,KSK,ESKK
+687,Mora Airport,Mora,Sweden,MXX,ESKM
+688,Stockholm Skavsta Airport,Stockholm,Sweden,NYO,ESKN
+689,Arvika Airport,Arvika,Sweden,\N,ESKV
+690,Emmaboda Airfield,Emmaboda,Sweden,\N,ESMA
+691,Feringe Airport,Ljungby,Sweden,\N,ESMG
+692,Kristianstad Airport,Kristianstad,Sweden,KID,ESMK
+693,Landskrona Airport,Landskrona,Sweden,\N,ESML
+694,Oskarshamn Airport,Oskarshamn,Sweden,OSK,ESMO
+695,Anderstorp Airport,Anderstorp,Sweden,\N,ESMP
+696,Kalmar Airport,Kalkmar,Sweden,KLR,ESMQ
+697,Malmö Sturup Airport,Malmoe,Sweden,MMX,ESMS
+698,Halmstad Airport,Halmstad,Sweden,HAD,ESMT
+699,Hagshult Air Base,Hagshult,Sweden,\N,ESMV
+700,Växjö Kronoberg Airport,Vaxjo,Sweden,VXO,ESMX
+701,Hallviken Airport,Hallviken,Sweden,\N,ESNA
+702,Hedlanda Airport,Hede,Sweden,\N,ESNC
+703,Sveg Airport,Sveg,Sweden,EVG,ESND
+704,Gällivare Airport,Gallivare,Sweden,GEV,ESNG
+705,Hudiksvall Airport,Hudiksvall,Sweden,HUV,ESNH
+706,Jokkmokk Airport,Jokkmokk,Sweden,\N,ESNJ
+707,Kramfors Sollefteå Airport,Kramfors,Sweden,KRF,ESNK
+708,Lycksele Airport,Lycksele,Sweden,LYC,ESNL
+709,Optand Airport,Optand,Sweden,\N,ESNM
+710,Sundsvall-Härnösand Airport,Sundsvall,Sweden,SDL,ESNN
+711,Örnsköldsvik Airport,Ornskoldsvik,Sweden,OER,ESNO
+712,Piteå Airport,Pitea,Sweden,\N,ESNP
+713,Kiruna Airport,Kiruna,Sweden,KRN,ESNQ
+714,Orsa Airport,Orsa,Sweden,\N,ESNR
+715,Skellefteå Airport,Skelleftea,Sweden,SFT,ESNS
+716,Sättna Airport,Sattna,Sweden,\N,ESNT
+717,Umeå Airport,Umea,Sweden,UME,ESNU
+718,Vilhelmina Airport,Vilhelmina,Sweden,VHM,ESNV
+719,Arvidsjaur Airport,Arvidsjaur,Sweden,AJR,ESNX
+720,Örebro Airport,Orebro,Sweden,ORB,ESOE
+721,Stockholm Västerås Airport,Vasteras,Sweden,VST,ESOW
+722,Luleå Airport,Lulea,Sweden,LLA,ESPA
+723,Vidsel Air Base,Vidsel,Sweden,\N,ESPE
+724,Arboga Airport,Arboga,Sweden,\N,ESQO
+725,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,ESSA
+726,Stockholm-Bromma Airport,Stockholm,Sweden,BMA,ESSB
+727,Borlange Airport,Borlange,Sweden,BLE,ESSD
+728,Hultsfred Airport,Hultsfred,Sweden,HLF,ESSF
+729,Gävle Sandviken Airport,Gavle,Sweden,GVX,ESSK
+730,Linköping City Airport,Linkoeping,Sweden,LPI,ESSL
+731,Norrköping Airport,Norrkoeping,Sweden,NRK,ESSP
+732,Eskilstuna Airport,Eskilstuna,Sweden,EKT,ESSU
+733,Visby Airport,Visby,Sweden,VBY,ESSV
+734,Kalixfors Airport,Kalixfors,Sweden,\N,ESUK
+735,Spangdahlem Air Base,Spangdahlem,Germany,SPM,ETAD
+736,Ramstein Air Base,Ramstein,Germany,RMS,ETAR
+737,[Duplicate] Giebelstadt Army Air Field,Giebelstadt,Germany,GHF,ETEU
+738,Bückeburg Air Base,Brueckeburg,Germany,\N,ETHB
+739,Celle Airport,Celle,Germany,ZCN,ETHC
+740,Rheine Bentlage Air Base,Rheine-brentlange,Germany,\N,ETHE
+741,Fritzlar Airport,Fritzlar,Germany,FRZ,ETHF
+742,Laupheim Air Base,Laupheim,Germany,\N,ETHL
+743,Mendig Airfield,Mendig,Germany,\N,ETHM
+744,Niederstetten Army Air Base,Niederstetten,Germany,\N,ETHN
+745,Roth Airport,Roth,Germany,\N,ETHR
+746,Fassberg Air Base,Fassberg,Germany,\N,ETHS
+747,Grafenwohr Army Air Field,Grafenwoehr,Germany,\N,ETIC
+748,Hanau Army Air Field,Hanau,Germany,ZNF,ETID
+749,Hohenfels Army Air Field,Hohenfels,Germany,\N,ETIH
+750,Flugplatz Kitzingen,Kitzingen,Germany,KZG,ETIN
+751,Nordholz Naval Airbase,Nordholz,Germany,FCN,ETMN
+752,Diepholz Air Base,Diepholz,Germany,\N,ETND
+753,Geilenkirchen Air Base,Geilenkirchen,Germany,GKE,ETNG
+754,Hohn Air Base,Hohn,Germany,\N,ETNH
+755,Jever Air Base,Jever,Germany,\N,ETNJ
+756,Rostock-Laage Airport,Laage,Germany,RLG,ETNL
+757,Nörvenich Air Base,Noervenich,Germany,\N,ETNN
+758,Schleswig Air Base,Schleswig,Germany,WBG,ETNS
+759,Wittmundhafen Airport,Wittmundhafen,Germany,\N,ETNT
+760,Wunstorf Air Base,Wunstorf,Germany,\N,ETNW
+761,Vilseck Army Air Field,Vilseck,Germany,\N,ETOI
+762,Coleman Army Air Field,Coleman,Germany,\N,ETOR
+763,Wiesbaden Army Airfield,Wiesbaden,Germany,WIE,ETOU
+764,Landsberg Lech Air Base,Landsberg,Germany,\N,ETSA
+765,Büchel Air Base,Buechel,Germany,\N,ETSB
+766,Erding Airport,Erding,Germany,\N,ETSE
+767,Fürstenfeldbruck Air Base,Fuerstenfeldbruck,Germany,FEL,ETSF
+768,Holzdorf Air Base,Holzdorf,Germany,\N,ETSH
+769,Ingolstadt Manching Airport,Ingolstadt,Germany,IGS,ETSI
+770,Lechfeld Air Base,Lechfeld,Germany,\N,ETSL
+771,Neuburg AFB,Neuburg,Germany,\N,ETSN
+772,Gütersloh Air Base,Guetersloh,Germany,GUT,ETUO
+1028,Fuerteventura Airport,Fuerteventura,Spain,FUE,GCFV
+1029,Hierro Airport,Hierro,Spain,VDE,GCHI
+1030,La Palma Airport,Santa Cruz De La Palma,Spain,SPC,GCLA
+1031,Gran Canaria Airport,Gran Canaria,Spain,LPA,GCLP
+1032,Lanzarote Airport,Arrecife,Spain,ACE,GCRR
+1033,Tenerife South Airport,Tenerife,Spain,TFS,GCTS
+1034,Tenerife Norte Airport,Tenerife,Spain,TFN,GCXO
+1035,Melilla Airport,Melilla,Spain,MLN,GEML
+1166,Larnaca International Airport,Larnaca,Cyprus,LCA,LCLK
+1167,Paphos International Airport,Paphos,Cyprus,PFO,LCPH
+1168,RAF Akrotiri,Akrotiri,Cyprus,AKT,LCRA
+1169,Dubrovnik Airport,Dubrovnik,Croatia,DBV,LDDU
+1170,Osijek-Čepin Airfield,Cepin,Croatia,\N,LDOC
+1171,Osijek Airport,Osijek,Croatia,OSI,LDOS
+1172,Pula Airport,Pula,Croatia,PUY,LDPL
+1173,Grobnicko Polje Airport,Grobnik,Croatia,\N,LDRG
+1174,Rijeka Airport,Rijeka,Croatia,RJK,LDRI
+1175,Split Airport,Split,Croatia,SPU,LDSP
+1176,Varaždin Airport,Varazdin,Croatia,\N,LDVA
+1177,Zagreb Airport,Zagreb,Croatia,ZAG,LDZA
+1178,Zadar Airport,Zadar,Croatia,ZAD,LDZD
+1179,Udbina Air Base,Udbina,Croatia,\N,LDZU
+1180,Albacete-Los Llanos Airport,Albacete,Spain,ABC,LEAB
+1181,Alicante International Airport,Alicante,Spain,ALC,LEAL
+1182,Almería International Airport,Almeria,Spain,LEI,LEAM
+1183,Asturias Airport,Aviles,Spain,OVD,LEAS
+1184,Córdoba Airport,Cordoba,Spain,ODB,LEBA
+1185,Bilbao Airport,Bilbao,Spain,BIO,LEBB
+1186,Barcelona International Airport,Barcelona,Spain,BCN,LEBL
+1187,Badajoz Airport,Badajoz,Spain,BJZ,LEBZ
+1188,A Coruña Airport,La Coruna,Spain,LCG,LECO
+1189,Armilla Air Base,Granada,Spain,\N,LEGA
+1190,Girona Airport,Gerona,Spain,GRO,LEGE
+1191,Federico Garcia Lorca Airport,Granada,Spain,GRX,LEGR
+1192,Getafe Air Base,Madrid,Spain,\N,LEGT
+1193,Ibiza Airport,Ibiza,Spain,IBZ,LEIB
+1194,Jerez Airport,Jerez,Spain,XRY,LEJR
+1195,San Javier Airport,Murcia,Spain,MJV,LELC
+1196,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD
+1197,Málaga Airport,Malaga,Spain,AGP,LEMG
+1198,Menorca Airport,Menorca,Spain,MAH,LEMH
+1199,Moron Air Base,Sevilla,Spain,OZP,LEMO
+1200,Ocaña Airport,Ocana,Spain,\N,LEOC
+1201,Pamplona Airport,Pamplona,Spain,PNA,LEPP
+1202,Alcantarilla Air Base,Murcia,Spain,\N,LERI
+1203,Reus Air Base,Reus,Spain,REU,LERS
+1204,Rota Naval Station Airport,Rota,Spain,ROZ,LERT
+1205,Salamanca Airport,Salamanca,Spain,SLM,LESA
+1206,Son Bonet Airport,Son Bonet,Spain,\N,LESB
+1207,San Luis Airport,San Luis,Spain,\N,LESL
+1208,San Sebastian Airport,San Sebastian,Spain,EAS,LESO
+1209,Santiago de Compostela Airport,Santiago,Spain,SCQ,LEST
+1210,Pirineus - la Seu d'Urgel Airport,Seo De Urgel,Spain,LEU,LESU
+1211,Torrejón Airport,Madrid,Spain,TOJ,LETO
+1212,Valencia Airport,Valencia,Spain,VLC,LEVC
+1213,Valladolid Airport,Valladolid,Spain,VLL,LEVD
+1214,Vitoria/Foronda Airport,Vitoria,Spain,VIT,LEVT
+1215,Vigo Airport,Vigo,Spain,VGO,LEVX
+1216,Santander Airport,Santander,Spain,SDR,LEXJ
+1217,Zaragoza Air Base,Zaragoza,Spain,ZAZ,LEZG
+1218,Sevilla Airport,Sevilla,Spain,SVQ,LEZL
+1219,Calais-Dunkerque Airport,Calais,France,CQF,LFAC
+1220,Péronne-Saint-Quentin Airport,Peronne,France,\N,LFAG
+1221,Nangis-Les Loges Airport,Nangis,France,\N,LFAI
+1222,Bagnoles-de-l'Orne-Couterne Airport,Bagnole-de-l'orne,France,\N,LFAO
+1223,Albert-Bray Airport,Albert,France,BYF,LFAQ
+1224,Le Touquet-Côte d'Opale Airport,Le Tourquet,France,LTQ,LFAT
+1225,Valenciennes-Denain Airport,Valenciennes,France,XVS,LFAV
+1226,Amiens-Glisy Airport,Amiens,France,\N,LFAY
+1227,Agen-La Garenne Airport,Agen,France,AGF,LFBA
+1228,Cazaux (BA 120) Air Base,Cazaux,France,\N,LFBC
+1229,Bordeaux-Mérignac Airport,Bordeaux,France,BOD,LFBD
+1230,Bergerac-Roumanière Airport,Bergerac,France,EGC,LFBE
+1231,Toulouse-Francazal (BA 101) Air Base,Toulouse,France,\N,LFBF
+1232,Cognac-Châteaubernard (BA 709) Air Base,Cognac,France,CNG,LFBG
+1233,Poitiers-Biard Airport,Poitiers,France,PIS,LFBI
+1234,Montluçon-Guéret Airport,Montlucon-gueret,France,MCU,LFBK
+1235,Limoges Airport,Limoges,France,LIG,LFBL
+1236,Mont-de-Marsan (BA 118) Air Base,Mont-de-marsan,France,\N,LFBM
+1237,Niort-Souché Airport,Niort,France,NIT,LFBN
+1238,Toulouse-Blagnac Airport,Toulouse,France,TLS,LFBO
+1239,Pau Pyrénées Airport,Pau,France,PUF,LFBP
+1240,Muret-Lherm Airport,La Rochelle,France,\N,LFBR
+1241,Tarbes-Lourdes-Pyrénées Airport,Tarbes,France,LDE,LFBT
+1242,Angoulême-Brie-Champniers Airport,Angouleme,France,ANG,LFBU
+1243,Brive Souillac Airport,Brive,France,BVE,LFSL
+1244,Périgueux-Bassillac Airport,Perigueux,France,PGX,LFBX
+1245,Biarritz-Anglet-Bayonne Airport,Biarritz-bayonne,France,BIQ,LFBZ
+1246,Cahors-Lalbenque Airport,Cahors,France,ZAO,LFCC
+1247,Saint-Girons-Antichan Airport,St.-girons,France,\N,LFCG
+1248,Arcachon-La Teste-de-Buch Airport,Arcachon,France,\N,LFCH
+1249,Albi-Le Séquestre Airport,Albi,France,LBI,LFCI
+1250,Castres-Mazamet Airport,Castres,France,DCM,LFCK
+1251,Toulouse-Lasbordes Airport,Toulouse,France,\N,LFCL
+1252,Millau-Larzac Airfield,Millau,France,\N,LFCM
+1253,Graulhet-Montdragon Airport,Graulhet,France,\N,LFCQ
+1254,Rodez-Marcillac Airport,Rodez,France,RDZ,LFCR
+1255,Ussel-Thalamy Airport,Ussel,France,\N,LFCU
+1256,Villeneuve-sur-Lot Airport,Villeneuve-sur-lot,France,\N,LFCW
+1257,Royan-Médis Airport,Royan,France,RYN,LFCY
+1258,Mimizan Airport,Mimizan,France,\N,LFCZ
+1259,Aire-sur-l'Adour Airport,Aire-sur-l'adour,France,\N,LFDA
+1260,Montauban Airport,Montauban,France,XMW,LFDB
+1261,Auch-Lamothe Airport,Auch,France,\N,LFDH
+1262,Libourne-Artigues-de-Lussac Airport,Libourne,France,\N,LFDI
+1263,Pamiers-Les Pujols Airport,Pamiers,France,\N,LFDJ
+1264,Marmande-Virazeil Airport,Marmande,France,\N,LFDM
+1265,Rochefort-Saint-Agnant (BA 721) Airport,Rochefort,France,RCO,LFDN
+1266,Pontivy Airport,Pontivy,France,\N,LFED
+1267,Aubigny-sur-Nère Airport,Aubigny-sur-nere,France,\N,LFEH
+1268,Guiscriff Scaer Airport,Guiscriff-scaer,France,\N,LFES
+1269,Ancenis Airport,Ancenis,France,\N,LFFI
+1270,Brienne-le-Château Airport,Brienne-le Chateau,France,\N,LFFN
+1271,Colmar-Houssen Airport,Colmar,France,CMR,LFGA
+1272,Beaune-Challanges Airport,Beaune,France,\N,LFGF
+1273,Dole-Tavaux Airport,Dole,France,DLE,LFGJ
+1274,Joigny Airport,Joigny,France,\N,LFGK
+1275,Verdun-Le Rozelier Airfield,Verdun,France,\N,LFGW
+1276,Aubenas-Ardèche Méridional Airport,Aubenas-vals-lanas,France,OBS,LFHO
+1277,Le Puy-Loudes Airport,Le Puy,France,LPY,LFHP
+1278,Saint-Flour-Coltines Airport,St.-flour,France,\N,LFHQ
+1279,Bourg-Ceyzériat Airport,Bourg,France,\N,LFHS
+1280,Villefranche-Tarare Airport,Vilefrance,France,\N,LFHV
+1281,Moulins-Montbeugny Airport,Moulins,France,\N,LFHY
+1282,Saint-Affrique-Belmont Airport,St.-afrique-belmont,France,\N,LFIF
+1283,Cassagnes-Bégonhès Airport,Cassagnes-beghones,France,\N,LFIG
+1284,Metz-Nancy-Lorraine Airport,Metz,France,ETZ,LFJL
+1285,Bastia-Poretta Airport,Bastia,France,BIA,LFKB
+1286,Calvi-Sainte-Catherine Airport,Calvi,France,CLY,LFKC
+1287,Figari Sud-Corse Airport,Figari,France,FSC,LFKF
+1288,Ajaccio-Napoléon Bonaparte Airport,Ajaccio,France,AJA,LFKJ
+1289,Propriano Airport,Propriano,France,PRP,LFKO
+1290,Solenzara (BA 126) Air Base,Solenzara,France,SOZ,LFKS
+1291,Corte Airport,Corte,France,\N,LFKT
+1292,Auxerre-Branches Airport,Auxerre,France,AUF,LFLA
+1293,Chambéry-Savoie Airport,Chambery,France,CMF,LFLB
+1294,Clermont-Ferrand Auvergne Airport,Clermont-Ferrand,France,CFE,LFLC
+1295,Bourges Airport,Bourges,France,BOU,LFLD
+1296,Chambéry-Challes-les-Eaux Airport,Chambery,France,\N,LFLE
+1297,Chalon-Champforgeuil Airport,Chalon,France,\N,LFLH
+1298,Annemasse Airport,Annemasse,France,QNJ,LFLI
+1299,Lyon Saint-Exupéry Airport,Lyon,France,LYS,LFLL
+1300,Mâcon-Charnay Airport,Macon,France,\N,LFLM
+1301,Saint-Yan Airport,St.-yan,France,SYT,LFLN
+1302,Roanne-Renaison Airport,Roanne,France,RNE,LFLO
+1303,Annecy-Haute-Savoie-Mont Blanc Airport,Annecy,France,NCY,LFLP
+1304,Grenoble-Isère Airport,Grenoble,France,GNB,LFLS
+1305,Montluçon-Domérat Airport,Montlucon,France,\N,LFLT
+1306,Valence-Chabeuil Airport,Valence,France,VAF,LFLU
+1307,Vichy-Charmeil Airport,Vichy,France,VHY,LFLV
+1308,Aurillac Airport,Aurillac,France,AUR,LFLW
+1309,"Châteauroux-Déols ""Marcel Dassault"" Airport",Chateauroux,France,CHR,LFLX
+1310,Lyon-Bron Airport,Lyon,France,LYN,LFLY
+1311,Aix-en-Provence (BA 114) Airport,Aix-les-milles,France,\N,LFMA
+1312,Le Luc-Le Cannet Airport,Le Luc,France,\N,LFMC
+1313,Cannes-Mandelieu Airport,Cannes,France,CEQ,LFMD
+1314,Saint-Étienne-Bouthéon Airport,St-Etienne,France,EBU,LFMH
+1315,Istres Le Tubé/Istres Air Base (BA 125) Airport,Istres,France,\N,LFMI
+1316,Carcassonne Airport,Carcassonne,France,CCF,LFMK
+1317,Marseille Provence Airport,Marseille,France,MRS,LFML
+1318,Nice-Côte d'Azur Airport,Nice,France,NCE,LFMN
+1319,Orange-Caritat (BA 115) Air Base,Orange,France,XOG,LFMO
+1320,Perpignan-Rivesaltes (Llabanère) Airport,Perpignan,France,PGF,LFMP
+1321,Le Castellet Airport,Le Castellet,France,CTT,LFMQ
+1322,Alès-Deaux Airport,Ales,France,\N,LFMS
+1323,Montpellier-Méditerranée Airport,Montpellier,France,MPL,LFMT
+1324,Béziers-Vias Airport,Beziers,France,BZR,LFMU
+1325,Avignon-Caumont Airport,Avignon,France,AVN,LFMV
+1326,Salon-de-Provence (BA 701) Air Base,Salon,France,\N,LFMY
+1327,Lézignan-Corbières Airfield,Lezignan-corbieres,France,\N,LFMZ
+1328,Mende-Brenoux Airfield,Mende,France,MEN,LFNB
+1329,Carpentras Airport,Carpentras,France,\N,LFNH
+1330,Avord (BA 702) Air Base,Avord,France,\N,LFOA
+1331,Paris Beauvais Tillé Airport,Beauvais,France,BVA,LFOB
+1332,Châteaudun (BA 279) Air Base,Chateaudun,France,\N,LFOC
+1333,Saumur-Saint-Florent Airport,Saumur,France,\N,LFOD
+1334,Évreux-Fauville (BA 105) Air Base,Evreux,France,EVX,LFOE
+1335,Le Havre Octeville Airport,Le Havre,France,LEH,LFOH
+1336,Abbeville,Abbeville,France,XAB,LFOI
+1337,Orléans-Bricy (BA 123) Air Base,Orleans,France,ORE,LFOJ
+1338,Châlons-Vatry Airport,Chalons,France,XCR,LFOK
+1339,Rouen Airport,Rouen,France,URO,LFOP
+1340,Tours-Val-de-Loire Airport,Tours,France,TUF,LFOT
+1341,Cholet Le Pontreau Airport,Cholet,France,CET,LFOU
+1342,Laval-Entrammes Airport,Laval,France,LVA,LFOV
+1343,Orléans-Saint-Denis-de-l'Hôtel Airport,Orleans,France,\N,LFOZ
+1344,Paris-Le Bourget Airport,Paris,France,LBG,LFPB
+1345,Creil Air Base,Creil,France,CSF,LFPC
+1346,Charles de Gaulle International Airport,Paris,France,CDG,LFPG
+1347,Coulommiers-Voisins Airport,Coulommiers,France,\N,LFPK
+1348,Melun-Villaroche Air Base,Melun,France,\N,LFPM
+1349,Toussus-le-Noble Airport,Toussous-le-noble,France,TNF,LFPN
+1350,Paris-Orly Airport,Paris,France,ORY,LFPO
+1351,Pontoise - Cormeilles-en-Vexin Airport,Pontoise,France,POX,LFPT
+1352,Villacoublay-Vélizy (BA 107) Air Base,Villacoublay,France,VIY,LFPV
+1353,Reims-Prunay Airport,Reims,France,\N,LFQA
+1354,Troyes-Barberey Airport,Troyes,France,\N,LFQB
+1355,Lunéville-Croismare Airport,Luneville,France,\N,LFQC
+1356,Étain-Rouvres Air Base,Etain,France,\N,LFQE
+1357,Autun-Bellevue Airport,Autun,France,\N,LFQF
+1358,Nevers-Fourchambault Airport,Nevers,France,NVS,LFQG
+1359,Cambrai-Épinoy (BA 103) Air Base,Cambrai,France,\N,LFQI
+1360,Maubeuge-Élesmes Airport,Maubeuge,France,XME,LFQJ
+1361,Besançon-La Vèze Airport,Besancon-la-veze,France,\N,LFQM
+1362,Phalsbourg-Bourscheid Air Base,Phalsbourg,France,\N,LFQP
+1363,Lille-Lesquin Airport,Lille,France,LIL,LFQQ
+1364,Merville-Calonne Airport,Merville,France,HZB,LFQT
+1365,Charleville-Mézières Airport,Charleville,France,XCZ,LFQV
+1366,Vesoul-Frotey Airport,Vesoul-frotey,France,\N,LFQW
+1367,Brest Bretagne Airport,Brest,France,BES,LFRB
+1368,Cherbourg-Maupertus Airport,Cherbourg,France,CER,LFRC
+1369,Dinard-Pleurtuit-Saint-Malo Airport,Dinard,France,DNR,LFRD
+1370,La Baule-Escoublac Airport,La Baule,France,LBY,LFRE
+1371,Granville Airport,Granville,France,GFR,LFRF
+1372,Deauville-Saint-Gatien Airport,Deauville,France,DOL,LFRG
+1373,Lorient South Brittany (Bretagne Sud) Airport,Lorient,France,LRT,LFRH
+1374,La Roche-sur-Yon Airport,La Roche-sur-yon,France,EDM,LFRI
+1375,Landivisiau Air Base,Landivisiau,France,LDV,LFRJ
+1376,Caen-Carpiquet Airport,Caen,France,CFR,LFRK
+1377,Lanvéoc-Poulmic Air Base,Lanvedoc,France,\N,LFRL
+1378,Le Mans-Arnage Airport,Le Mans,France,LME,LFRM
+1379,Rennes-Saint-Jacques Airport,Rennes,France,RNS,LFRN
+1380,Lannion-Côte de Granit Airport,Lannion,France,LAI,LFRO
+1381,Quimper-Cornouaille Airport,Quimper,France,UIP,LFRQ
+1382,Nantes Atlantique Airport,Nantes,France,NTE,LFRS
+1383,Saint-Brieuc-Armor Airport,St.-brieuc Armor,France,SBK,LFRT
+1384,Morlaix-Ploujean Airport,Morlaix,France,MXN,LFRU
+1385,Vannes-Meucon Airport,Vannes,France,VNE,LFRV
+1386,Saint-Nazaire-Montoir Airport,St.-nazaire,France,SNR,LFRZ
+1387,EuroAirport Basel-Mulhouse-Freiburg Airport,Mulhouse,France,BSL,LFSB
+1388,Colmar-Meyenheim Air Base,Colmar,France,\N,LFSC
+1389,Dijon-Bourgogne Airport,Dijon,France,DIJ,LFSD
+1390,Metz-Frescaty (BA 128) Air Base,Metz,France,MZM,LFSF
+1391,Épinal-Mirecourt Airport,Epinal,France,EPL,LFSG
+1392,Haguenau Airport,Haguenau,France,\N,LFSH
+1393,Saint-Dizier-Robinson (BA 113) Air Base,St.-dizier,France,\N,LFSI
+1394,Montbéliard-Courcelles Airfield,Montbeliard,France,\N,LFSM
+1395,Nancy-Essey Airport,Nancy,France,ENC,LFSN
+1396,Nancy-Ochey (BA 133) Air Base,Nancy,France,\N,LFSO
+1397,Pontarlier Airport,Pontarlier,France,\N,LFSP
+1398,Reims-Champagne (BA 112) Air Base,Reims,France,RHE,LFSR
+1399,Strasbourg Airport,Strasbourg,France,SXB,LFST
+1400,Luxeuil-Saint-Sauveur (BA 116) Air Base,Luxeuil,France,\N,LFSX
+1401,Cuers-Pierrefeu Airport,Cuers,France,\N,LFTF
+1402,Toulon-Hyères Airport,Hyeres,France,TLN,LFTH
+1403,Nîmes-Arles-Camargue Airport,Nimes,France,FNI,LFTW
+1406,Ambérieu Air Base (BA 278),Amberieu,France,\N,LFXA
+1407,Damblain Airport,Damblain,France,\N,LFYD
+1408,Andravida Air Base,Andravida,Greece,PYR,LGAD
+1409,Agrinion Air Base,Agrinion,Greece,AGQ,LGAG
+1410,Dimokritos Airport,Alexandroupolis,Greece,AXD,LGAL
+1411,Alexandria Airport,Alexandria,Greece,\N,LGAX
+1412,Nea Anchialos Airport,Nea Anghialos,Greece,VOL,LGBL
+1413,Elefsis Airport,Elefsis,Greece,\N,LGEL
+1414,Chios Island National Airport,Chios,Greece,JKH,LGHI
+1415,Ioannina Airport,Ioannina,Greece,IOA,LGIO
+1416,Heraklion International Nikos Kazantzakis Airport,Heraklion,Greece,HER,LGIR
+1417,Kastoria National Airport,Kastoria,Greece,KSO,LGKA
+1418,Kithira Airport,Kithira,Greece,KIT,LGKC
+1419,Kefallinia Airport,Keffallinia,Greece,EFL,LGKF
+1420,Kalamata Airport,Kalamata,Greece,KLX,LGKL
+1421,Amigdhaleon Airport,Kavala,Greece,\N,LGKM
+1422,Kos Airport,Kos,Greece,KGS,LGKO
+1423,Karpathos Airport,Karpathos,Greece,AOK,LGKP
+1424,Ioannis Kapodistrias International Airport,Kerkyra/corfu,Greece,CFU,LGKR
+1425,Kasos Airport,Kasos,Greece,KSJ,LGKS
+1426,Alexander the Great International Airport,Kavala,Greece,KVA,LGKV
+1427,Filippos Airport,Kozani,Greece,KZI,LGKZ
+1428,Leros Airport,Leros,Greece,LRS,LGLE
+1429,Limnos Airport,Limnos,Greece,LXS,LGLM
+1430,Larisa Airport,Larissa,Greece,LRA,LGLR
+1431,Megara Airport,Megara,Greece,\N,LGMG
+1432,Mikonos Airport,Mykonos,Greece,JMK,LGMK
+1433,Mytilene International Airport,Mytilini,Greece,MJT,LGMT
+1434,Aktion National Airport,Preveza,Greece,PVK,LGPZ
+1435,Maritsa Airport,Rhodos,Greece,\N,LGRD
+1436,Diagoras Airport,Rhodos,Greece,RHO,LGRP
+1437,Araxos Airport,Patras,Greece,GPA,LGRX
+1438,Chania International Airport,Chania,Greece,CHQ,LGSA
+1439,Skiathos Island National Airport,Skiathos,Greece,JSI,LGSK
+1440,Samos Airport,Samos,Greece,SMI,LGSM
+1441,Sparti Airport,Sparti,Greece,SPJ,LGSP
+1442,Santorini Airport,Thira,Greece,JTR,LGSR
+1443,Sitia Airport,Sitia,Greece,JSH,LGST
+1444,Stefanovikion Air Base,Stefanovikion,Greece,\N,LGSV
+1445,Skiros Airport,Skiros,Greece,SKU,LGSY
+1446,Tanagra Air Base,Tanagra,Greece,\N,LGTG
+1447,Kasteli Airport,Kasteli,Greece,\N,LGTL
+1448,Tripolis Airport,Tripolis,Greece,\N,LGTP
+1449,Thessaloniki Macedonia International Airport,Thessaloniki,Greece,SKG,LGTS
+1450,Tatoi Airport,Dekelia,Greece,\N,LGTT
+1451,"Zakynthos International Airport ""Dionysios Solomos""",Zakynthos,Greece,ZTH,LGZA
+1452,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,LHBP
+1453,Debrecen International Airport,Debrecen,Hungary,DEB,LHDC
+1454,Kecskemét Airport,Kecskemet,Hungary,\N,LHKE
+1455,Nyíregyháza Airport,Nyirregyhaza,Hungary,\N,LHNY
+1456,Őcsény Airport,Ocseny,Hungary,\N,LHOY
+1457,Szentkirályszabadja Airport,Azentkilyszabadja,Hungary,\N,LHSA
+1458,Szolnok Air Base,Szolnok,Hungary,\N,LHSN
+1459,Amendola Air Base,Amendola,Italy,\N,LIBA
+1460,Crotone Airport,Crotone,Italy,CRV,LIBC
+1461,Bari Karol Wojtyła Airport,Bari,Italy,BRI,LIBD
+1462,"Foggia ""Gino Lisa"" Airport",Foggia,Italy,FOG,LIBF
+1463,"Taranto-Grottaglie ""Marcello Arlotta"" Airport",Grottaglie,Italy,TAR,LIBG
+1464,Lecce Galatina Air Base,Lecce,Italy,LCC,LIBN
+1465,Pescara International Airport,Pescara,Italy,PSR,LIBP
+1466,Brindisi – Salento Airport,Brindisi,Italy,BDS,LIBR
+1467,Gioia Del Colle Air Base,Gioia Del Colle,Italy,\N,LIBV
+1468,Lamezia Terme Airport,Lamezia,Italy,SUF,LICA
+1469,Catania-Fontanarossa Airport,Catania,Italy,CTA,LICC
+1470,Lampedusa Airport,Lampedusa,Italy,LMP,LICD
+1471,Pantelleria Airport,Pantelleria,Italy,PNL,LICG
+1472,Falcone–Borsellino Airport,Palermo,Italy,PMO,LICJ
+1473,Palermo-Boccadifalco Airport,Palermo,Italy,\N,LICP
+1474,Reggio Calabria Airport,Reggio Calabria,Italy,REG,LICR
+1475,Vincenzo Florio Airport Trapani-Birgi,Trapani,Italy,TPS,LICT
+1476,Sigonella Navy Air Base,Sigonella,Italy,NSY,LICZ
+1477,Alghero-Fertilia Airport,Alghero,Italy,AHO,LIEA
+1478,Decimomannu Air Base,Decimomannu,Italy,DCI,LIED
+1479,Cagliari Elmas Airport,Cagliari,Italy,CAG,LIEE
+1480,Olbia Costa Smeralda Airport,Olbia,Italy,OLB,LIEO
+1481,Tortolì Airport,Tortoli,Italy,TTB,LIET
+1482,Torino-Aeritalia Airport,Turin,Italy,\N,LIMA
+1483,Milano-Bresso Airfield,Milano,Italy,\N,LIMB
+1484,Malpensa International Airport,Milano,Italy,MXP,LIMC
+1485,Il Caravaggio International Airport,Bergamo,Italy,BGY,LIME
+1486,Turin Airport,Torino,Italy,TRN,LIMF
+1487,Villanova D'Albenga International Airport,Albenga,Italy,ALL,LIMG
+1488,Genoa Cristoforo Colombo Airport,Genoa,Italy,GOA,LIMJ
+1489,Milano Linate Airport,Milan,Italy,LIN,LIML
+1490,Cameri Air Base [MIL],Cameri,Italy,\N,LIMN
+1491,Parma Airport,Parma,Italy,PMF,LIMP
+1492,Piacenza San Damiano Air Base,Piacenza,Italy,\N,LIMS
+1493,Cuneo International Airport,Cuneo,Italy,CUF,LIMZ
+1494,Aviano Air Base,Aviano,Italy,AVB,LIPA
+1495,Bolzano Airport,Bolzano,Italy,BZO,LIPB
+1496,Cervia Air Base,Cervia,Italy,\N,LIPC
+1497,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,LIPE
+1498,Treviso-Sant'Angelo Airport,Treviso,Italy,TSF,LIPH
+1499,Rivolto Air Base,Rivolto,Italy,\N,LIPI
+1500,Forlì Airport,Forli,Italy,FRL,LIPK
+1501,Ghedi Air Base,Ghedi,Italy,\N,LIPL
+1502,Verona-Boscomantico Airport,Verona,Italy,\N,LIPN
+1503,Brescia Airport,Brescia,Italy,VBS,LIPO
+1504,Trieste–Friuli Venezia Giulia Airport,Ronchi De Legionari,Italy,TRS,LIPQ
+1505,Federico Fellini International Airport,Rimini,Italy,RMI,LIPR
+1506,Istrana Air Base,Treviso,Italy,\N,LIPS
+1507,Vicenza Airport,Vicenza,Italy,VIC,LIPT
+1508,Padova Airport,Padova,Italy,QPA,LIPU
+1509,Verona Villafranca Airport,Villafranca,Italy,VRN,LIPX
+1510,Venice Marco Polo Airport,Venice,Italy,VCE,LIPZ
+1511,Siena-Ampugnano Airport,Siena,Italy,SAY,LIQS
+1512,Ciampino–G. B. Pastine International Airport,Rome,Italy,CIA,LIRA
+1513,Pratica Di Mare Air Base,Pratica Di Mare,Italy,\N,LIRE
+1514,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,LIRF
+1515,Guidonia Air Base,Guidonia,Italy,\N,LIRG
+1516,Marina Di Campo Airport,Marina Di Campo,Italy,EBA,LIRJ
+1517,Latina Air Base,Latina,Italy,QLT,LIRL
+1518,Grazzanise Air Base,Grazzanise,Italy,\N,LIRM
+1519,Naples International Airport,Naples,Italy,NAP,LIRN
+1520,Pisa International Airport,Pisa,Italy,PSA,LIRP
+1521,Peretola Airport,Florence,Italy,FLR,LIRQ
+1522,Grosseto Air Base,Grosseto,Italy,GRS,LIRS
+1523,Urbe Airport,Rome,Italy,\N,LIRU
+1524,Viterbo Airport,Viterbo,Italy,\N,LIRV
+1525,Perugia San Francesco d'Assisi – Umbria International Airport,Perugia,Italy,PEG,LIRZ
+1526,Cerklje Airport,Cerklje,Slovenia,\N,LJCE
+1527,Ljubljana Jože Pučnik Airport,Ljubljana,Slovenia,LJU,LJLJ
+1528,Maribor Airport,Maribor,Slovenia,MBX,LJMB
+1529,Portoroz Airport,Portoroz,Slovenia,POW,LJPZ
+1530,Slovenj Gradec Airport,Slovenj Gradec,Slovenia,\N,LJSG
+1531,České Budějovice Airport,Ceske Budejovice,Czech Republic,\N,LKCS
+1532,Čáslav Air Base,Caslav,Czech Republic,\N,LKCV
+1533,Hradec Králové Airport,Hradec Kralove,Czech Republic,\N,LKHK
+1534,Hořovice Airport,Horovice,Czech Republic,\N,LKHV
+1535,Kbely Air Base,Praha,Czech Republic,\N,LKKB
+1536,Kunovice Airport,Kunovice,Czech Republic,UHE,LKKU
+1537,Karlovy Vary International Airport,Karlovy Vary,Czech Republic,KLV,LKKV
+1538,Plzeň-Líně Airport,Line,Czech Republic,\N,LKLN
+1539,Mnichovo Hradiště Airport,Mnichovo Hradiste,Czech Republic,\N,LKMH
+1540,Ostrava Leos Janáček Airport,Ostrava,Czech Republic,OSR,LKMT
+1541,Náměšť Air Base,Namest,Czech Republic,\N,LKNA
+1542,Pardubice Airport,Pardubice,Czech Republic,PED,LKPD
+1543,Pribram Airport,Pribram,Czech Republic,\N,LKPM
+1544,Přerov Air Base,Prerov,Czech Republic,PRV,LKPO
+1545,Václav Havel Airport Prague,Prague,Czech Republic,PRG,LKPR
+1546,Brno-Tuřany Airport,Brno,Czech Republic,BRQ,LKTB
+1547,Vodochody Airport,Vodochody,Czech Republic,VOD,LKVO
+1564,Malta International Airport,Malta,Malta,MLA,LMML
+1565,Wiener Neustadt East Airport,Wiener Neustadt Ost,Austria,\N,LOAN
+1566,Wels Airport,Wels,Austria,\N,LOLW
+1567,Graz Airport,Graz,Austria,GRZ,LOWG
+1568,Innsbruck Airport,Innsbruck,Austria,INN,LOWI
+1569,Linz Hörsching Airport,Linz,Austria,LNZ,LOWL
+1570,Salzburg Airport,Salzburg,Austria,SZG,LOWS
+1571,Vienna International Airport,Vienna,Austria,VIE,LOWW
+1572,Hinterstoisser Air Base,Zeltweg,Austria,\N,LOXZ
+1573,Alverca Air Base,Alverca,Portugal,AVR,LPAR
+1574,Santa Maria Airport,Santa Maria (island),Portugal,SMA,LPAZ
+1575,Bragança Airport,Braganca,Portugal,BGC,LPBG
+1576,Beja Airport / Airbase,Beja (madeira),Portugal,BYJ,LPBJ
+1577,Braga Municipal Aerodrome,Braga,Portugal,BGZ,LPBR
+1578,Aerodromo Municipal de Coimbra,Coimba,Portugal,\N,LPCO
+1579,Cascais Airport,Cascais,Portugal,CAT,LPCS
+1580,Coimbra Hospital Covões Heliport,Covilha,Portugal,\N,LPCV
+1581,Évora Airport,Evora,Portugal,\N,LPEV
+1582,Flores Airport,Flores,Portugal,FLW,LPFL
+1583,Faro Airport,Faro,Portugal,FAO,LPFR
+1584,Graciosa Airport,Graciosa Island,Portugal,GRW,LPGR
+1585,Horta Airport,Horta,Portugal,HOR,LPHR
+1586,Lajes Airport,Lajes (terceira Island),Portugal,TER,LPLA
+1587,Monte Real Air Base,Monte Real,Portugal,QLR,LPMR
+1588,Montijo Air Base,Montijo,Portugal,\N,LPMT
+1589,Ovar Air Base,Ovar,Portugal,\N,LPOV
+1590,João Paulo II Airport,Ponta Delgada,Portugal,PDL,LPPD
+1591,Pico Airport,Pico,Portugal,PIX,LPPI
+1592,Portimão Airport,Portimao,Portugal,PRM,LPPM
+1593,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,LPPR
+1594,Porto Santo Airport,Porto Santo,Portugal,PXO,LPPS
+1595,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,LPPT
+1596,São Jorge Airport,Sao Jorge Island,Portugal,SJZ,LPSJ
+1597,Sintra Air Base,Sintra,Portugal,\N,LPST
+1598,Tancos Airbase,Tancos,Portugal,\N,LPTN
+1599,Vila Real Airport,Vila Real,Portugal,VRL,LPVR
+1600,Aerodromo Goncalves Lobato (Viseu Airport),Viseu,Portugal,VSE,LPVZ
+1601,Mostar International Airport,Mostar,Bosnia and Herzegovina,OMO,LQMO
+1602,Sarajevo International Airport,Sarajevo,Bosnia and Herzegovina,SJJ,LQSA
+1603,Arad International Airport,Arad,Romania,ARW,LRAR
+1604,Bacău Airport,Bacau,Romania,BCM,LRBC
+1605,Tautii Magheraus Airport,Baia Mare,Romania,BAY,LRBM
+1606,Băneasa International Airport,Bucharest,Romania,BBU,LRBS
+1607,Mihail Kogălniceanu International Airport,Constanta,Romania,CND,LRCK
+1608,Cluj-Napoca International Airport,Cluj-napoca,Romania,CLJ,LRCL
+1609,Caransebeş Airport,Caransebes,Romania,CSB,LRCS
+1610,Craiova Airport,Craiova,Romania,CRA,LRCV
+1611,Iaşi Airport,Iasi,Romania,IAS,LRIA
+1612,Oradea International Airport,Oradea,Romania,OMR,LROD
+1613,Henri Coandă International Airport,Bucharest,Romania,OTP,LROP
+1614,Sibiu International Airport,Sibiu,Romania,SBZ,LRSB
+1615,Satu Mare Airport,Satu Mare,Romania,SUJ,LRSM
+1616,Suceava Stefan cel Mare Airport,Suceava,Romania,SCV,LRSV
+1617,Tulcea Airport,Tulcea,Romania,TCE,LRTC
+1618,Transilvania Târgu Mureş International Airport,Tirgu Mures,Romania,TGM,LRTM
+1619,Timişoara Traian Vuia Airport,Timisoara,Romania,TSR,LRTR
+1620,Les Eplatures Airport,Les Eplatures,Switzerland,\N,LSGC
+1621,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,LSGG
+1622,Saanen Airport,Saanen,Switzerland,\N,LSGK
+1623,Sion Airport,Sion,Switzerland,SIR,LSGS
+1624,Alpnach Air Base,Alpnach,Switzerland,\N,LSMA
+1625,Dübendorf Air Base,Dubendorf,Switzerland,\N,LSMD
+1626,Emmen Air Base,Emmen,Switzerland,EML,LSME
+1627,Mollis Airport,Mollis,Switzerland,\N,LSMF
+1628,Meiringen Airport,Meiringen,Switzerland,\N,LSMM
+1629,Payerne Air Base,Payerne,Switzerland,\N,LSMP
+1630,Lugano Airport,Lugano,Switzerland,LUG,LSZA
+1631,Bern Belp Airport,Bern,Switzerland,BRN,LSZB
+1632,Grenchen Airport,Grenchen,Switzerland,ZHI,LSZG
+1633,Zürich Airport,Zurich,Switzerland,ZRH,LSZH
+1634,St Gallen Altenrhein Airport,Altenrhein,Switzerland,ACH,LSZR
+1635,Samedan Airport,Samedan,Switzerland,SMV,LSZS
+1636,Güvercinlik Airport,Ankara,Turkey,\N,LTAB
+1637,Esenboğa International Airport,Ankara,Turkey,ESB,LTAC
+1638,Etimesgut Air Base,Ankara,Turkey,ANK,LTAD
+1639,Akıncı Air Base,Ankara,Turkey,\N,LTAE
+1640,Adana Airport,Adana,Turkey,ADA,LTAF
+1641,İncirlik Air Base,Adana,Turkey,UAB,LTAG
+1642,Afyon Airport,Afyon,Turkey,AFY,LTAH
+1643,Antalya International Airport,Antalya,Turkey,AYT,LTAI
+1644,Gaziantep International Airport,Gaziantep,Turkey,GZT,LTAJ
+1645,İskenderun Airport,Iskenderun,Turkey,\N,LTAK
+1646,Konya Airport,Konya,Turkey,KYA,LTAN
+1647,Malatya Tulga Airport,Malatya,Turkey,\N,LTAO
+1648,Amasya Merzifon Airport,Merzifon,Turkey,MZH,LTAP
+1649,Sivas Nuri Demirağ Airport,Sivas,Turkey,VAS,LTAR
+1650,Malatya Erhaç Airport,Malatya,Turkey,MLX,LTAT
+1651,Kayseri Erkilet Airport,Kayseri,Turkey,ASR,LTAU
+1652,Sivrihisar Airport,Sivrihisar,Turkey,\N,LTAV
+1653,Tokat Airport,Tokat,Turkey,TJK,LTAW
+1654,Çardak Airport,Denizli,Turkey,DNZ,LTAY
+1655,Atatürk International Airport,Istanbul,Turkey,ISL,LTBA
+1656,Balıkesir Merkez Airport,Balikesir,Turkey,BZI,LTBF
+1657,Bandırma Airport,Bandirma,Turkey,BDM,LTBG
+1658,Eskişehir Air Base,Eskisehir,Turkey,ESK,LTBI
+1659,Adnan Menderes International Airport,Izmir,Turkey,ADB,LTBJ
+1660,Gaziemir Airport,Izmir,Turkey,\N,LTBK
+1661,Çiğli Airport,Izmir,Turkey,IGL,LTBL
+1662,Isparta Airport,Isparta,Turkey,\N,LTBM
+1663,Kütahya Airport,Kutahya,Turkey,\N,LTBN
+1664,Yalova Airport,Yalova,Turkey,\N,LTBP
+1665,Cengiz Topel Airport,Topel,Turkey,KCO,LTBQ
+1666,Dalaman International Airport,Dalaman,Turkey,DLM,LTBS
+1667,Akhisar Airport,Akhisar,Turkey,\N,LTBT
+1668,Imsık Airport,Bodrum,Turkey,BXN,LTBV
+1669,Samandıra Air Base,Istanbul,Turkey,\N,LTBX
+1670,Elazığ Airport,Elazig,Turkey,EZS,LTCA
+1671,Diyarbakir Airport,Diyabakir,Turkey,DIY,LTCC
+1672,Erzincan Airport,Erzincan,Turkey,ERC,LTCD
+1673,Erzurum International Airport,Erzurum,Turkey,ERZ,LTCE
+1674,Trabzon International Airport,Trabzon,Turkey,TZX,LTCG
+1675,Van Ferit Melen Airport,Van,Turkey,VAN,LTCI
+1676,Batman Airport,Batman,Turkey,BAL,LTCJ
+1677,Siirt Airport,Siirt,Turkey,SXZ,LTCL
+1678,Kaklıç Airport,Izmir,Turkey,\N,LTFA
+1679,Selçuk Efes Airport,Izmir,Turkey,\N,LTFB
+1680,Bălți International Airport,Saltsy,Moldova,BZY,LUBL
+1681,Chişinău International Airport,Chisinau,Moldova,KIV,LUKK
+1684,Gibraltar Airport,Gibraltar,Gibraltar,GIB,LXGB
+1685,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,LYBE
+1686,Nis Airport,Nis,Serbia,INI,LYNI
+1687,Podgorica Airport,Podgorica,Montenegro,TGD,LYPG
+1688,Priština International Airport,Pristina,Serbia,PRN,BKPR
+1689,Tivat Airport,Tivat,Montenegro,TIV,LYTV
+1690,Vršac International Airport,Vrsac,Serbia,\N,LYVR
+1691,M. R. Štefánik Airport,Bratislava,Slovakia,BTS,LZIB
+1692,Košice Airport,Kosice,Slovakia,KSC,LZKZ
+1693,Kuchyňa Air Base,Malacky,Slovakia,\N,LZMC
+1694,Piešťany Airport,Piestany,Slovakia,PZY,LZPP
+1695,Sliač Airport,Sliac,Slovakia,SLD,LZSL
+1696,Trenčín Airport,Trencin,Slovakia,\N,LZTN
+1697,Poprad-Tatry Airport,Poprad,Slovakia,TAT,LZTT
+2773,Yakutsk Airport,Yakutsk,Russia,YKS,UEEE
+2774,Mirny Airport,Mirnyj,Russia,MJZ,UERR
+2775,Ignatyevo Airport,Blagoveschensk,Russia,BQS,UHBB
+2776,Khabarovsk-Novy Airport,Khabarovsk,Russia,KHV,UHHH
+2777,Provideniya Bay Airport,Provideniya Bay,Russia,PVS,UHMD
+2778,Sokol Airport,Magadan,Russia,GDX,UHMM
+2779,Pevek Airport,Pevek,Russia,PWE,UHMP
+2780,Yelizovo Airport,Petropavlovsk,Russia,PKC,UHPP
+2781,Yuzhno-Sakhalinsk Airport,Yuzhno-sakhalinsk,Russia,UUS,UHSS
+2782,Vladivostok International Airport,Vladivostok,Russia,VVO,UHWW
+2783,Chita-Kadala Airport,Chita,Russia,HTA,UIAA
+2784,Bratsk Airport,Bratsk,Russia,BTK,UIBB
+2785,Irkutsk Airport,Irkutsk,Russia,IKT,UIII
+2786,Ulan-Ude Airport (Mukhino),Ulan-ude,Russia,UUD,UIUU
+2787,Boryspil International Airport,Kiev,Ukraine,KBP,UKBB
+2788,Donetsk International Airport,Donetsk,Ukraine,DOK,UKCC
+2789,Dnipropetrovsk International Airport,Dnepropetrovsk,Ukraine,DNK,UKDD
+2790,Simferopol International Airport,Simferopol,Ukraine,SIP,UKFF
+2791,Kiev Zhuliany International Airport,Kiev,Ukraine,IEV,UKKK
+2792,Lviv International Airport,Lvov,Ukraine,LWO,UKLL
+2793,Odessa International Airport,Odessa,Ukraine,ODS,UKOO
+2794,Pulkovo Airport,St. Petersburg,Russia,LED,ULLI
+2795,Murmansk Airport,Murmansk,Russia,MMK,ULMM
+2796,Gomel Airport,Gomel,Belarus,GME,UMGG
+2797,Vitebsk Vostochny Airport,Vitebsk,Belarus,VTB,UMII
+2798,Khrabrovo Airport,Kaliningrad,Russia,KGD,UMKK
+2799,Minsk 1 Airport,Minsk,Belarus,MHP,UMMM
+2800,Minsk National Airport,Minsk 2,Belarus,MSQ,UMMS
+2801,Abakan Airport,Abakan,Russia,ABA,UNAA
+2802,Barnaul Airport,Barnaul,Russia,BAX,UNBB
+2803,Kemerovo Airport,Kemorovo,Russia,KEJ,UNEE
+2804,Omsk Central Airport,Omsk,Russia,OMS,UNOO
+2805,Krasnodar Pashkovsky International Airport,Krasnodar,Russia,KRR,URKK
+2806,Uytash Airport,Makhachkala,Russia,MCX,URML
+2807,Mineralnyye Vody Airport,Mineralnye Vody,Russia,MRV,URMM
+2808,Stavropol Shpakovskoye Airport,Stavropol,Russia,STW,URMT
+2809,Platov International Airport,Rostov,Russia,ROV,URRP
+2810,Sochi International Airport,Sochi,Russia,AER,URSS
+2811,Astrakhan Airport,Astrakhan,Russia,ASF,URWA
+2812,Volgograd International Airport,Volgograd,Russia,VOG,URWW
+2813,Chelyabinsk Balandino Airport,Chelyabinsk,Russia,CEK,USCC
+2814,Magnitogorsk International Airport,Magnetiogorsk,Russia,MQF,USCM
+2815,Nizhnevartovsk Airport,Nizhnevartovsk,Russia,NJC,USNN
+2816,Bolshoye Savino Airport,Perm,Russia,PEE,USPP
+2817,Surgut Airport,Surgut,Russia,SGC,USRR
+2818,Koltsovo Airport,Yekaterinburg,Russia,SVX,USSS
+2826,Bryansk Airport,Bryansk,Russia,BZK,UUBP
+2827,Sheremetyevo International Airport,Moscow,Russia,SVO,UUEE
+2828,Migalovo Air Base,Tver,Russia,KLD,UUEM
+2829,Voronezh International Airport,Voronezh,Russia,VOZ,UUOO
+2830,Vnukovo International Airport,Moscow,Russia,VKO,UUWW
+2831,Syktyvkar Airport,Syktyvkar,Russia,SCW,UUYY
+2832,Kazan International Airport,Kazan,Russia,KZN,UWKD
+2833,Orenburg Central Airport,Orenburg,Russia,REN,UWOO
+2834,Ufa International Airport,Ufa,Russia,UFA,UWUU
+2835,Kurumoch International Airport,Samara,Russia,KUF,UWWW
+3735,Eleftherios Venizelos International Airport,Athens,Greece,ATH,LGAV
+3745,Liepāja International Airport,Liepaja,Latvia,LPX,EVLA
+3746,Riga International Airport,Riga,Latvia,RIX,EVRA
+3747,Šiauliai International Airport,Siauliai,Lithuania,SQQ,EYSA
+3748,Barysiai Airport,Barysiai,Lithuania,HLJ,EYSB
+3749,Kaunas International Airport,Kaunas,Lithuania,KUN,EYKA
+3750,S. Darius and S. Girėnas Airfield,Kaunas,Lithuania,\N,EYKS
+3751,Palanga International Airport,Palanga,Lithuania,PLQ,EYPA
+3752,Vilnius International Airport,Vilnius,Lithuania,VNO,EYVI
+3753,Panevėžys Air Base,Panevezys,Lithuania,PNV,EYPP
+3754,Erebuni Airport,Yerevan,Armenia,\N,UDYE
+3755,Stepanavan Airport,Stepanavan,Armenia,\N,UDLS
+3756,Zvartnots International Airport,Yerevan,Armenia,EVN,UDYZ
+3757,Gyumri Shirak Airport,Gyumri,Armenia,LWN,UDSG
+3775,Memmingen Allgau Airport,Memmingen,Germany,FMM,EDJA
+3776,Nevşehir Kapadokya Airport,Nevsehir,Turkey,NAV,LTAZ
+3780,Athen Helenikon Airport,Athens,Greece,HEW,LGAT
+3787,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,LEPA
+3791,Xewkija Heliport,Gozo,Malta,GZM,LMMG
+3815,Domodedovo International Airport,Moscow,Russia,DME,UUDD
+3857,Tolmachevo Airport,Novosibirsk,Russia,OVB,UNNT
+3858,Samsø Airport,Samsoe,Denmark,\N,EKSS
+3868,Madeira Airport,Funchal,Portugal,FNC,LPMA
+3888,Roshchino International Airport,Tyumen,Russia,TJM,USTR
+3931,Bol Airport,Brac,Croatia,BWK,LDSB
+3934,Aachen-Merzbrück Airport,Aachen,Germany,AAH,EDKA
+3935,Karlsruhe Baden-Baden Airport,Karlsruhe/Baden-Baden,Germany,FKB,EDSB
+3956,Astypalaia Airport,Astypalaia,Greece,JTY,LGPL
+3957,Ikaria Airport,Ikaria,Greece,JIK,LGIK
+3958,Kalymnos Airport,Kalymnos,Greece,JKL,LGKY
+3959,Milos Airport,Milos,Greece,MLO,LGML
+3960,Naxos Airport,Cyclades Islands,Greece,JNX,LGNX
+3961,Paros National Airport,Paros,Greece,PAS,LGPA
+3962,Kastelorizo Airport,Kastelorizo,Greece,KZS,LGKJ
+3964,Weeze Airport,Weeze,Germany,NRN,EDLV
+3972,Norden-Norddeich Airport,Norden,Germany,NOD,EDWS
+3973,Juist Airport,Juist,Germany,JUI,EDWJ
+4004,Stokmarknes Skagen Airport,Stokmarknes,Norway,SKN,ENSK
+4019,Nizhny Novgorod Strigino International Airport,Nizhniy Novgorod,Russia,GOJ,UWGG
+4036,Bogashevo Airport,Tomsk,Russia,TOF,UNTT
+4042,Enghien Moisselles Airfield,Enghien-moisselles,France,\N,LFFE
+4048,Ancona Falconara Airport,Ancona,Italy,AOI,LIPY
+4052,Milas Bodrum International Airport,Bodrum,Turkey,BJV,LTFE
+4054,Sabiha Gökçen International Airport,Istanbul,Turkey,SAW,LTFJ
+4058,Bakki Airport,Bakki,Iceland,\N,BIBA
+4059,Klagenfurt Airport,Klagenfurt,Austria,KLU,LOWK
+4060,Hammerfest Airport,Hammerfest,Norway,HFT,ENHF
+4061,Valan Airport,Honningsvag,Norway,HVG,ENHV
+4062,Mehamn Airport,Mehamn,Norway,MEH,ENMH
+4063,Vadsø Airport,Vadsø,Norway,VDS,ENVD
+4066,Ust-Ilimsk Airport,Ust Ilimsk,Russia,UIK,UIBS
+4076,"Ørsta-Volda Airport, Hovden",Orsta-Volda,Norway,HOV,ENOV
+4077,St. Mary's Airport,ST MARY\'S,United Kingdom,ISC,EGHE
+4079,Narvik Framnes Airport,Narvik,Norway,NVK,ENNK
+4080,Berlevåg Airport,Berlevag,Norway,BVG,ENBV
+4081,"Oslo, Fornebu Airport",Oslo,Norway,FBU,ENFB
+4082,Norilsk-Alykel Airport,Norilsk,Russia,NSK,UOOO
+4083,Anapa Vityazevo Airport,Anapa,Russia,AAQ,URKA
+4090,Bykovo Airport,Moscow,Russia,BKA,UUBB
+4091,Talagi Airport,Arkhangelsk,Russia,ARH,ULAA
+4092,Saratov Central Airport,Saratov,Russia,RTW,UWSS
+4093,Novy Urengoy Airport,Novy Urengoy,Russia,NUX,USMU
+4094,Noyabrsk Airport,Noyabrsk,Russia,NOJ,USRO
+4096,Ukhta Airport,Ukhta,Russia,UCT,UUYH
+4097,Usinsk Airport,Usinsk,Russia,USK,UUYS
+4098,Pechora Airport,Pechora,Russia,PEX,UUYP
+4099,Naryan Mar Airport,Naryan-Mar,Russia,NNM,ULAM
+4100,Pskov Airport,Pskov,Russia,PKV,ULOO
+4101,Kogalym International Airport,Kogalym,Russia,KGP,USRK
+4102,Yemelyanovo Airport,Krasnoyarsk,Russia,KJA,UNKL
+4104,Novosibirsk North Airport,Novosibirsk,Russia,\N,UNCC
+4105,Uray Airport,Uraj,Russia,URJ,USHU
+4106,Ivanovo South Airport,Ivanovo,Russia,IWA,UUBI
+4162,Grímsey Airport,Grímsey,Iceland,GRY,BIGR
+4163,Thorshofn Airport,Thorshofn,Iceland,THO,BITN
+4164,Vopnafjörður Airport,Vopnafjörður,Iceland,VPN,BIVO
+4263,Heringsdorf Airport,Heringsdorf,Germany,HDF,EDAH
+4264,Heide-Büsum Airport,Büsum,Germany,HEI,EDXB
+4265,Helgoland-Düne Airport,Helgoland,Germany,HGL,EDXH
+4266,Seinäjoki Airport,Seinäjoki / Ilmajoki,Finland,SJY,EFSI
+4267,Nottingham Airport,Nottingham,United Kingdom,NQT,EGBN
+4268,Robin Hood Doncaster Sheffield Airport,"Doncaster, Sheffield",United Kingdom,DSA,EGCN
+4269,Campbeltown Airport,Campbeltown,United Kingdom,CAL,EGEC
+4270,Eday Airport,Eday,United Kingdom,EOI,EGED
+4271,Fair Isle Airport,Fair Isle,United Kingdom,FIE,EGEF
+4272,North Ronaldsay Airport,North Ronaldsay,United Kingdom,NRL,EGEN
+4273,Papa Westray Airport,Papa Westray,United Kingdom,PPW,EGEP
+4274,Stronsay Airport,Stronsay,United Kingdom,SOY,EGER
+4275,Sanday Airport,Sanday,United Kingdom,NDY,EGES
+4276,Lerwick / Tingwall Airport,Lerwick,United Kingdom,LWK,EGET
+4277,Westray Airport,Westray,United Kingdom,WRY,EGEW
+4278,Land's End Airport,Land's End,United Kingdom,LEQ,EGHC
+4279,Penzance Heliport,Penzance,United Kingdom,PZE,EGHK
+4280,Anglesey Airport,Angelsey,United Kingdom,VLY,EGOV
+4281,Barra Airport,Barra,United Kingdom,BRR,EGPR
+4282,Donegal Airport,Dongloe,Ireland,CFN,EIDL
+4283,Weston Airport,Leixlip,Ireland,\N,EIWT
+4284,Sindal Airport,Sindal,Denmark,CNL,EKSN
+4285,Leknes Airport,Leknes,Norway,LKN,ENLK
+4286,Namsos Høknesøra Airport,Namsos,Norway,OSY,ENNM
+4287,"Mo i Rana Airport, Røssvoll",Mo i Rana,Norway,MQN,ENRA
+4288,"Rørvik Airport, Ryum",Rørvik,Norway,RVK,ENRM
+4289,Røst Airport,Røst,Norway,RET,ENRS
+4290,Sandane Airport (Anda),Sandane,Norway,SDN,ENSD
+4291,Sogndal Airport,Sogndal,Norway,SOG,ENSG
+4292,Svolvær Helle Airport,Svolvær,Norway,SVJ,ENSH
+4293,Sørkjosen Airport,Sorkjosen,Norway,SOJ,ENSR
+4294,"Vardø Airport, Svartnes",Vardø,Norway,VAW,ENSS
+4295,Værøy Heliport,Værøy,Norway,VRY,ENVR
+4296,Bydgoszcz Ignacy Jan Paderewski Airport,Bydgoszcz,Poland,BZG,EPBY
+4297,Łódź Władysław Reymont Airport,Lodz,Poland,LCJ,EPLL
+4298,Åre Östersund Airport,Östersund,Sweden,OSD,ESNZ
+4299,Hagfors Airport,Hagfors,Sweden,HFS,ESOH
+4300,Karlstad Airport,Karlstad,Sweden,KSD,ESOK
+4301,Torsby Airport,Torsby,Sweden,TYF,ESST
+4302,Ängelholm-Helsingborg Airport,Ängelholm,Sweden,AGH,ESTA
+4303,Storuman Airport,Mohed,Sweden,SQO,ESUD
+4304,Hemavan Airport,Hemavan,Sweden,HMV,ESUT
+4305,Ventspils International Airport,Ventspils,Latvia,VNT,EVVA
+4357,Outer Skerries Airport,Outer Skerries,United Kingdom,OUK,EGOU
+4358,La Gomera Airport,La Gomera,Spain,GMZ,GCGM
+4471,Ercan International Airport,Nicosia,Cyprus,ECN,LCEN
+4472,Logroño-Agoncillo Airport,Logroño-Agoncillo,Spain,RJL,LELO
+4473,Île d'Yeu Airport,Île d'Yeu,France,IDY,LFEY
+4474,Angers-Loire Airport,Angers/Marcé,France,ANE,LFJR
+4475,La Môle Airport,La Môle,France,LTT,LFTZ
+4476,Syros Airport,Syros Island,Greece,JSY,LGSO
+4477,Pécs-Pogány Airport,Pécs-Pogány,Hungary,PEV,LHPP
+4478,Győr-Pér International Airport,Győr,Hungary,\N,LHPR
+4479,Sármellék International Airport,Sármellék,Hungary,SOB,LHSM
+4480,Aosta Airport,Aosta,Italy,AOT,LIMW
+4481,Salerno Costa d'Amalfi Airport,Salerno,Italy,QSR,LIRI
+4482,Corvo Airport,Corvo,Portugal,CVU,LPCR
+4483,Banja Luka International Airport,Banja Luka,Bosnia and Herzegovina,BNX,LQBK
+4484,Uşak Airport,Usak,Turkey,USQ,LTBO
+4485,Kars Airport,Kars,Turkey,KSY,LTCF
+4486,Şanlıurfa Airport,Sanliurfa,Turkey,SFQ,LTCH
+4487,Kahramanmaraş Airport,Kahramanmaras,Turkey,KCM,LTCN
+4488,Ağrı Airport,Agri,Turkey,AJI,LTCO
+4489,Adıyaman Airport,Adiyaman,Turkey,ADF,LTCP
+4490,Süleyman Demirel International Airport,Isparta,Turkey,ISE,LTFC
+4491,Balıkesir Körfez Airport,Balikesir Korfez,Turkey,EDO,LTFD
+4492,Samsun Çarşamba Airport,Samsun,Turkey,SZF,LTFH
+4493,Žilina Airport,Žilina,Slovakia,ILZ,LZZI
+4731,Chulman Airport,Neryungri,Russia,NER,UELL
+4732,Polyarny Airport,Yakutia,Russia,PYJ,UERP
+4733,Chokurdakh Airport,Chokurdah,Russia,CKH,UESO
+4734,Cherskiy Airport,Cherskiy,Russia,CYX,UESS
+4735,Tiksi Airport,Tiksi,Russia,IKS,UEST
+4736,Komsomolsk-on-Amur Airport,Komsomolsk-on-Amur,Russia,KXK,UHKK
+4737,Ugolny Airport,Anadyr,Russia,DYR,UHMA
+4738,Okhotsk Airport,Okhotsk,Russia,OHO,UHOO
+4740,Mariupol International Airport,Mariupol International,Ukraine,MPW,UKCM
+4741,Luhansk International Airport,Lugansk,Ukraine,VSG,UKCW
+4742,Zaporizhzhia International Airport,Zaporozhye,Ukraine,OZH,UKDE
+4743,Kryvyi Rih International Airport,Krivoy Rog,Ukraine,KWG,UKDR
+4744,Kharkiv International Airport,Kharkov,Ukraine,HRK,UKHH
+4745,Ivano-Frankivsk International Airport,Ivano-Frankivsk,Ukraine,IFO,UKLI
+4746,Chernivtsi International Airport,Chernovtsk,Ukraine,CWC,UKLN
+4747,Rivne International Airport,Rivne,Ukraine,RWN,UKLR
+4748,Uzhhorod International Airport,Uzhgorod,Ukraine,UDJ,UKLU
+4749,Solovki Airport,Solovetsky Islands,Russia,CSH,ULAS
+4750,Cherepovets Airport,Cherepovets,Russia,CEE,ULBC
+4751,Amderma Airport,Amderma,Russia,AMV,ULDD
+4752,Kotlas Airport,Kotlas,Russia,KSZ,ULKK
+4753,Petrozavodsk Airport,Petrozavodsk,Russia,PES,ULPB
+4754,Hrodna Airport,Hrodna,Belarus,GNA,UMMG
+4755,Mogilev Airport,Mogilev,Belarus,MVQ,UMOO
+4756,Yeniseysk Airport,Yeniseysk,Russia,EIE,UNII
+4757,Kyzyl Airport,Kyzyl,Russia,KYZ,UNKY
+4758,Spichenkovo Airport,Novokuznetsk,Russia,NOZ,UNWW
+4759,Khatanga Airport,Khatanga,Russia,HTG,UOHH
+4760,Igarka Airport,Igarka,Russia,IAA,UOII
+4761,Khankala Air Base,Grozny,Russia,\N,URMG
+4762,Nalchik Airport,Nalchik,Russia,NAL,URMN
+4763,Beslan Airport,Beslan,Russia,OGZ,URMO
+4764,Elista Airport,Elista,Russia,ESL,URWI
+4771,Salekhard Airport,Salekhard,Russia,SLY,USDD
+4772,Khanty Mansiysk Airport,Khanty-Mansiysk,Russia,HMA,USHH
+4773,Nyagan Airport,Nyagan,Russia,NYA,USHN
+4774,Sovetskiy Airport,Sovetskiy,Russia,OVS,USHS
+4775,Izhevsk Airport,Izhevsk,Russia,IJK,USII
+4776,Pobedilovo Airport,Kirov,Russia,KVX,USKK
+4777,Nadym Airport,Nadym,Russia,NYM,USMM
+4778,Raduzhny Airport,Raduzhnyi,Russia,RAT,USNR
+4779,Nefteyugansk Airport,Nefteyugansk,Russia,NFG,USRN
+4780,Kurgan Airport,Kurgan,Russia,KRO,USUU
+4789,Staroselye Airport,Rybinsk,Russia,RYB,UUBK
+4790,Belgorod International Airport,Belgorod,Russia,EGO,UUOB
+4791,Kursk East Airport,Kursk,Russia,URS,UUOK
+4792,Lipetsk Airport,Lipetsk,Russia,LPK,UUOL
+4793,Vorkuta Airport,Vorkuta,Russia,VKT,UUYW
+4794,Bugulma Airport,Bugulma,Russia,UUA,UWKB
+4795,Yoshkar-Ola Airport,Yoshkar-Ola,Russia,JOK,UWKJ
+4796,Cheboksary Airport,Cheboksary,Russia,CSY,UWKS
+4797,Ulyanovsk East Airport,Ulyanovsk,Russia,ULY,UWLW
+4798,Orsk Airport,Orsk,Russia,OSW,UWOR
+4799,Penza Airport,Penza,Russia,PEZ,UWPP
+4800,Saransk Airport,Saransk,Russia,SKX,UWPS
+4801,Balakovo Airport,Balakovo,Russia,BWO,UWSB
+5050,Inishmore Aerodrome,Inis Mor,Ireland,IOR,EIIM
+5051,Connemara Regional Airport,Indreabhan,Ireland,NNR,EICA
+5052,Rügen Airport,Ruegen,Germany,GTI,EDCG
+5053,Berezovo Airport,Berezovo,Russia,EZV,USHB
+5054,Szczecin-Dąbie Airport,Szczecin,Poland,\N,EPSD
+5067,Tannheim Airfield,Tannheim,Germany,\N,EDMT
+5068,Unst Airport,Unst,United Kingdom,UNT,EGPW
+5072,Gustaf III Airport,Gustavia,France,SBH,TFFJ
+5073,Kostroma Sokerkino Airport,Kostroma,Russia,KMW,UUBA
+5075,Donskoye Airport,Tambow,Russia,TBW,UUOT
+5076,Oban Airport,North Connel,United Kingdom,OBN,EGEO
+5078,La Côte Airport,Prangins,Switzerland,\N,LSGP
+5079,Courchevel Airport,Courcheval,France,CVF,LFLJ
+5082,Isle of Wight / Sandown Airport,Isle Of Wight,United Kingdom,\N,EGHN
+5084,Andernos Les Bains Airport,Andernos-Les-Bains,France,\N,LFCD
+5085,Bienenfarm Airport,Nauen,Germany,\N,EDOI
+5087,La Rochelle-Île de Ré Airport,La Rochelle,France,LRH,LFBH
+5089,Yverdon-les-Bains Airport,Yverdon-Les-Bains,Switzerland,\N,LSGY
+5090,Bielsko Biala Airport,Bielsko-Biala,Poland,\N,EPBA
+5095,Niederoeblarn Airport,Niederoeblarn,Austria,\N,LOGO
+5096,Vöslau Airport,Bad Voeslau,Austria,\N,LOAV
+5097,Uetersen/Heist Airport,Uetersen,Germany,\N,EDHE
+5119,Kirovsk-Apatity Airport,Apatity,Russia,KVK,ULMK
+5122,Pajala Airport,Pajala,Sweden,PJA,ESUP
+5137,Mardin Airport,Mardin,Turkey,MQM,LTCR
+5140,Leon Airport,Leon,Spain,LEN,LELN
+5141,Burgos Airport,Burgos,Spain,RGS,LEBG
+5163,Anadolu Airport,Eskissehir,Turkey,AOE,LTBY
+5164,Çanakkale Airport,Canakkale,Turkey,CKZ,LTBH
+5165,Muş Airport,Mus,Turkey,MSR,LTCK
+5166,Sinop Airport,Sinop,Turkey,NOP,LTCM
+5167,Tekirdağ Çorlu Airport,Çorlu,Turkey,TEQ,LTBU
+5168,Bursa Yenişehir Airport,Yenisehir,Turkey,YEI,LTBR
+5179,Hohenems-Dornbirn Airport,Hohenems,Austria,HOH,LOIH
+5180,Weser-Wümme Airport,Hellwege,Germany,\N,EDWM
+5181,Krems Airport,Krems,Austria,\N,LOAG
+5190,Raron Airport,Raron,Switzerland,\N,LSTA
+5191,Borovaya Airfield,Minsk,Belarus,\N,UMMB
+5192,Amlikon Glider Airport,Amlikon,Switzerland,\N,LSPA
+5193,Lommis Airfield,Lommis,Switzerland,\N,LSZT
+5197,Flugplatz Finsterwalde/Heinrichsruh,Finsterwalde,Germany,\N,EDAS
+5204,Dinslaken/Schwarze Heide Airport,Dinslaken,Germany,\N,EDLD
+5205,Höxter-Holzminden Airport,Hoexter Holzminden,Germany,\N,EDVI
+5211,Kalundborg Airport,Kalundborg,Denmark,\N,EKKL
+5214,Sazená Airport,Sazena,Czech Republic,\N,LKSZ
+5216,Reykjahlíð Airport,Myvatn,Iceland,MVA,BIRL
+5217,Sabadell Airport,Sabadell,Spain,QSA,LELL
+5227,Lympne Airport,Lympne,United Kingdom,LYM,EGMK
+5228,Porto Cheli Airport,Porto Heli,Greece,PKH,LGHL
+5229,Zell Am See Airport,Zell am See,Austria,\N,LOWZ
+5234,Lutsk Airport,Lutsk,Ukraine,UCK,UKLC
+5235,Chernihiv Shestovitsa Airport,Chernigov,Ukraine,CEJ,UKRR
+5236,Ternopil International Airport,Ternopol,Ukraine,\N,UKLT
+5237,Brest Airport,Brest,Belarus,BQT,UMBB
+5239,Harle Airport,Harlesiel,Germany,\N,EDXP
+5240,Wangerooge Airport,Wangerooge,Germany,AGE,EDWG
+5246,Kirensk Airport,Kirensk,Russia,KCK,UIKK
+5247,Ust-Kut Airport,Ust-Kut,Russia,UKX,UITT
+5249,Triengen Airport,Triengen,Switzerland,\N,LSPN
+5250,Lausanne-Blécherette Airport,Lausanne,Switzerland,QLS,LSGL
+5251,Speck-Fehraltorf Airport,Fehraltorf,Switzerland,\N,LSZK
+5252,Locarno Airport,Locarno,Switzerland,ZJI,LSZL
+5253,Neuchatel Airport,Neuchatel,Switzerland,QNC,LSGN
+5254,Taganrog Yuzhny Airport,Taganrog,Russia,TGK,URRT
+5255,Gelendzhik Airport,Gelendzhik,Russia,GDZ,URKG
+5256,Zhukovsky International Airport,Ramenskoe,Russia,ZIA,UUBW
+5257,Irkutsk Northwest Airport,Irkutsk,Russia,\N,UIIR
+5258,Khabarovsk Airport,Khabarovsk,Russia,\N,UHHT
+5259,Dzemgi Airport,Komsomolsk-on-Amur,Russia,\N,UHKD
+5260,Belaya Air Base,Sredniiy,Russia,\N,UIIB
+5261,Tunoshna Airport,Yaroslavl,Russia,IAR,UUDL
+5266,Tuzla International Airport,Null,Bosnia and Herzegovina,TZL,LQTZ
+5270,Jan Mayensfield,Jan Mayen,Norway,\N,ENJA
+5285,Begishevo Airport,Nizhnekamsk,Russia,NBC,UWKE
+5287,Volkel Air Base,Volkel,Netherlands,\N,EHVK
+5289,Langeoog Airport,Langeoog,Germany,LGO,EDWL
+5290,Biel-Kappelen Airport,Biel,Switzerland,\N,LSZP
+5292,Cherkasy International Airport,Cherkassy,Ukraine,CKC,UKKE
+5294,Mykolaiv International Airport,Nikolayev,Ukraine,NLV,UKON
+5306,Ulyanovsk Baratayevka Airport,Ulyanovsk,Russia,ULV,UWLL
+5308,Birrfeld Airport,Birrfeld,Switzerland,\N,LSZF
+5324,Interlaken Air Base,Interlaken,Switzerland,ZIN,LSMI
+5325,Inisheer Aerodrome,Inisheer,Ireland,INQ,EIIR
+5326,Strezhevoy Airport,Strezhevoy,Russia,SWT,UNSS
+5331,Pápa Air Base,Papa,Hungary,\N,LHPA
+5332,Whiting Field Naval Air Station South Airport,Cuxhaven,Germany,\N,KNDZ
+5400,Nabern/Teck Airport,Kirchheim-Teck,Germany,\N,EDTN
+5530,Batagay Airport,Batagay,Russia,BQJ,UEBB
+5583,Ecuvillens Airport,Ecuvillens,Switzerland,\N,LSGE
+5592,Svea Airport,Sveagruva,Svalbard,\N,ENSA
+5593,Ny-Ålesund Airport (Hamnerabben),Ny-Alesund,Svalbard,\N,ENAS
+5594,Hatay Airport,Hatay,Turkey,HTY,LTDA
+5595,Kihnu Airfield,Kihnu,Estonia,\N,EEKU
+5596,Ruhnu Airfield,Ruhnu,Estonia,\N,EERU
+5600,Lleida-Alguaire Airport,Lleida,Spain,ILD,LEDA
+5601,Ouessant Airport,Ouessant,France,\N,LFEC
+5602,Bildudalur Airport,Bildudalur,Iceland,BIU,BIBD
+5603,Gjögur Airport,Gjogur,Iceland,GJR,BIGJ
+5604,Sauðárkrókur Airport,Saudarkrokur,Iceland,SAK,BIKR
+5605,Selfoss Airport,Selfoss,Iceland,\N,BISF
+5606,Inishmaan Aerodrome,Inishmaan,Ireland,IIA,EIMN
+5610,Vologda Airport,Vologda,Russia,VGD,ULWW
+5611,Severo-Evensk Airport,Evensk,Russia,\N,UHMW
+5612,Olenyok Airport,Olenyok,Russia,ONK,UERO
+5613,Saskylakh Airport,Saskylakh,Russia,SYS,UERS
+5614,Leshukonskoye Airport,Arkhangelsk,Russia,LDG,ULAL
+5615,Nizhneangarsk Airport,Nizhneangarsk,Russia,\N,UIUN
+5616,Vanavara Airport,Vanavara,Russia,\N,UNIW
+5617,Aykhal Airport,Aykhal,Russia,\N,UERA
+5618,Uktus Airport,Yekaterinburg,Russia,\N,USSK
+5619,Baykit Airport,Baykit,Russia,\N,UNIB
+5620,Biysk Airport,Biysk,Russia,\N,UNBI
+5621,Huesca/Pirineos Airport,Huesca,Spain,HSK,LEHC
+5622,Ciudad Real Central Airport,Ciudad Real,Spain,CQM,LERL
+5624,Colonsay Airstrip,Colonsay,United Kingdom,CSA,EGEY
+5629,Tresco Heliport,Tresco,United Kingdom,\N,EGHT
+5642,Kherson International Airport,Kherson,Ukraine,KHE,UKOH
+5654,Würzburg-Schenkenturm Airport,Wuerzburg,Germany,\N,EDFW
+5655,São Jacinto Airport,Aveiro,Portugal,\N,LPAV
+5656,Hopsten Air Base,Hopsten,Germany,\N,ETNP
+5714,Dyagilevo Air Base,Kostroma,Russia,\N,UUBD
+5735,Wangen-Lachen Airport,Wangen-Lachen,Switzerland,\N,LSPV
+5745,Courtelary Airport,Courtelary ,Switzerland,\N,LSZJ
+5746,Lotnisko Korne,Koszalin,Poland,\N,EPKO
+5756,Fréjus Airport,Frejus,France,FRJ,LFTU
+5758,Mezen Airport,Mezen,Russia,\N,ULAE
+5759,Vaskovo Airport,Arkhangelsk,Russia,\N,ULAH
+5761,Brumowski  Air Base,Tulln,Austria,\N,LOXT
+5766,London Heliport,London,United Kingdom,\N,EGLW
+5767,Venice-Lido Airport,Venice,Italy,\N,LIPV
+5768,Tallinn Linnahall Heliport,Tallinn,Estonia,\N,EECL
+5769,Hernesaari Heliport,Helsinki,Finland,\N,EFHE
+5770,Linkenheim Airport,Linkenheim,Germany,\N,EDRI
+5772,Hilversum Airfield,Hilversum,Netherlands,\N,EHHV
+5774,Texel Airfield,Texel,Netherlands,\N,EHTX
+5775,La Cerdanya Airport,Das i Fontanals de Cerdanya,Spain,\N,LECD
+5777,Stary Oskol Airport,Stary Oskol,Russia,\N,UUOS
+5780,Cheremshanka Airport,Krasnoyarsk,Russia,\N,UNKM
+5782,Oristano-Fenosu Airport,Oristano,Italy,FNU,LIER
+5783,White Waltham Airfield,Maidenhead,United Kingdom,\N,EGLM
+5791,Engels heliport,Ebenhofen,Germany,\N,EBEN
+5792,Emporia Municipal Airport,Kempten,Germany,EMP,KEMP
+5793,Skå-Edeby Airport,Essen,Germany,\N,ESSE
+5794,Wycombe Air Park,Wycombe,United Kingdom,HYC,EGTB
+5795,Bembridge Airport,Bembridge,United Kingdom,BBP,EGHJ
+5798,Westkapelle heliport,Knokke,Belgium,\N,EBKW
+5800,Oksywie Military Air Base,Gdynia,Poland,QYD,EPOK
+5801,Malbork Military Air Base,Malbork,Poland,\N,EPMB
+5802,Lask Military Air Base,Lask,Poland,\N,EPLK
+5803,Miroslawiec Military Air Base,Miroslawiec,Poland,\N,EPMI
+5804,Krzesiny Military Air Base,Poznan,Poland,\N,EPKS
+5808,Zonguldak Airport,Zonguldak,Turkey,ONQ,LTAS
+5814,Hunt Field,Lindau,Germany,LND,KLND
+5815,Hoogeveen Airfield,Hoogeveen,Netherlands,\N,EHHO
+5816,Teuge Airport,Deventer,Netherlands,\N,EHTE
+5817,Midden-Zeeland Airport,Middelburg,Netherlands,\N,EHMZ
+5818,Ameland Airfield,Ameland,Netherlands,\N,EHAL
+5819,Saint-Cyr-l'École Airport,Saint-Cyr,France,\N,LFPZ
+5828,Kirovograd Airport,Kirovograd,Ukraine,KGO,UKKG
+5829,Roitzschjora Airfield,Roitzschjora,Germany,\N,EDAW
+5833,Chkalovskiy Air Base,Shchyolkovo,Russia,CKL,UUMU
+5835,Belbek Airport,Sevastopol,Ukraine,UKS,UKFB
+5836,De Peel Air Base,Deurne,Netherlands,\N,EHDP
+5840,Stafsberg Airport,Hamar,Norway,HMR,ENHA
+5841,Ringebu Airfield Frya,Frya,Norway,\N,ENRI
+5849,Strasbourg Neuhof Airfield,Strasbourg Neudorf,France,\N,LFGC
+5850,Nannhausen Airport,Nannhausen,Germany,\N,EDRN
+5854,Marl-Loemühle Airfield,Recklinghausen,Germany,\N,EDLM
+5855,Färila Air Base,Farila,Sweden,\N,ESNF
+5856,Lahr Airport,Lahr,Germany,LHA,EDTL
+5865,Regensburg-Oberhub Airport,Regensburg,Germany,\N,EDNR
+5873,Cochstedt Airport,Cochstedt,Germany,CSO,EDBC
+5877,Benešov Airport,Benesov,Czech Republic,\N,LKBE
+5883,Kerch Airport,Kerch,Ukraine,KHC,UKFK
+5899,Gostomel Airport,Kiev,Ukraine,GML,UKKM
+5901,Landshut Airport,Landshut,Germany,\N,EDML
+5902,Itzehoe/Hungriger Wolf Airport,Itzehoe,Germany,\N,EDHF
+5903,Radom Airport,RADOM,Poland,RDO,EPRA
+5909,Allstedt Airport,Allstedt,Germany,\N,EDBT
+5911,Peine-Eddesse Airport,Peine,Germany,\N,EDVP
+5918,Spremberg-Welzow Airport,Welzow,Germany,\N,EDCY
+5927,Megève Airport,Verdun,France,MVV,LFHM
+5928,Méribel Altiport,Ajaccio,France,MFX,LFKX
+5932,Rotenburg (Wümme) Airport,Rotenburg Wuemme,Germany,\N,EDXQ
+5933,Wipperfürth-Neye Airport,Wipperfuerth,Germany,\N,EDKN
+5934,Osnabrück-Atterheide Airport,Osnabrueck,Germany,\N,EDWO
+5935,Flugplatz Ballenstedt,Ballenstedt,Germany,\N,EDCB
+5936,Flugplatz Hartenholm,Hasenmoor,Germany,\N,EDHM
+5937,Ganderkesee Atlas Airfield,Ganderkesee,Germany,\N,EDWQ
+5938,Nienburg-Holzbalge Airport,Nienburg Weser,Germany,\N,EDXI
+5939,Damme Airfield,Damme,Germany,\N,EDWC
+5940,Borkenberge Airport,Duelmen,Germany,\N,EDLB
+5941,Obermehler-Schlotheim Airport,Obermehler,Germany,\N,EDCO
+5942,Hodenhagen Airport,Hodenhagen,Germany,\N,EDVH
+5943,Grube Airport,Grube,Germany,\N,EDHB
+5944,Tønder Airport,Toender,Denmark,\N,EKTD
+5945,Celle-Arloh Airport,Celle,Germany,\N,EDVC
+5946,Uelzen Airport,Uelzen,Germany,\N,EDVU
+5947,Hamm-Lippewiesen Airport,Hamm,Germany,\N,EDLH
+5948,Lüsse Airport,Luesse,Germany,\N,EDOJ
+5949,Porta Westfalica Airport,Bad Oeynhausen,Germany,\N,EDVY
+5950,Brilon/Hochsauerlandkreis Airfield,Brilon,Germany,\N,EDKO
+5951,Hameln-Pyrmont Airport,Bad Pyrmont,Germany,\N,EDVW
+5952,Nordholz-Spieka Airfield,Cuxhaven,Germany,\N,EDXN
+5953,Köthen Airport,Koethen,Germany,KOQ,EDCK
+5954,St. Michaelisdonn Airport,Sankt Michaelisdonn,Germany,\N,EDXM
+5955,Salzgitter-Drütte Airport,Salzgitter,Germany,\N,EDVS
+5956,Karlshöfen Airport,Karlshoefen,Germany,\N,EDWK
+5957,Oldenburg-Hatten Airfield,Oldenburg,Germany,\N,EDWH
+5958,Rinteln Airport,Rinteln,Germany,\N,EDVR
+5959,Münster-Telgte Airport,Muenster,Germany,\N,EDLT
+5960,St. Peter-Ording Airport,Sankt Peter-Ording,Germany,PSH,EDXO
+5961,Lüchow-Rehbeck Airport,Luechow,Germany,\N,EDHC
+5962,Klietz/Scharlibbe Airport,Scharlibbe,Germany,\N,EDCL
+5963,Burg Airport,Burg,Germany,\N,EDBG
+5966,Bad Neuenahr-Ahrweiler Airfield,Bad Neuenahr,Germany,\N,EDRA
+5967,Bad Dürkheim Airport,Bad Duerkheim,Germany,\N,EDRF
+5971,Leverkusen Airport,Leverkusen,Germany,\N,EDKL
+5972,Wershofen/Eifel Airfield,Wershofen,Germany,\N,EDRV
+5991,Bolshoye Gryzlovo Airfield,Stupino,Russia,\N,UUDG
+5993,Mykines Heliport,Mykines,Faroe Islands,\N,EKMS
+5995,Seppe Airfield,Bosschenhoofd,Netherlands,\N,EHSE
+5996,St Stephan Airport,St.Stephan,Switzerland,\N,LSTS
+5998,IAR Gimbav Heliport,Brasov,Romania,\N,LRBG
+6002,Como (Idroscalo - Water Ad) Hidroport,Como,Italy,\N,LILY
+6009,Vinnytsia/Gavyryshivka Airport,Vinnitsa,Ukraine,VIN,UKWW
+6052,Gazipaşa Airport,Alanya,Turkey,GZP,LTGP
+6093,Compton Abbas Aerodrome,Shaftesbury,United Kingdom,\N,EGHA
+6094,Suprunovka Airport,Poltava,Ukraine,PLV,UKHP
+6102,Turukhansk Airport,Turukhansk,Russia,THX,UOTT
+6103,Podkamennaya Tunguska Airport,Bor,Russia,TGP,UNIP
+6106,Kolpashevo Airport,Kolpashevo,Russia,\N,UNLL
+6137,Glasgow City Heliport,Glasgow,United Kingdom,\N,EGEG
+6143,Modlin Airport,Warsaw,Poland,WMI,EPMO
+6148,Tura Mountain Airport,Tura,Russia,\N,UNIT
+6149,Beloyarskiy Airport,Beloyarsky,Russia,EYK,USHY
+6152,Gera-Leumnitz Airfield,Gera,Germany,\N,EDAJ
+6153,Kasimovo Airfield,Saint-Petersburg,Russia,\N,XLLN
+6154,Terlet Glider Field,Arnhem,Netherlands,\N,EHTL
+6159,Oerlinghausen Airport,TELGTE,Germany,\N,EDLO
+6162,Balzers Heliport,Balzers,Switzerland,\N,LSXB
+6163,Flugplatz Punitz,Punitz-Guessing,Austria,\N,LOGG
+6164,Khmelnytskyi Airport,Khmeinitskiy,Ukraine,HMJ,UKLH
+6173,Grabtsevo Airport,Kaluga,Russia,KLF,UUBC
+6180,Fuerstenwalde Airport,Furstenwalde,Germany,\N,EDAL
+6181,Eberswalde-Finow Airport,Eberswalde,Germany,\N,EDAV
+6216,Orlampa Inc Airport,Forties Alpha,United Kingdom,\N,FA08
+6219,Saarmund Airport,Saarmund,Germany,\N,EDCS
+6223,Pont Sur Yonne Airfield,Pont Sur Yonne,France,\N,LFGO
+6224,St Florentin Cheu Airfield,St Florentin Cheu,France,\N,LFGP
+6225,Saulieu Liernais Airfield,Saulieu,France,\N,LFEW
+6226,Olten Airport,Olten,Switzerland,\N,LSPO
+6227,Buochs Airport,Buochs,Switzerland,BXO,LSZC
+6228,Ambri Airport,Quinto,Switzerland,\N,LSPM
+6229,Lodrino Air Base,Lodrino,Switzerland,\N,LSML
+6230,Roudnice Airport,Roudnice nad Lebem,Czech Republic,\N,LKRO
+6231,Usti Nad Labem Airfield,Usti Nad Labem,Czech Republic,\N,LKUL
+6232,Mauterndorf Airport,Mauterndorf,Austria,\N,LOSM
+6233,Nötsch Im Gailtal Airport,Notsch Im Gailtal,Austria,\N,LOKN
+6234,Sinsheim Airfield,Karlsruhe,Germany,\N,EDTK
+6235,Weinheim/Bergstraße Airport,Weinheim,Germany,\N,EDGZ
+6236,Meaux Esbly Airport,Meaux,France,\N,LFPE
+6237,Château-Thierry - Belleau Airfield,Chateau-Thierry,France,\N,LFFH
+6246,Inowroclaw Military Air Base,Inowroclaw,Poland,\N,EPIR
+6247,Pruszcz Gdanski Air Base,Pruszcz Gdansk,Poland,\N,EPPR
+6258,Ostafyevo International Airport,Moscow,Russia,OSF,UUMO
+6264,Perth/Scone Airport,Perth,United Kingdom,PSL,EGPT
+6265,Caernarfon Airport,Caernarfon,United Kingdom,\N,EGCK
+6266,Grefrath-Niershorst Airport,Grefrath,Germany,\N,EDLF
+6268,Söderhamn Airport,Soderhamn,Sweden,SOO,ESNY
+6269,Newcastle Aerodrome,Newcastle,Ireland,\N,EINC
+6271,Segeletz Airport,Segeletz,Germany,\N,EDAI
+6272,Fuentemilanos Airport,Segovia,Spain,\N,LEFM
+6274,Ust-Kamchatsk Airport,Ust Kamchatsk,Russia,\N,UHPK
+6276,Kozyrevsk Airport,Kozyrevsk,Russia,\N,UHPO
+6277,Dikson Airport,Dikson,Russia,DKS,UODD
+6279,Bantry Aerodrome,Bantry,Ireland,BYT,EIBN
+6298,Ust-Tsylma Airport,Ust-Tsylma,Russia,UTS,UUYX
+6299,Gorno-Altaysk Airport,Gorno-Altaysk,Russia,RGK,UNBG
+6303,Mys Shmidta Airport,Mys Shmidta,Russia,\N,UHMI
+6304,Moma Airport,Honuu,Russia,MQJ,UEMA
+6306,Peenemünde Airport,Peenemunde,Germany,PEF,EDCP
+6307,Góraszka Airport,Goraszka,Poland,\N,EPGO
+6320,Typliy Klyuch Airport,Khandyga,Russia,KDY,UEMH
+6321,Magan Airport,Yakutsk,Russia,GYG,UEMM
+6323,Cooma Hospital Helipad,Yuzhno-Kurilsk,Russia,\N,YXCM
+6340,Duxford Aerodrome,Duxford,United Kingdom,QFO,EGSU
+6352,Lublin Airport,Lublin,Poland,LUZ,EPLB
+6360,Lošinj Island Airport,Mali Losinj,Croatia,LSZ,LDLO
+6364,Fairoaks Airport,Fairoaks,United Kingdom,\N,EGTF
+6366,Neustadt-Glewe Airport,Neustadt-Glewe,Germany,\N,EDAN
+6367,Goetsenhoven Air Base,GOETSENHOVEN,Belgium,\N,EBTN
+6368,Tutow Airport,Wildenrath,Germany,\N,EDUW
+6369,Bremgarten Airport,Bremgarten,Germany,\N,EDTG
+6370,Bitburg Airport,Birburg,Germany,BBJ,EDRB
+6372,Ust-Nera Airport,Ust-Nera,Russia,USR,UEMT
+6373,Letiště Vysoké Mýto,Vysoke Myto,Czech Republic,\N,LKVM
+6374,Spa (la Sauvenière) Airfield,Spa,Belgium,\N,EBSP
+6378,Namur-Suarlée Airfield,Namur,Belgium,\N,EBNM
+6379,Kiewit Airfield Hasselt,Hasselt,Belgium,\N,EBZH
+6390,Rochester Airport,Rochester,United Kingdom,RCS,EGTO
+6394,Velikiy Ustyug Airport,Veliky Ustyug,Russia,VUS,ULWU
+6400,Rothera Research Station,Rothera Research Station,United Kingdom,\N,EGAR
+6401,Sortavala Airport,Sortavala,Russia,\N,ULPW
+6404,Bodaybo Airport,Bodaibo,Russia,ODO,UIKB
+6405,Zhytomyr Airport,Zhytomyr,Ukraine,ZTR,UKKV
+6406,Paluknys Airport,Paluknys,Lithuania,\N,EYVP
+6416,Beccles Airport,Beccles,United Kingdom,\N,EGSM
+6422,RAF Brawdy,Brawdy,United Kingdom,\N,EGDA
+6424,Redhill Aerodrome,Redhill,United Kingdom,KRH,EGKR
+6430,Enstone Aerodrome,Enstone,United Kingdom,\N,EGTN
+6440,Reichenbach Air Base,Reichenbach im Kandertal,Switzerland,\N,LSGR
+6442,Lensk Airport,Lensk,Russia,ULK,UERL
+6443,Kavalerovo Airport,Kavalerovo,Russia,KVR,UHWK
+6444,Iğdır Airport,Igdir,Turkey,IGD,LTCT
+6445,Şanlıurfa GAP Airport,Sanliurfa,Turkey,GNY,LTCS
+6446,Zafer Airport,Kutahya,Turkey,KZR,LTBZ
+6447,Velikiye Luki Airport,Velikiye Luki,Russia,VLU,ULOL
+6449,Yeltsovka Airport,Novosibirsk,Russia,\N,UNNE
+6450,Kodinsk Airport,Kodinsk,Russia,\N,UNKI
+6455,Endelave Flyveplads,Endelage,Denmark,\N,EKEL
+6456,St. Johann In Tirol Airport,St. Johann in Tirol,Austria,\N,LOIJ
+6457,Thalmässing-Waizenhofen Airport,Thalmaessing,Germany,\N,EDPW
+6461,Srednekolymsk Airport,Srednekolymsk,Russia,SEK,UESK
+6465,Ansbach-Petersdorf Airport,Ansbach,Germany,\N,EDQF
+6473,Klatovy Airport,Klatovy,Czech Republic,\N,LKKT
+6478,Chara Airport,Chara,Russia,\N,UIAR
+6479,Herning Airport,Herning,Denmark,\N,EKHG
+6480,Oberschleißheim Airfield,Schleissheim,Germany,\N,EDNX
+6484,Verden-Scharnhorst Airfield,Verden,Germany,\N,EDWV
+6486,Nittenau-Bruck Airport,Nittenau,Germany,\N,EDNM
+6490,Adamovka,Adamovka,Russia,\N,UWOD
+6491,Kvarkeno,Kvarkeno,Russia,\N,UWOH
+6517,Neumünster Airport,Neumuenster,Germany,EUM,EDHN
+6533,Bubovice Airport,Bubovice,Czech Republic,\N,LKBU
+6534,Rakkestad Astorp Airport,Rakkestad,Norway,\N,ENRK
+6535,Bingöl Çeltiksuyu Airport,Bingol,Turkey,BGG,LTCU
+6536,Kastamonu Airport,Kastamonu,Turkey,KFS,LTAL
+6537,Elstree Airfield,Elstree,United Kingdom,\N,EGTR
+6538,Sandtoft Airfield,Sandtoft,United Kingdom,\N,EGCF
+6544,Vängsö Airport,Vangso,Sweden,\N,ESSZ
+6545,Comiso Airport,Comiso,Italy,CIY,LICB
+6547,Markovo Airport,Markovo,Russia,KVM,UHMO
+6548,Seymchan Airport,Seymchan,Russia,\N,UHMS
+6549,Zyryanka Airport,Zyryanka,Russia,ZKP,UESU
+6550,Susuman Airport,Susuman,Russia,\N,UHMH
+6551,Ust-Maya Airport,Ust-Maya,Russia,UMS,UEMU
+6552,Aldan Airport,Aldan,Russia,ADH,UEEA
+6553,Olyokminsk Airport,Olekminsk,Russia,OLZ,UEMO
+6554,Vitim Airport,Vitim,Russia,\N,UERT
+6555,Pellworm Field,Pellworm,Germany,\N,EDHP
+6558,Fontaine Airport,Belfort,France,BOR,LFSQ
+6563,Norðfjörður Airport,Nordfjordur,Iceland,NOR,BINF
+6564,Bursa Airport,Bursa,Turkey,BTZ,LTBE
+6568,La Ferté Alais Airfield,La Ferte Alais,France,\N,LFFQ
+6591,Guatuso Airport,Marigot,France,\N,MRGT
+6592,Central Bolívar Airport,Sevilla,Spain,\N,SVSJ
+6594,Tuzla Romania Airport,Tuzla,Romania,\N,LRTZ
+6612,Popham Airfield,Popham,United Kingdom,\N,EGHP
+6650,Yerbogachen Airport,Yerbogachen,Russia,ERG,UIKE
+6655,Şırnak Şerafettin Elçi Airport,Cizre,Turkey,NKT,LTCV
+6656,Suntar Airport,Suntar,Russia,SUY,UENS
+6676,City Airport Manchester,Manchester,United Kingdom,\N,EGCB
+6677,Sleap Airport,Shrewsbury,United Kingdom,\N,EGCV
+6678,Tatenhill Airfield,Burton-on-Trent,United Kingdom,\N,EGBM
+6679,Full Sutton Airfield,York,United Kingdom,\N,EGNU
+6680,Sherburn-In-Elmet Airfield,Leeds,United Kingdom,\N,EGCJ
+6711,Kramatorsk Airport,Kramatorsk,Ukraine,KRQ,UKCK
+6712,Kautokeino Air Base,Kautokeino,Norway,QKX,ENKA
+6713,Lille/Marcq-en-Baroeul Airport,Marcq En Baroeul,France,\N,LFQO
+6740,Bagdarin Airport,Bagdarin,Russia,\N,UIUB
+6744,Semyazino Airport,Vladimir,Russia,\N,UUBL
+6749,Yeysk Airport,Eysk,Russia,EIK,URKE
+6750,Berdyansk Airport,Berdyansk,Ukraine,ERD,UKDB
+6753,Shobdon Aerodrome,Shobdon,United Kingdom,\N,EGBS
+6761,Digby (General Hospital) Heliport,Tremblay-en-France,France,\N,CDG2
+6762,Thun Airport,Thun,Switzerland,\N,LSZW
+6763,Lavrentiya Airport,Lavrentiya,Russia,\N,UHML
+6767,Kymi Airport,Kotka,Finland,\N,EFKY
+6776,Ota Air Base,Ota,Portugal,\N,LPOT
+6778,Elsenthal Grafe Airport,Elsenthal,Germany,\N,EDNF
+6779,Newtownards Airport,Newtownards,United Kingdom,\N,EGAD
+6780,Lashenden (Headcorn) Airfield,Headcorn,United Kingdom,\N,EGKH
+6781,Panshanger Aerodrome,Panshanger,United Kingdom,\N,EGLG
+6782,Thurrock Airfield,Thurrock,United Kingdom,\N,EGMT
+6783,Stapleford Aerodrome,Stapleford,United Kingdom,\N,EGSG
+6785,Chichester/Goodwood Airport,Goodwood,United Kingdom,QUG,EGHR
+6788,Meschede-Schüren Airport,Meschede,Germany,\N,EDKM
+6792,Skúvoy Heliport,Skuvoy,Faroe Islands,\N,EKSY
+6793,Stóra Dímun Heliport,Stora Dimun,Faroe Islands,\N,EKSR
+6794,Frooba Heliport,Frooba,Faroe Islands,\N,EKFA
+6806,Magas Airport,Magas,Russia,IGT,URMS
+6822,Stade Airport,Stade,Germany,\N,EDHS
+6825,Luzern-Beromunster Airport,Lucerne,Switzerland,\N,LSZO
+6826,La Grand'combe Airport,La Grand'Combe,France,\N,LFTN
+6830,Krasnokamensk Airport,Krasnokamensk,Russia,\N,UIAE
+6865,Olsztyn-Mazury Airport,Szczytno-Szymany,Poland,SZY,EPSY
+6869,Nordborg Flyveplads,Nordborg,Denmark,\N,EKNB
+6871,Gießen-Lützellinden Airport,Giessen,Germany,\N,EDFL
+6872,Tököl Airport,Budapest,Hungary,\N,LHTL
+6883,Lure Malbouhans Air Base,Malbouhans,France,\N,LFYL
+6938,Ordu Giresun Airport,Ordu-Giresun,Turkey,OGU,LTCB
+6939,Hakkari Yüksekova Airport,Hakkari,Turkey,YKO,LTCW
+6940,Jelenia Góra Glider Airport,Jelenia Gora,Poland,\N,EPJG
+6943,Vuktyl Airport,Vuktyl,Russia,\N,UUYK
+6944,Berezniki Airport,Berezniki,Russia,\N,USPT
+6947,Tarko-Sale Airport,Tarko-Sale,Russia,TQL,USDS
+6949,Leopoldsburg Airfield,Leopoldsburg,Belgium,\N,EBLE
+6954,Achinsk Airport,Achinsk,Russia,ACS,UNKS
+6964,Rumbula Air Base,Riga,Latvia,\N,EVRC
+6970,Gelnhausen Airport,Gelnhausen,Germany,\N,EDFG
+6971,Ærø Airport,Aero,Denmark,\N,EKAE
+6972,Lauterbach Airport,Lauterbach-Wernges,Germany,\N,EDFT
+6973,Aschaffenburg Airport,Aschaffenburg,Germany,\N,EDFC
+6975,Reichelsheim Airport,Reichelsheim,Germany,\N,EDFB
+6976,Marburg-Schönstadt Airport,Schoenstadt,Germany,\N,EDFN
+6977,Lauenbrück Airport,Lauenbrueck,Germany,\N,EDHU
+6978,Hüttenbusch Airport,Huettenbusch,Germany,\N,EDXU
+6979,Vrsar Crljenka Airport,Vsar,Croatia,\N,LDPV
+7022,Neubrandenburg Airport,Neubrandenburg,Germany,FNB,EDBN
+7023,Airport Bamberg-Breitenau,Bamberg,Germany,\N,EDQA
+7024,Zerbst Airport,Zerbst/Anhalt,Germany,\N,EDUZ
+7025,RAF Spadeadam,Spadeadam,United Kingdom,\N,EGOM
+7026,RAF Kinloss,Kinloss,United Kingdom,FSS,EGQK
+7027,Biała Podlaska Airfield,Biała Podlaska,Poland,BXP,EPBP
+7028,Cewice Air Base,Lębork,Poland,\N,EPCE
+7029,Deblin Military Air Base,Dęblin,Poland,\N,EPDE
+7030,Leczyca Military Air Base,Leczyca,Poland,\N,EPLY
+7031,Minsk Mazowiecki Military Air Base,,Poland,\N,EPMM
+7032,Powidz Military Air Base,,Poland,\N,EPPW
+7033,Tomaszow Mazowiecki Military Air Base,Tomaszów Mazowiecki,Poland,\N,EPTM
+7034,Björkvik Air Base,Björkvik,Sweden,\N,ESKX
+7035,Ljungbyhed Airport,Ljungbyhed,Sweden,\N,ESTL
+7036,Daugavpils Intrenational Airport,Daugavpils,Latvia,DGP,EVDA
+7037,Jēkabpils Air Base,Jēkabpils,Latvia,\N,EVKA
+7038,Jūrmala Airport,Tukums,Latvia,\N,EVTA
+7039,Kėdainiai Air Base,Kėdainiai,Lithuania,\N,EYKD
+7115,Cuatro Vientos Airport,Madrid,Spain,ECV,LECU
+7116,Castellón-Costa Azahar Airport,Castellón de la Plana,Spain,CDT,LEDS
+7117,Teruel Airport,Teruel,Spain,TEV,LETL
+7118,Blois-Le Breuil Airport,Blois/Le Breuil,France,\N,LFOQ
+7119,Trento-Mattarello Airport,Trento (TN),Italy,\N,LIDT
+7120,Alessandria Airport,Alessandria,Italy,\N,LILA
+7121,Biella-Cerrione Airport,Biella (BI),Italy,\N,LILE
+7122,Vercelli Airport,Vercelli,Italy,\N,LILI
+7123,Casale Monferrato Airport,Casale Monferrato,Italy,\N,LILM
+7124,Varese-Venegono Airport,Varese,Italy,\N,LILN
+7125,Novi Ligure Airport,Novi Ligure,Italy,\N,LIMR
+7126,Sarzana-Luni Air Base,Sarzana (SP),Italy,QLP,LIQW
+7127,Câmpia Turzii Air Base,Câmpia Turzii,Romania,\N,LRCT
+7128,Mărculeşti International Airport,Mărculeşti,Moldova,\N,LUBM
+7129,Cahul International Airport,Cahul,Moldova,\N,LUCH
+7130,Tiraspol Airport,Tiraspol,Moldova,\N,LUTR
+7131,Batajnica Air Base,Batajnica,Serbia,BJY,LYBT
+7189,Kyzyl-Syr Airport,Kyzyl-Syr,Russia,\N,UENK
+7190,Vilyuisk Airport,Vilyuisk,Russia,VYI,UENW
+7191,Belaya Gora Airport,,Russia,BGN,UESG
+7192,Dzhermuk Airport,Dzhermuk,Armenia,\N,UGEJ
+7193,Kamenny Ruchey Naval Air Base,Sovetskaya Gavan,Russia,\N,UHKG
+7194,Maygatka Airport.,Sovetskaya Gavan,Russia,GVN,UHKM
+7195,Omsukchan Airport,Omsukchan,Russia,\N,UHMF
+7196,Chaybukha Airport,Chaybukha,Russia,\N,UHMG
+7197,Keperveem Airport,Keperveem,Russia,\N,UHMK
+7198,Magadan-13 Airport,Magadan,Russia,\N,UHMT
+7199,Nikolayevsk-na-Amure Airport,Nikolayevsk-na-Amure Airport,Russia,NLI,UHNN
+7200,Palana Airport,Palana,Russia,\N,UHPL
+7201,Zheleznogorsk Airport,Zheleznogorsk-Ilimsky,Russia,\N,UIBV
+7202,Gvardeyskoe Air Base,Sarabuz,Ukraine,\N,UKFG
+7203,Saki Air Base,Saki,Ukraine,\N,UKFI
+7204,Dzhankoy Airport,Dzhankoy,Ukraine,\N,UKFY
+7205,Ozerne Air Base,Zhytomyr,Ukraine,\N,UKKO
+7206,Severomorsk-1 Naval Air Base,Severomorsk,Russia,\N,ULAK
+7207,Pushkin Airport,St. Petersburg,Russia,\N,ULLP
+7208,Siversky Air Base,Siversky,Russia,\N,ULLS
+7209,Staraya Russa Air Base,Staraya Russa,Russia,\N,ULNR
+7210,Peski Airport,Petrozavodsk,Russia,\N,ULPP
+7211,Baranavichi Air Base,Baranavichi,Belarus,\N,UMMA
+7212,Babruisk Air Base,Babruisk,Belarus,\N,UMNB
+7213,Severo-Eniseysk Airport,Severo-Eniseysk,Russia,\N,UNIS
+7214,Sharypovo Airport,Sharypovo,Russia,\N,UNKO
+7215,Omsk Severny Airport,Omsk,Russia,\N,UNOS
+7216,Nagurskoye,Murmansk,Russia,\N,UODN
+7217,Svetlogorsk Airport,Svetlogorsk,Russia,\N,UOIG
+7218,Valek Airport,Valek,Russia,\N,UOOW
+7219,Khanskaya Air Base,Maykop,Russia,\N,URKH
+7220,Dudinka Airport,Dudinka,Russia,\N,UROD
+7221,Volgodonsk Airport,,Russia,VLK,URRY
+7223,Myachkovo Airport,Moscow,Russia,\N,UUBM
+7224,Tretyakovo Airport,Lukhovitsy,Russia,\N,UUMT
+7225,Yermolino Airport,Balabanovo,Russia,\N,UUWE
+7226,Inta Airport,Inta,Russia,INA,UUYI
+7227,Izhma Airport,Izhma,Russia,\N,UUYV
+7228,Borisoglebskoye Airport,Kazan,Russia,\N,UWKG
+7229,Zhigansk Airport,Zhigansk,Russia,ZIX,UWKV
+7230,Maksimovka Airport,Ufa,Russia,\N,UWUM
+7231,Buguruslan Severny Airport,Buguruslan,Russia,\N,UWWB
+7232,Bezymyanka Airfield,Samara,Russia,\N,UWWG
+7242,Soltsy-2 Air Base,Soltsy,Russia,\N,XLLL
+7243,Severomorsk-3 Naval Air Base,Severomorsk,Russia,\N,XLMV
+7244,Fedotovo Naval Air Base,Kipelovo,Russia,\N,XLWF
+7245,Lebyazhye Air Base,Kamyshin,Russia,\N,XRWL
+7246,Smolensk North Airport,Smolensk,Russia,LNX,XUBS
+7247,Rtishchevo Air Base,Rtishchevo,Russia,\N,XWPR
+7295,Bogorodskoye Airport,Bogorodskoe,Russia,BQG,UHNB
+7300,Bressaucourt Airport,Bressaucourt-Porrentruy,Switzerland,\N,LSZQ
+7305,Arnbruck Airport,Arnbruck,Germany,\N,EDNB
+7315,Krefeld-Egelsberg Airport,Krefeld,Germany,\N,EDLK
+7325,Baltrum Airport,Baltrum,Germany,BMR,EDWZ
+7328,Liman Airfield,Odesa,Ukraine,\N,UKOE
+7329,Lognes Emerainville Airport,Lognes,France,\N,LFPL
+7339,Sabetta International Airport,Sabetta,Russia,SBT,USDA
+7341,El Fuentero Airport,Svenborg,Denmark,\N,SVFT
+7342,Sturgate Airfield,Eger,Hungary,\N,EGCS
+7357,Vogtareuth Airport,Vogtareuth,Germany,\N,EDNV
+7365,Shushenskoye Airport,Shushenskoye,Russia,\N,UNAU
+7366,Stockerau Airport,Stockerau,Austria,\N,LOAU
+7367,Klaipėda Airport,Klaipeda,Lithuania,KLJ,EYKL
+7372,Cenej Airport,Novi Sad,Serbia,QND,LYNS
+7373,Grundarfjörður Airport,Grundarfjordur,Iceland,GUU,BIGF
+7377,Tórshavn/Bodanes Heliport,Torshavn,Faroe Islands,\N,EKTB
+7379,RAF Mona,Mona,United Kingdom,\N,EGOQ
+7380,Rerik-Zweedorf Airport,Rerik,Germany,\N,EDCR
+7398,Budaörs Airfield,Budaoers,Hungary,\N,LHBS
+7399,Jakabszállás Airport,Jakabszallas,Hungary,\N,LHJK
+7400,St. Helena Airport,Longwood,United Kingdom,HLE,FHSH
+7401,Bonn-Hangelar Airport,Sankt-Augustin,Germany,BNJ,EDKB
+7402,Nogliki Airport,Nogliki,Russia,NGK,UHSN
+7406,Northeim Airport,Northeim,Germany,\N,EDVN
+7407,Reggio Emilia Airport,Reggio Emilia,Italy,\N,LIDE
+7418,Torgau-Beilrode Airport,Gransee,Germany,\N,EDOG
+7486,Anholt Airport,Anholt,Denmark,\N,EKAT
+7487,St Pierre d'Oléron Airfield,Saint Pierre d'Oleron,France,\N,LFDP
+7488,Semur En Auxois Airfield,Semur en Auxois,France,\N,LFGQ
+7490,Pyramiden Heliport,Pyramiden,Norway,\N,ENPY
+7491,Lipki Air Base,Minsk,Belarus,\N,UMMI
+7492,Zermatt  Heliport,Zermatt,Switzerland,\N,LSEZ
+7493,Nikolskoye Airport,Nikolskoye,Russia,\N,UHPX
+7494,Tilichiki Airport,Tilichiki,Russia,\N,UHPT
+7495,Nyurba Airport,Nyurba,Russia,NYR,UENN
+7496,Sakkyryr Airport,Batagay-Alyta,Russia,SUK,UEBS
+7497,Ust-Kuyga Airport,Ust-Kuyga,Russia,UKG,UEBT
+7498,Verkhnevilyuisk Airport,Verkhnevilyuysk,Russia,VHV,UENI
+7499,Mendeleyevo Airport,Yuzhno-Kurilsk,Russia,DEE,UHSM
+7500,Yamburg Airport,Yamburg,Russia,\N,USMQ
+7501,Shakhtyorsk Airport,Shakhtyorsk,Russia,EKS,UHSK
+7502,Talakan Airport,Talakan,Russia,TLK,UECT
+7503,Mama Airport,Mama,Russia,\N,UIKM
+7504,Aarhus Seaplne Terminal,Aarhus,Denmark,\N,EKAC
+7513,Suwałki Airport,Suwalki,Poland,\N,EPSU
+7600,Jastarnia Airport,Jastarnia,Poland,\N,EPJA
+7622,Algeciras Heliport,Algeciras,Spain,AEI,LEAG
+7623,Chepelevka Airport,Uzyn,Ukraine,\N,UKKH
+7629,Istanbul Airport,Istanbul,Turkey,IST,LTFM
+7632,Engeløy Airport,Engeløy,Norway,\N,ENEN
+7638,Aerodromo de Castelo Branco,Castelo Branco,Portugal,\N,LPCB
+7639,Ponte de Sor Airport,Ponte de Sôr,Portugal,\N,LPSO
+7640,Vilar de Luz Airfield,Maia,Portugal,\N,LPVL
+7658,Kirkjubæjarklaustur Airport,Kirkjubaejarklaustur ,Iceland,\N,BIKL
+7661,Pertominsk Airport,Pertominsk,Russia,\N,ULAT
+7664,Klaksvik Heliport,Klaksvik,Faroe Islands,\N,EKKV
+7669,Región de Murcia International Airport,Murcia,Spain,RMU,LEMI
+7677,Osovtsy Air Base,Byaroza,Belarus,\N,UMMO
+7681,Lefkoniko Airport,Geçitkale,Cyprus,GEC,LCGK
+7683,Kalocsa/Foktő Airport,Kalocsa/Foktő,Hungary,\N,LHKA
+7690,Kostomuksha Airport,Kostomuksha,Russia,\N,ULPM
+7691,Privolzhskiy Air Base,Astrakhan,Russia,\N,XRAP
+7692,Kubinka Air Base,Kubinka,Russia,\N,UUMB
+7693,Rogachyovo Air Base,Belaya,Russia,\N,ULDA
+7694,Ulan-Ude East Airport,Ulan Ude,Russia,\N,XIUW
+7695,Krechevitsy Air Base,Novgorod,Russia,\N,ULLK
+7697,Melitopol Air Base,Melitopol,Ukraine,\N,UKDM
