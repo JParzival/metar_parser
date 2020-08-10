@@ -7,6 +7,8 @@ import psycopg2
 import yaml
 
 airports_spain = pd.read_csv('./data/airports_spain.csv')[['ICAO', 'City']]
+airports_portugal_gibraltar = pd.read_csv('./data/airports_portugal_gibraltar.csv')[['ICAO', 'City']]
+airports_italy = pd.read_csv('./data/airports_italy.csv')[['ICAO', 'City']]
 
 #https://avwx.rest/
 
@@ -14,6 +16,13 @@ airports_spain = pd.read_csv('./data/airports_spain.csv')[['ICAO', 'City']]
 
 with open('./keys/keys.yml') as file:
     keys = yaml.load(file)
+
+conn = psycopg2.connect(
+    host=keys['pghost'],
+    database="metar",
+    port=35728,
+    user=keys['pguser'],
+    password=keys['pgpass'])
 
 headers = {
   'Authorization': keys['key1'],
@@ -25,23 +34,21 @@ headers2 = {
   'Content-Type': 'application/json'
 }
 
+headers3 = {
+  'Authorization': keys['key3'],
+  'Content-Type': 'application/json'
+}
+
 reporting = "true"
 formatting = "json"
 onfail = "cache"
 
-conn = psycopg2.connect(
-    host=keys['pghost'],
-    database="metar",
-    port=35728,
-    user=keys['pguser'],
-    password=keys['pgpass'])
-
 # MAIN TASK
 
-def parseo (url, city):
+def parseo (url, city, headers_touse):
     print(city)
     #Request
-    response = requests.get( url, headers = headers, verify=False )
+    response = requests.get( url, headers = headers_touse, verify=False )
     if response.status_code == 200:
         json_response = json.loads(response.text)
 
@@ -113,11 +120,41 @@ warnings.simplefilter("ignore")
 
 for airport in airports_spain.itertuples():
     url = "https://avwx.rest/api/metar/" + airport[1] + "?reporting=" + reporting + "&format=" + formatting + "&onfail=" + onfail
-    data = parseo(url, airport[2])
+    data = parseo(url, airport[2], headers)
     if data == None:
         continue
     else:
-        print(data)
+        try:
+            cur = conn.cursor()
+            cur.execute(sql_sentences['insert_table'], data)
+            conn.commit()
+            cur.close()
+        except Exception as e:
+            print(e)
+            conn.rollback()
+
+for airport in airports_portugal_gibraltar.itertuples():
+    url = "https://avwx.rest/api/metar/" + airport[1] + "?reporting=" + reporting + "&format=" + formatting + "&onfail=" + onfail
+    data = parseo(url, airport[2], headers2)
+    if data == None:
+        continue
+    else:
+        try:
+            cur = conn.cursor()
+            cur.execute(sql_sentences['insert_table'], data)
+            conn.commit()
+            cur.close()
+        except Exception as e:
+            print(e)
+            conn.rollback()
+
+for airport in airports_italy.itertuples():
+    url = "https://avwx.rest/api/metar/" + airport[1] + "?reporting=" + reporting + "&format=" + formatting + "&onfail=" + onfail
+    data = parseo(url, airport[2], headers3)
+    print(data)
+    if data == None:
+        continue
+    else:
         try:
             cur = conn.cursor()
             cur.execute(sql_sentences['insert_table'], data)
