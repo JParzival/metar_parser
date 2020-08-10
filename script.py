@@ -27,7 +27,7 @@ headers2 = {
 
 reporting = "true"
 formatting = "json"
-onfail = "error"
+onfail = "cache"
 
 conn = psycopg2.connect(
     host=keys['pghost'],
@@ -39,12 +39,10 @@ conn = psycopg2.connect(
 # MAIN TASK
 
 def parseo (url, city):
-    
+    print(city)
     #Request
     response = requests.get( url, headers = headers, verify=False )
-    if response.status_code == 400 or response.status_code == 204:
-        return None
-    else:
+    if response.status_code == 200:
         json_response = json.loads(response.text)
 
         #Parsing
@@ -94,7 +92,9 @@ def parseo (url, city):
                              wind_direction_var_2, wind_direction_var_2_unit, visibility_str, visibility_number, 
                              visibility_unit, temperature, temperature_unit, remarks, flight_rules)
         return readyforinsertion
-
+    else:
+        return None
+        
 # EXECUTION
 
 with open('./sql.yml') as file:
