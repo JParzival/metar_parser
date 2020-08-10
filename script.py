@@ -5,6 +5,10 @@ from simplejson import JSONDecodeError
 import warnings
 import psycopg2
 import yaml
+import time 
+from datetime import datetime
+
+print(datetime.now())
 
 airports_spain = pd.read_csv('./data/airports_spain.csv')[['ICAO', 'City']]
 airports_portugal_gibraltar = pd.read_csv('./data/airports_portugal_gibraltar.csv')[['ICAO', 'City']]
@@ -118,9 +122,11 @@ except:
 
 warnings.simplefilter("ignore")
 
+print("SPAIN")
 for airport in airports_spain.itertuples():
     url = "https://avwx.rest/api/metar/" + airport[1] + "?reporting=" + reporting + "&format=" + formatting + "&onfail=" + onfail
     data = parseo(url, airport[2], headers)
+    print(airport[1])
     if data == None:
         continue
     else:
@@ -133,9 +139,11 @@ for airport in airports_spain.itertuples():
             print(e)
             conn.rollback()
 
+print("PORTUGAL")
 for airport in airports_portugal_gibraltar.itertuples():
     url = "https://avwx.rest/api/metar/" + airport[1] + "?reporting=" + reporting + "&format=" + formatting + "&onfail=" + onfail
     data = parseo(url, airport[2], headers2)
+    print(airport[1])
     if data == None:
         continue
     else:
@@ -144,14 +152,14 @@ for airport in airports_portugal_gibraltar.itertuples():
             cur.execute(sql_sentences['insert_table'], data)
             conn.commit()
             cur.close()
-        except Exception as e:
-            print(e)
-            conn.rollback()
+        except:
+            input("press here")
 
+print("ITALY")
 for airport in airports_italy.itertuples():
     url = "https://avwx.rest/api/metar/" + airport[1] + "?reporting=" + reporting + "&format=" + formatting + "&onfail=" + onfail
     data = parseo(url, airport[2], headers3)
-    print(data)
+    print(airport[1])
     if data == None:
         continue
     else:
