@@ -64,6 +64,7 @@ def parseo (url, city):
         remarks = json_response['remarks']
         flight_rules = json_response['flight_rules']
         time = json_response['time']['dt']
+        identificadorUnico = str(time) + station
 
         clouds = []
         if not json_response['clouds']:
@@ -88,7 +89,7 @@ def parseo (url, city):
             wind_direction_var_2 = None
             wind_direction_var_2_unit = None
 
-        readyforinsertion = (metar, time, station, city, pressure, pressure_unit, clouds, wind_direction, wind_unit, 
+        readyforinsertion = (identificadorUnico, metar, time, station, city, pressure, pressure_unit, clouds, wind_direction, wind_unit, 
                              wind_speed, wind_speed_unit, wind_direction_var_1, wind_direction_var_1_unit, 
                              wind_direction_var_2, wind_direction_var_2_unit, visibility_str, visibility_number, 
                              visibility_unit, temperature, temperature_unit, remarks, flight_rules)
