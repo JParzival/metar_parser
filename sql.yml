@@ -31,6 +31,6 @@ insert_table: |-2
                         wind_direction_var_1_unit, wind_direction_var_2, wind_direction_var_2_unit,
                         visibility_str, visibility_number, visibility_unit, temperature,
                         temperature_unit, remarks, flight_rules)      
-  VALUES(%s, %s,, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, 
+  VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, 
          %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
   ON CONFLICT (identificadorUnico) DO NOTHING;
